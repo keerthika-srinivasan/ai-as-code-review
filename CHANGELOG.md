@@ -13,6 +13,7 @@ Our versioning strategy is as follows:
 
 ### 🎉 New Features & Improvements
 
+* `[sitecore-jss-nextjs]` Refactor RedirectsMiddleware for Better Extensibility ([#2040](https://github.com/Sitecore/jss/pull/2040))
 * `[sitecore-jss-nextjs]` Link component supports prefetch property ([#2039](https://github.com/Sitecore/jss/pull/2039))([#2046](https://github.com/Sitecore/jss/pull/2046))
 
 ### 🐛 Bug Fixes
