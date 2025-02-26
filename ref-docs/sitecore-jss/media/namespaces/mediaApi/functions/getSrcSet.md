@@ -41,4 +41,4 @@ More information about `srcSet`: {@link https://developer.mozilla.org/en-US/docs
 
 ## Defined in
 
-[packages/sitecore-jss/src/media/media-api.ts:128](https://github.com/Sitecore/jss/blob/c2bf4af7955ae6502bbd82bd590ced28dee62ffa/packages/sitecore-jss/src/media/media-api.ts#L128)
+[packages/sitecore-jss/src/media/media-api.ts:128](https://github.com/Sitecore/jss/blob/84abc416f155951a0c49999fba876ea38ee15ae2/packages/sitecore-jss/src/media/media-api.ts#L128)

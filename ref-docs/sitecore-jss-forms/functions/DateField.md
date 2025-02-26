@@ -21,4 +21,4 @@
 
 ## Defined in
 
-[src/components/field-templates/date.tsx:7](https://github.com/Sitecore/jss/blob/c2bf4af7955ae6502bbd82bd590ced28dee62ffa/packages/sitecore-jss-react-forms/src/components/field-templates/date.tsx#L7)
+[src/components/field-templates/date.tsx:7](https://github.com/Sitecore/jss/blob/84abc416f155951a0c49999fba876ea38ee15ae2/packages/sitecore-jss-react-forms/src/components/field-templates/date.tsx#L7)
