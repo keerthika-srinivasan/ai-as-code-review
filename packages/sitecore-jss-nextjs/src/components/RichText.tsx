@@ -41,7 +41,7 @@ export const RichText = (props: RichTextProps): JSX.Element => {
   const richTextRef = useRef<HTMLElement>(null);
 
   useEffect(() => {
-    // NOT IN EXPERIENCE EDITOR
+    // NOT IN EDIT MODE
     if (hasText && !isEditing) {
       initializeLinks();
     }
