@@ -11,6 +11,8 @@ Our versioning strategy is as follows:
 
 ## Unreleased
 
+## 22.5.1
+
 ### 🎉 New Features & Improvements
 
 * `[sitecore-jss-nextjs]` [RichText] Add support for the "prefetch on hover" ([#2049](https://github.com/Sitecore/jss/pull/2049)):
