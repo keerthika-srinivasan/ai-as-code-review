@@ -16,7 +16,7 @@ Contents of a single placeholder returned from placeholder service
 
 #### Defined in
 
-[packages/sitecore-jss/src/layout/models.ts:160](https://github.com/Sitecore/jss/blob/84abc416f155951a0c49999fba876ea38ee15ae2/packages/sitecore-jss/src/layout/models.ts#L160)
+[packages/sitecore-jss/src/layout/models.ts:160](https://github.com/Sitecore/jss/blob/6d8a67943aca8f3aeedc20cb95210647e092baec/packages/sitecore-jss/src/layout/models.ts#L160)
 
 ***
 
@@ -26,7 +26,7 @@ Contents of a single placeholder returned from placeholder service
 
 #### Defined in
 
-[packages/sitecore-jss/src/layout/models.ts:158](https://github.com/Sitecore/jss/blob/84abc416f155951a0c49999fba876ea38ee15ae2/packages/sitecore-jss/src/layout/models.ts#L158)
+[packages/sitecore-jss/src/layout/models.ts:158](https://github.com/Sitecore/jss/blob/6d8a67943aca8f3aeedc20cb95210647e092baec/packages/sitecore-jss/src/layout/models.ts#L158)
 
 ***
 
@@ -36,4 +36,4 @@ Contents of a single placeholder returned from placeholder service
 
 #### Defined in
 
-[packages/sitecore-jss/src/layout/models.ts:159](https://github.com/Sitecore/jss/blob/84abc416f155951a0c49999fba876ea38ee15ae2/packages/sitecore-jss/src/layout/models.ts#L159)
+[packages/sitecore-jss/src/layout/models.ts:159](https://github.com/Sitecore/jss/blob/6d8a67943aca8f3aeedc20cb95210647e092baec/packages/sitecore-jss/src/layout/models.ts#L159)

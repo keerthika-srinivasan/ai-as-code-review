@@ -20,4 +20,4 @@
 
 ## Defined in
 
-[packages/sitecore-jss-angular/src/components/rendering.ts:6](https://github.com/Sitecore/jss/blob/84abc416f155951a0c49999fba876ea38ee15ae2/packages/sitecore-jss-angular/src/components/rendering.ts#L6)
+[packages/sitecore-jss-angular/src/components/rendering.ts:6](https://github.com/Sitecore/jss/blob/6d8a67943aca8f3aeedc20cb95210647e092baec/packages/sitecore-jss-angular/src/components/rendering.ts#L6)

@@ -26,4 +26,4 @@ Object model of a site page item.
 
 ## Defined in
 
-[sitecore-jss-nextjs/src/services/graphql-sitemap-service.ts:31](https://github.com/Sitecore/jss/blob/84abc416f155951a0c49999fba876ea38ee15ae2/packages/sitecore-jss-nextjs/src/services/graphql-sitemap-service.ts#L31)
+[sitecore-jss-nextjs/src/services/graphql-sitemap-service.ts:31](https://github.com/Sitecore/jss/blob/6d8a67943aca8f3aeedc20cb95210647e092baec/packages/sitecore-jss-nextjs/src/services/graphql-sitemap-service.ts#L31)

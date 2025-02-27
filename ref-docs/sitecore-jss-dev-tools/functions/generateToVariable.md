@@ -25,4 +25,4 @@ that is designed to get packaged/imported.
 
 ## Defined in
 
-[sitecore-jss-dev-tools/src/manifest/generator/generate.ts:173](https://github.com/Sitecore/jss/blob/84abc416f155951a0c49999fba876ea38ee15ae2/packages/sitecore-jss-dev-tools/src/manifest/generator/generate.ts#L173)
+[sitecore-jss-dev-tools/src/manifest/generator/generate.ts:173](https://github.com/Sitecore/jss/blob/6d8a67943aca8f3aeedc20cb95210647e092baec/packages/sitecore-jss-dev-tools/src/manifest/generator/generate.ts#L173)
