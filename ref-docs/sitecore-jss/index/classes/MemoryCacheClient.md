@@ -46,7 +46,7 @@ Initializes a new instance of
 
 #### Defined in
 
-[packages/sitecore-jss/src/cache-client.ts:61](https://github.com/Sitecore/jss/blob/6d8a67943aca8f3aeedc20cb95210647e092baec/packages/sitecore-jss/src/cache-client.ts#L61)
+[packages/sitecore-jss/src/cache-client.ts:61](https://github.com/Sitecore/jss/blob/8e3d043b6ed4a82e8e79e1893a36f0a967d84a36/packages/sitecore-jss/src/cache-client.ts#L61)
 
 ## Properties
 
@@ -58,7 +58,7 @@ Configuration options
 
 #### Defined in
 
-[packages/sitecore-jss/src/cache-client.ts:61](https://github.com/Sitecore/jss/blob/6d8a67943aca8f3aeedc20cb95210647e092baec/packages/sitecore-jss/src/cache-client.ts#L61)
+[packages/sitecore-jss/src/cache-client.ts:61](https://github.com/Sitecore/jss/blob/8e3d043b6ed4a82e8e79e1893a36f0a967d84a36/packages/sitecore-jss/src/cache-client.ts#L61)
 
 ## Methods
 
@@ -86,7 +86,7 @@ The cache value as {T}, or null if the specified key is not found in the cache.
 
 #### Defined in
 
-[packages/sitecore-jss/src/cache-client.ts:77](https://github.com/Sitecore/jss/blob/6d8a67943aca8f3aeedc20cb95210647e092baec/packages/sitecore-jss/src/cache-client.ts#L77)
+[packages/sitecore-jss/src/cache-client.ts:77](https://github.com/Sitecore/jss/blob/8e3d043b6ed4a82e8e79e1893a36f0a967d84a36/packages/sitecore-jss/src/cache-client.ts#L77)
 
 ***
 
@@ -115,4 +115,4 @@ The value added to the cache.
 
 #### Defined in
 
-[packages/sitecore-jss/src/cache-client.ts:88](https://github.com/Sitecore/jss/blob/6d8a67943aca8f3aeedc20cb95210647e092baec/packages/sitecore-jss/src/cache-client.ts#L88)
+[packages/sitecore-jss/src/cache-client.ts:88](https://github.com/Sitecore/jss/blob/8e3d043b6ed4a82e8e79e1893a36f0a967d84a36/packages/sitecore-jss/src/cache-client.ts#L88)
