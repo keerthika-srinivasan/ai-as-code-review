@@ -32,4 +32,4 @@
 
 ## Defined in
 
-[sitecore-jss-proxy/src/types/RouteUrlParser.ts:1](https://github.com/Sitecore/jss/blob/7fac720b12f072ad88fc126bb4453d1aa2083901/packages/sitecore-jss-proxy/src/types/RouteUrlParser.ts#L1)
+[sitecore-jss-proxy/src/types/RouteUrlParser.ts:1](https://github.com/Sitecore/jss/blob/6a3c56b06d4879b841204c91fe721948cf41498f/packages/sitecore-jss-proxy/src/types/RouteUrlParser.ts#L1)

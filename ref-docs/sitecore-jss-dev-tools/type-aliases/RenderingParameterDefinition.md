@@ -13,4 +13,4 @@ Parameters are more developer-focused options than fields, such as configurable 
 
 ## Defined in
 
-[sitecore-jss-dev-tools/src/manifest/generator/manifest.types.ts:159](https://github.com/Sitecore/jss/blob/7fac720b12f072ad88fc126bb4453d1aa2083901/packages/sitecore-jss-dev-tools/src/manifest/generator/manifest.types.ts#L159)
+[sitecore-jss-dev-tools/src/manifest/generator/manifest.types.ts:159](https://github.com/Sitecore/jss/blob/6a3c56b06d4879b841204c91fe721948cf41498f/packages/sitecore-jss-dev-tools/src/manifest/generator/manifest.types.ts#L159)
