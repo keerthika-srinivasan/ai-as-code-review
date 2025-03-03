@@ -44,4 +44,4 @@ requiredParams
 
 ## Defined in
 
-[packages/sitecore-jss/src/media/media-api.ts:44](https://github.com/Sitecore/jss/blob/6a3c56b06d4879b841204c91fe721948cf41498f/packages/sitecore-jss/src/media/media-api.ts#L44)
+[packages/sitecore-jss/src/media/media-api.ts:44](https://github.com/Sitecore/jss/blob/d75d737f0173f2878767bde6cbf60daabde15d84/packages/sitecore-jss/src/media/media-api.ts#L44)

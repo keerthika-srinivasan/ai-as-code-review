@@ -10,4 +10,4 @@
 
 ## Defined in
 
-[packages/sitecore-jss-vue/src/components/SitecoreContext.ts:8](https://github.com/Sitecore/jss/blob/6a3c56b06d4879b841204c91fe721948cf41498f/packages/sitecore-jss-vue/src/components/SitecoreContext.ts#L8)
+[packages/sitecore-jss-vue/src/components/SitecoreContext.ts:8](https://github.com/Sitecore/jss/blob/d75d737f0173f2878767bde6cbf60daabde15d84/packages/sitecore-jss-vue/src/components/SitecoreContext.ts#L8)
