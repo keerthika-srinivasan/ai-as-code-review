@@ -16,4 +16,4 @@ Get application metadata
 
 ## Defined in
 
-[sitecore-jss-dev-tools/src/templating/metadata.ts:14](https://github.com/Sitecore/jss/blob/d75d737f0173f2878767bde6cbf60daabde15d84/packages/sitecore-jss-dev-tools/src/templating/metadata.ts#L14)
+[sitecore-jss-dev-tools/src/templating/metadata.ts:14](https://github.com/Sitecore/jss/blob/606a26837a7f11141fc22e0d0ee89bd07129c0db/packages/sitecore-jss-dev-tools/src/templating/metadata.ts#L14)

@@ -24,4 +24,4 @@ Apply personalization to layout data. This will recursively go through all place
 
 ## Defined in
 
-[packages/sitecore-jss/src/personalize/layout-personalizer.ts:28](https://github.com/Sitecore/jss/blob/d75d737f0173f2878767bde6cbf60daabde15d84/packages/sitecore-jss/src/personalize/layout-personalizer.ts#L28)
+[packages/sitecore-jss/src/personalize/layout-personalizer.ts:28](https://github.com/Sitecore/jss/blob/606a26837a7f11141fc22e0d0ee89bd07129c0db/packages/sitecore-jss/src/personalize/layout-personalizer.ts#L28)
