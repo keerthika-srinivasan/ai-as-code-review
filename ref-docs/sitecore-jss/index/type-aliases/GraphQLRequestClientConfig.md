@@ -61,4 +61,4 @@ GraphQLClient
 
 ## Defined in
 
-[packages/sitecore-jss/src/graphql-request-client.ts:63](https://github.com/Sitecore/jss/blob/acfa78bff81ef95071ebe13ed7b07af5332737dc/packages/sitecore-jss/src/graphql-request-client.ts#L63)
+[packages/sitecore-jss/src/graphql-request-client.ts:63](https://github.com/Sitecore/jss/blob/dec14b0b58dd71f990194868f9cbd4e30ade85d7/packages/sitecore-jss/src/graphql-request-client.ts#L63)

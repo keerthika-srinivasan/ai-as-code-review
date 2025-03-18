@@ -18,7 +18,7 @@ Represents the kind of metadata element.
 
 #### Defined in
 
-[packages/sitecore-jss/src/editing/models.ts:37](https://github.com/Sitecore/jss/blob/acfa78bff81ef95071ebe13ed7b07af5332737dc/packages/sitecore-jss/src/editing/models.ts#L37)
+[packages/sitecore-jss/src/editing/models.ts:37](https://github.com/Sitecore/jss/blob/dec14b0b58dd71f990194868f9cbd4e30ade85d7/packages/sitecore-jss/src/editing/models.ts#L37)
 
 ***
 
@@ -28,4 +28,4 @@ Represents the kind of metadata element.
 
 #### Defined in
 
-[packages/sitecore-jss/src/editing/models.ts:36](https://github.com/Sitecore/jss/blob/acfa78bff81ef95071ebe13ed7b07af5332737dc/packages/sitecore-jss/src/editing/models.ts#L36)
+[packages/sitecore-jss/src/editing/models.ts:36](https://github.com/Sitecore/jss/blob/dec14b0b58dd71f990194868f9cbd4e30ade85d7/packages/sitecore-jss/src/editing/models.ts#L36)

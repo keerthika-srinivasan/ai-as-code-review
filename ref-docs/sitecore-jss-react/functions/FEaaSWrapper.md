@@ -20,4 +20,4 @@
 
 ## Defined in
 
-[packages/sitecore-jss-react/src/components/FEaaSWrapper.tsx:6](https://github.com/Sitecore/jss/blob/acfa78bff81ef95071ebe13ed7b07af5332737dc/packages/sitecore-jss-react/src/components/FEaaSWrapper.tsx#L6)
+[packages/sitecore-jss-react/src/components/FEaaSWrapper.tsx:6](https://github.com/Sitecore/jss/blob/dec14b0b58dd71f990194868f9cbd4e30ade85d7/packages/sitecore-jss-react/src/components/FEaaSWrapper.tsx#L6)
