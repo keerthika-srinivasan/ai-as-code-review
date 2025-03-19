@@ -51,4 +51,4 @@ The wrapped component, if a datasource is present.
 
 ## Defined in
 
-[packages/sitecore-jss-react/src/enhancers/withDatasourceCheck.tsx:30](https://github.com/Sitecore/jss/blob/dec14b0b58dd71f990194868f9cbd4e30ade85d7/packages/sitecore-jss-react/src/enhancers/withDatasourceCheck.tsx#L30)
+[packages/sitecore-jss-react/src/enhancers/withDatasourceCheck.tsx:30](https://github.com/Sitecore/jss/blob/77c6d9654d507cedd624f3b5e02316ac13c43550/packages/sitecore-jss-react/src/enhancers/withDatasourceCheck.tsx#L30)
