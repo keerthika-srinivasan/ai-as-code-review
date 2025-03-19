@@ -28,4 +28,4 @@
 
 ## Defined in
 
-[packages/sitecore-jss-react/src/components/Link.tsx:131](https://github.com/Sitecore/jss/blob/77c6d9654d507cedd624f3b5e02316ac13c43550/packages/sitecore-jss-react/src/components/Link.tsx#L131)
+[packages/sitecore-jss-react/src/components/Link.tsx:131](https://github.com/Sitecore/jss/blob/92baaf60324963bfd9229cad117d7365014cbee2/packages/sitecore-jss-react/src/components/Link.tsx#L131)

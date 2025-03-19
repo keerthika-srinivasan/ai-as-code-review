@@ -22,4 +22,4 @@ Determines if the passed in field object's value is empty.
 
 ## Defined in
 
-[packages/sitecore-jss/src/layout/utils.ts:109](https://github.com/Sitecore/jss/blob/77c6d9654d507cedd624f3b5e02316ac13c43550/packages/sitecore-jss/src/layout/utils.ts#L109)
+[packages/sitecore-jss/src/layout/utils.ts:109](https://github.com/Sitecore/jss/blob/92baaf60324963bfd9229cad117d7365014cbee2/packages/sitecore-jss/src/layout/utils.ts#L109)
