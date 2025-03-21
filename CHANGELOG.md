@@ -11,10 +11,6 @@ Our versioning strategy is as follows:
 
 ## Unreleased
 
-### 🐛 Bug Fixes
-
-* `[sitecore-jss]` Can not use 'in' operator to search for 'editable' ([#1768](https://github.com/Sitecore/jss/pull/1768))
-
 ### 🎉 New Features & Improvements
 
 * `[Next.js]` XM Cloud Forms support without BYOC ([#2052](https://github.com/Sitecore/jss/pull/2052)):
@@ -22,6 +18,12 @@ Our versioning strategy is as follows:
   * The `Form` component must be registered in the app to enable non-BYOC Forms support.
   * `SitecoreContext` now supports an `api` property for passing XM Cloud Edge endpoint settings, enabling the `Form` component to access the configured endpoint.
   * Added shared `Form` functionality via the `sitecore-jss/form` submodule.
+
+## 22.5.4
+
+### 🐛 Bug Fixes
+
+* `[sitecore-jss]` Cannot use 'in' operator to search for 'editable' ([#1768](https://github.com/Sitecore/jss/pull/1768))
 
 ## 22.5.3
 
