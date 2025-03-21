@@ -198,7 +198,7 @@ describe('content-styles', () => {
       expect(config.loadStyles).to.be.false;
     });
 
-    it('should skip when field is not an object', () => {
+    it('should skip and not fail when field is not an object', () => {
       const config = { loadStyles: false };
 
       traverseField('foo' as any, config);
