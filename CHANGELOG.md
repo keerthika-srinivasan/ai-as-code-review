@@ -13,7 +13,7 @@ Our versioning strategy is as follows:
 
 ### 🐛 Bug Fixes
 
-* `[sitecore-jss]` Cannot use 'in' operator to search for 'editable' ([#1768](https://github.com/Sitecore/jss/pull/1768))
+* `[sitecore-jss]` Can not use 'in' operator to search for 'editable' ([#1768](https://github.com/Sitecore/jss/pull/1768))
 
 ### 🎉 New Features & Improvements
 
