@@ -47,4 +47,4 @@
 
 ## Defined in
 
-[sitecore-jss-dev-tools/src/disconnected-server/layout-service.ts:362](https://github.com/Sitecore/jss/blob/92baaf60324963bfd9229cad117d7365014cbee2/packages/sitecore-jss-dev-tools/src/disconnected-server/layout-service.ts#L362)
+[sitecore-jss-dev-tools/src/disconnected-server/layout-service.ts:362](https://github.com/Sitecore/jss/blob/304353e64b8015c636d4a5a9b91294cdf74f41d5/packages/sitecore-jss-dev-tools/src/disconnected-server/layout-service.ts#L362)
