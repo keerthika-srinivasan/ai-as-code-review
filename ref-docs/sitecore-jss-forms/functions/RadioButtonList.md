@@ -21,4 +21,4 @@
 
 ## Defined in
 
-[src/components/field-templates/radio-button-list.tsx:7](https://github.com/Sitecore/jss/blob/304353e64b8015c636d4a5a9b91294cdf74f41d5/packages/sitecore-jss-react-forms/src/components/field-templates/radio-button-list.tsx#L7)
+[src/components/field-templates/radio-button-list.tsx:7](https://github.com/Sitecore/jss/blob/40f0c335888b832c299de2e95656f17610bc06a6/packages/sitecore-jss-react-forms/src/components/field-templates/radio-button-list.tsx#L7)
