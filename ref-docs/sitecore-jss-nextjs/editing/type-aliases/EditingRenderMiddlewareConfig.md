@@ -115,4 +115,4 @@ resolvePageUrl
 
 ## Defined in
 
-[sitecore-jss-nextjs/src/editing/editing-render-middleware.ts:21](https://github.com/Sitecore/jss/blob/83f15febcf8abedd06b92438d2299bd762d5a1b9/packages/sitecore-jss-nextjs/src/editing/editing-render-middleware.ts#L21)
+[sitecore-jss-nextjs/src/editing/editing-render-middleware.ts:21](https://github.com/Sitecore/jss/blob/1e597610c594d1e2e472f0fc1a554c7021de939b/packages/sitecore-jss-nextjs/src/editing/editing-render-middleware.ts#L21)
