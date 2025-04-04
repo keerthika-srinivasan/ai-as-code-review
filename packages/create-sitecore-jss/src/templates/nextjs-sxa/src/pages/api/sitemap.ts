@@ -31,7 +31,7 @@ const sitemapApi = async (
       const fetcher = new NativeDataFetcher();
       const xmlResponse = await fetcher.fetch<string>(sitemapPath);
 
-      if (!xmlResponse) {
+      if (!xmlResponse?.data) {
         return res.redirect('/404');
       }
 
