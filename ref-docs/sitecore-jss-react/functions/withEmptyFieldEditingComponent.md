@@ -30,4 +30,4 @@ Returns the passed field component or default component in case field value is e
 
 ## Defined in
 
-[packages/sitecore-jss-react/src/enhancers/withEmptyFieldEditingComponent.tsx:38](https://github.com/Sitecore/jss/blob/27097bee0d183a9d73bb5471edc74a4e6a692ef8/packages/sitecore-jss-react/src/enhancers/withEmptyFieldEditingComponent.tsx#L38)
+[packages/sitecore-jss-react/src/enhancers/withEmptyFieldEditingComponent.tsx:38](https://github.com/Sitecore/jss/blob/a3f9b7b54a030838a28594f59d310fde477b83ba/packages/sitecore-jss-react/src/enhancers/withEmptyFieldEditingComponent.tsx#L38)

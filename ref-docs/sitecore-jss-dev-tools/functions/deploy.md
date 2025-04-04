@@ -20,4 +20,4 @@
 
 ## Defined in
 
-[sitecore-jss-dev-tools/src/deploy.ts:18](https://github.com/Sitecore/jss/blob/27097bee0d183a9d73bb5471edc74a4e6a692ef8/packages/sitecore-jss-dev-tools/src/deploy.ts#L18)
+[sitecore-jss-dev-tools/src/deploy.ts:18](https://github.com/Sitecore/jss/blob/a3f9b7b54a030838a28594f59d310fde477b83ba/packages/sitecore-jss-dev-tools/src/deploy.ts#L18)
