@@ -30,4 +30,4 @@ pipeline
 
 ## Defined in
 
-[sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts:74](https://github.com/Sitecore/jss/blob/d50a61cf76523f3519cb83b85539c6c10a1debba/packages/sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts#L74)
+[sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts:74](https://github.com/Sitecore/jss/blob/751eea0eec65619be80fbc1648c2b9864999d081/packages/sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts#L74)
