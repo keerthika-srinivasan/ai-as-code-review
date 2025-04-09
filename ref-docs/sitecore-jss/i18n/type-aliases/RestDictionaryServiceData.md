@@ -18,4 +18,4 @@ A reply from the REST Sitecore Dictionary Service
 
 ## Defined in
 
-[packages/sitecore-jss/src/i18n/rest-dictionary-service.ts:10](https://github.com/Sitecore/jss/blob/2e59c80fd3862e08153c1eacaca779c1a500f9ac/packages/sitecore-jss/src/i18n/rest-dictionary-service.ts#L10)
+[packages/sitecore-jss/src/i18n/rest-dictionary-service.ts:10](https://github.com/Sitecore/jss/blob/3ff4775cfb83aa61a8df37338a5b05217a8db772/packages/sitecore-jss/src/i18n/rest-dictionary-service.ts#L10)

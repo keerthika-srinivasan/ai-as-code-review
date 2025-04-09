@@ -22,7 +22,7 @@
 
 #### Defined in
 
-[packages/sitecore-jss-angular/src/components/rendering-field.ts:7](https://github.com/Sitecore/jss/blob/2e59c80fd3862e08153c1eacaca779c1a500f9ac/packages/sitecore-jss-angular/src/components/rendering-field.ts#L7)
+[packages/sitecore-jss-angular/src/components/rendering-field.ts:7](https://github.com/Sitecore/jss/blob/3ff4775cfb83aa61a8df37338a5b05217a8db772/packages/sitecore-jss-angular/src/components/rendering-field.ts#L7)
 
 ***
 
@@ -54,7 +54,7 @@ packages/sitecore-jss/types/layout/models.d.ts:123
 
 #### Defined in
 
-[packages/sitecore-jss-angular/src/components/rendering-field.ts:22](https://github.com/Sitecore/jss/blob/2e59c80fd3862e08153c1eacaca779c1a500f9ac/packages/sitecore-jss-angular/src/components/rendering-field.ts#L22)
+[packages/sitecore-jss-angular/src/components/rendering-field.ts:22](https://github.com/Sitecore/jss/blob/3ff4775cfb83aa61a8df37338a5b05217a8db772/packages/sitecore-jss-angular/src/components/rendering-field.ts#L22)
 
 ***
 
@@ -68,7 +68,7 @@ packages/sitecore-jss/types/layout/models.d.ts:123
 
 #### Defined in
 
-[packages/sitecore-jss-angular/src/components/rendering-field.ts:23](https://github.com/Sitecore/jss/blob/2e59c80fd3862e08153c1eacaca779c1a500f9ac/packages/sitecore-jss-angular/src/components/rendering-field.ts#L23)
+[packages/sitecore-jss-angular/src/components/rendering-field.ts:23](https://github.com/Sitecore/jss/blob/3ff4775cfb83aa61a8df37338a5b05217a8db772/packages/sitecore-jss-angular/src/components/rendering-field.ts#L23)
 
 ***
 
@@ -82,4 +82,4 @@ packages/sitecore-jss/types/layout/models.d.ts:123
 
 #### Defined in
 
-[packages/sitecore-jss-angular/src/components/rendering-field.ts:29](https://github.com/Sitecore/jss/blob/2e59c80fd3862e08153c1eacaca779c1a500f9ac/packages/sitecore-jss-angular/src/components/rendering-field.ts#L29)
+[packages/sitecore-jss-angular/src/components/rendering-field.ts:29](https://github.com/Sitecore/jss/blob/3ff4775cfb83aa61a8df37338a5b05217a8db772/packages/sitecore-jss-angular/src/components/rendering-field.ts#L29)

@@ -14,7 +14,7 @@
 
 #### Defined in
 
-[sitecore-jss-dev-tools/src/package-deploy.ts:17](https://github.com/Sitecore/jss/blob/2e59c80fd3862e08153c1eacaca779c1a500f9ac/packages/sitecore-jss-dev-tools/src/package-deploy.ts#L17)
+[sitecore-jss-dev-tools/src/package-deploy.ts:17](https://github.com/Sitecore/jss/blob/3ff4775cfb83aa61a8df37338a5b05217a8db772/packages/sitecore-jss-dev-tools/src/package-deploy.ts#L17)
 
 ***
 
@@ -24,7 +24,7 @@
 
 #### Defined in
 
-[sitecore-jss-dev-tools/src/package-deploy.ts:13](https://github.com/Sitecore/jss/blob/2e59c80fd3862e08153c1eacaca779c1a500f9ac/packages/sitecore-jss-dev-tools/src/package-deploy.ts#L13)
+[sitecore-jss-dev-tools/src/package-deploy.ts:13](https://github.com/Sitecore/jss/blob/3ff4775cfb83aa61a8df37338a5b05217a8db772/packages/sitecore-jss-dev-tools/src/package-deploy.ts#L13)
 
 ***
 
@@ -34,7 +34,7 @@
 
 #### Defined in
 
-[sitecore-jss-dev-tools/src/package-deploy.ts:16](https://github.com/Sitecore/jss/blob/2e59c80fd3862e08153c1eacaca779c1a500f9ac/packages/sitecore-jss-dev-tools/src/package-deploy.ts#L16)
+[sitecore-jss-dev-tools/src/package-deploy.ts:16](https://github.com/Sitecore/jss/blob/3ff4775cfb83aa61a8df37338a5b05217a8db772/packages/sitecore-jss-dev-tools/src/package-deploy.ts#L16)
 
 ***
 
@@ -44,7 +44,7 @@
 
 #### Defined in
 
-[sitecore-jss-dev-tools/src/package-deploy.ts:14](https://github.com/Sitecore/jss/blob/2e59c80fd3862e08153c1eacaca779c1a500f9ac/packages/sitecore-jss-dev-tools/src/package-deploy.ts#L14)
+[sitecore-jss-dev-tools/src/package-deploy.ts:14](https://github.com/Sitecore/jss/blob/3ff4775cfb83aa61a8df37338a5b05217a8db772/packages/sitecore-jss-dev-tools/src/package-deploy.ts#L14)
 
 ***
 
@@ -54,7 +54,7 @@
 
 #### Defined in
 
-[sitecore-jss-dev-tools/src/package-deploy.ts:12](https://github.com/Sitecore/jss/blob/2e59c80fd3862e08153c1eacaca779c1a500f9ac/packages/sitecore-jss-dev-tools/src/package-deploy.ts#L12)
+[sitecore-jss-dev-tools/src/package-deploy.ts:12](https://github.com/Sitecore/jss/blob/3ff4775cfb83aa61a8df37338a5b05217a8db772/packages/sitecore-jss-dev-tools/src/package-deploy.ts#L12)
 
 ***
 
@@ -64,7 +64,7 @@
 
 #### Defined in
 
-[sitecore-jss-dev-tools/src/package-deploy.ts:18](https://github.com/Sitecore/jss/blob/2e59c80fd3862e08153c1eacaca779c1a500f9ac/packages/sitecore-jss-dev-tools/src/package-deploy.ts#L18)
+[sitecore-jss-dev-tools/src/package-deploy.ts:18](https://github.com/Sitecore/jss/blob/3ff4775cfb83aa61a8df37338a5b05217a8db772/packages/sitecore-jss-dev-tools/src/package-deploy.ts#L18)
 
 ***
 
@@ -74,4 +74,4 @@
 
 #### Defined in
 
-[sitecore-jss-dev-tools/src/package-deploy.ts:15](https://github.com/Sitecore/jss/blob/2e59c80fd3862e08153c1eacaca779c1a500f9ac/packages/sitecore-jss-dev-tools/src/package-deploy.ts#L15)
+[sitecore-jss-dev-tools/src/package-deploy.ts:15](https://github.com/Sitecore/jss/blob/3ff4775cfb83aa61a8df37338a5b05217a8db772/packages/sitecore-jss-dev-tools/src/package-deploy.ts#L15)
