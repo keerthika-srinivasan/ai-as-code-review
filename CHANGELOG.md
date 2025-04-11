@@ -20,7 +20,7 @@ Our versioning strategy is as follows:
 
 ### 🛠 Breaking Changes
 
-* `[nextjs][sitecore-jss-nextjs]` Support for Component Library feature in XMCloud ([#1987](https://github.com/Sitecore/jss/pull/1987))([#2000](https://github.com/Sitecore/jss/pull/2000))([#2002](https://github.com/Sitecore/jss/pull/2002))([#2005](https://github.com/Sitecore/jss/pull/2005))([#2024](https://github.com/Sitecore/jss/pull/2024))([#2053](https://github.com/Sitecore/jss/pull/2053))([#2059](https://github.com/Sitecore/jss/pull/2059))([#2064](https://github.com/Sitecore/jss/pull/2064))
+* `[nextjs][sitecore-jss-nextjs]` Support for Component Library in XMCloud ([#1987](https://github.com/Sitecore/jss/pull/1987))([#2000](https://github.com/Sitecore/jss/pull/2000))([#2002](https://github.com/Sitecore/jss/pull/2002))([#2005](https://github.com/Sitecore/jss/pull/2005))([#2024](https://github.com/Sitecore/jss/pull/2024))([#2053](https://github.com/Sitecore/jss/pull/2053))([#2059](https://github.com/Sitecore/jss/pull/2059))([#2064](https://github.com/Sitecore/jss/pull/2064))([#2068](https://github.com/Sitecore/jss/pull/2068))
 
 ## 22.7.0
 
