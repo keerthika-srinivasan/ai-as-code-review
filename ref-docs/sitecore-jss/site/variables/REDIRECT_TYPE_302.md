@@ -10,4 +10,4 @@
 
 ## Defined in
 
-[packages/sitecore-jss/src/site/graphql-redirects-service.ts:8](https://github.com/Sitecore/jss/blob/eb9b462364319bd72babe616b3bbd9d9a5025316/packages/sitecore-jss/src/site/graphql-redirects-service.ts#L8)
+[packages/sitecore-jss/src/site/graphql-redirects-service.ts:8](https://github.com/Sitecore/jss/blob/46220da2f9cc13ae6993ac9b86c2e8bb5b217b82/packages/sitecore-jss/src/site/graphql-redirects-service.ts#L8)
