@@ -24,4 +24,4 @@ It re-creates the script elements and appends the to the component's template, t
 
 ## Defined in
 
-[packages/sitecore-jss/src/form/form.ts:50](https://github.com/Sitecore/jss/blob/ce39496469c8050644cdf9885d96077f5205543e/packages/sitecore-jss/src/form/form.ts#L50)
+[packages/sitecore-jss/src/form/form.ts:50](https://github.com/Sitecore/jss/blob/b28e99f71bb9c6ad1dfbb4c1a5fd92b5d306849f/packages/sitecore-jss/src/form/form.ts#L50)
