@@ -21,19 +21,24 @@ Our versioning strategy is as follows:
 
 ### 🐛 Bug Fixes
 
-* `[sitecore-jss-nextjs]` Experience Editor and Preview render 500 when using Vercel Editing Host ([#2077](https://github.com/Sitecore/jss/pull/2077))
-* `[sitecore-jss-nextjs]` Fix for case sensitive redirects (make all redirects case-insensitive) [#2074](https://github.com/Sitecore/jss/pull/2074)
-* `[sitecore-jss]` Fix for lookbehind regex. (not supported on ios 16) [#2057](https://github.com/Sitecore/jss/issues/2057)
-* `[sitecore-jss-nextjs]` Fix React warning from Link component when using custom emptyFieldEditingComponent prop ([#2061](https://github.com/Sitecore/jss/pull/2061))
 * `[sitecore-jss]` `[template/nextjs-sxa]` Fix `/api/sitemap` endpoint ([#2058](https://github.com/Sitecore/jss/pull/2058)) ([#2063](https://github.com/Sitecore/jss/pull/2063))
-* `[sitecore-jss]` Handle trailing slash in sitecoreEdgeUrl to prevent request failures ([#2062](https://github.com/Sitecore/jss/pull/2062))
-* `[create-sitecore-jss]` Fix nextjs(xmcloud) app initialization ([#2070](https://github.com/Sitecore/jss/pull/2070))
-* `[sitecore-jss-react]` Suspense in ErrorBoundary component is not rendered when it is wrapping a BYOCWrapper to prevent client side hydration errors ([#2071](https://github.com/Sitecore/jss/pull/2071))
 
 ### 🛠 Breaking Changes
 
 * Upgrade cloudsdk to 0.5 ([#2060](https://github.com/Sitecore/jss/pull/2060)):
   * This upgrade doesn't introduce any breaking changes, however you will have to upgrade your cloudsdk dependencies to meet peer dependencies requirements
+ 
+## 22.5.5
+
+### 🐛 Bug Fixes
+
+* `[sitecore-jss-nextjs]` Experience Editor and Preview render 500 when using Vercel Editing Host ([#2077](https://github.com/Sitecore/jss/pull/2077))
+* `[sitecore-jss-nextjs]` Fix for case sensitive redirects (make all redirects case-insensitive) [#2074](https://github.com/Sitecore/jss/pull/2074)
+* `[sitecore-jss]` Fix for lookbehind regex. (not supported on ios 16) [#2057](https://github.com/Sitecore/jss/issues/2057)
+* `[sitecore-jss-nextjs]` Fix React warning from Link component when using custom emptyFieldEditingComponent prop ([#2061](https://github.com/Sitecore/jss/pull/2061)):
+* `[sitecore-jss]` Handle trailing slash in sitecoreEdgeUrl to prevent request failures ([#2062](https://github.com/Sitecore/jss/pull/2062))
+* `[create-sitecore-jss]` Fix nextjs(xmcloud) app initialization ([#2070](https://github.com/Sitecore/jss/pull/2070))
+* `[sitecore-jss-react]` Suspense in ErrorBoundary component is not rendered when it is wrapping a BYOCWrapper to prevent client side hydration errors ([#2071](https://github.com/Sitecore/jss/pull/2071))
 
 ## 22.5.4
 
