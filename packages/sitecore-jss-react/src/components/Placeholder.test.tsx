@@ -220,8 +220,6 @@ describe('<Placeholder />', () => {
           </SitecoreContext>
         );
 
-        console.log(renderedComponent.debug());
-
         expect(renderedComponent.html()).to.equal(
           '<div class="sc-jss-empty-placeholder"><span>My name is empty placeholder</span></div>'
         );
@@ -403,6 +401,20 @@ describe('<Placeholder />', () => {
         'rendering-variant col-9|col-sm-10|col-md-12|col-lg-6|col-xl-7|col-xxl-8 test-css-class-y'
       );
       expect(renderedComponent.find('.default').length).to.equal(1);
+    });
+
+    it('should not render Suspense when disableSuspense is true', () => {
+      const component = sxaRenderingVariantData.sitecore.route as RouteData;
+      const phKey = 'main';
+
+      const renderedComponent = mount(
+        <SitecoreContext componentFactory={componentFactory}>
+          <Placeholder name={phKey} disableSuspense={true} rendering={component} />
+        </SitecoreContext>
+      );
+
+      expect(renderedComponent.find('ErrorBoundary').length).to.equal(1);
+      expect(renderedComponent.find('Suspense').length).to.equal(0);
     });
   });
 
