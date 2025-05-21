@@ -4,9 +4,9 @@
 /* eslint-disable react/prop-types */
 import { ComponentRendering, RouteData } from '@sitecore-jss/sitecore-jss/layout';
 import { expect } from 'chai';
-import { render } from '@testing-library/react';
+import { findByText, render } from '@testing-library/react';
 import React from 'react';
-import { spy, stub } from 'sinon';
+import { stub } from 'sinon';
 import { convertedData as eeData, emptyPlaceholderData } from '../test-data/ee-data';
 import {
   byocWrapperData,
@@ -31,6 +31,8 @@ import { Placeholder } from './Placeholder';
 import { ComponentProps } from './PlaceholderCommon';
 import { SitecoreContext } from './SitecoreContext';
 import { ComponentFactory } from './sharedTypes';
+
+const dynamicComponent = React.lazy(() => import('../test-data/test-dynamic-component'));
 
 const componentFactory: ComponentFactory = (componentName: string) => {
   const components = new Map<string, React.FC>();
@@ -65,6 +67,7 @@ const componentFactory: ComponentFactory = (componentName: string) => {
 
   components.set('DownloadCallout', DownloadCallout);
   components.set('Jumbotron', () => <div className="jumbotron-mock" />);
+  components.set('DynamicComponent', dynamicComponent);
 
   return components.get(componentName) || null;
 };
@@ -433,7 +436,7 @@ describe('BYOC fallback', () => {
     byocWrapperStub.restore();
   });
 
-  it.skip('should render ErrorBoundary without Suspense for byoc wrapper', () => {
+  it('should render ErrorBoundary without Suspense for byoc wrapper', () => {
     const component = byocWrapperData.sitecore.route as RouteData;
     const phKey = 'main';
 
@@ -453,8 +456,16 @@ describe('BYOC fallback', () => {
       </SitecoreContext>
     );
 
-    expect(renderedComponent.container.querySelectorAll('ErrorBoundary').length).to.equal(2);
-    expect(renderedComponent.container.querySelectorAll('Suspense').length).to.equal(1);
+    expect(renderedComponent.container.innerHTML).to.not.contain('Loading component...');
+
+    expect(renderedComponent.container.querySelectorAll('.byoc-wrapper').length).to.equal(1);
+
+    const components = renderedComponent.container.querySelectorAll('.byoc-component');
+
+    expect(components.length).to.equal(2);
+
+    expect(components[0].textContent).to.equal('Foo');
+    expect(components[1].textContent).to.equal('Foo');
 
     byocComponentStub.restore();
     byocWrapperStub.restore();
@@ -495,8 +506,23 @@ describe('FEaaS fallback', () => {
   });
 });
 
-it.skip('should not render Suspense when disableSuspense is true', () => {
-  const component = sxaRenderingVariantData.sitecore.route as RouteData;
+it('should render Suspense when disableSuspense is false', async () => {
+  const component = nonEeDevData.sitecore.route as RouteData;
+  const phKey = 'main';
+
+  const renderedComponent = render(
+    <SitecoreContext componentFactory={componentFactory}>
+      <Placeholder name={phKey} disableSuspense={false} rendering={component} />
+    </SitecoreContext>
+  );
+
+  expect(renderedComponent.container.innerHTML).to.contain('Loading component...');
+
+  await findByText(renderedComponent.container, 'No error');
+});
+
+it('should not render Suspense when disableSuspense is true', async () => {
+  const component = nonEeDevData.sitecore.route as RouteData;
   const phKey = 'main';
 
   const renderedComponent = render(
@@ -505,8 +531,9 @@ it.skip('should not render Suspense when disableSuspense is true', () => {
     </SitecoreContext>
   );
 
-  expect(renderedComponent.container.querySelectorAll('ErrorBoundary').length).to.equal(1);
-  expect(renderedComponent.container.querySelectorAll('Suspense').length).to.equal(0);
+  expect(renderedComponent.container.innerHTML).to.not.contain('Loading component...');
+
+  await findByText(renderedComponent.container, 'No error');
 });
 
 it('should populate the "key" attribute of placeholder chrome', () => {
