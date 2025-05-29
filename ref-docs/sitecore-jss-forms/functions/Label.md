@@ -6,19 +6,18 @@
 
 # Function: Label()
 
-> **Label**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **Label**(`props`): `ReactNode` \| `Promise`\<`ReactNode`\>
 
 ## Parameters
 
-| Parameter | Type | Description |
-| ------ | ------ | ------ |
-| `props` | [`LabelProps`](../type-aliases/LabelProps.md) | - |
-| `deprecatedLegacyContext`? | `any` | **Deprecated** **See** [React Docs](https://legacy.reactjs.org/docs/legacy-context.html#referencing-context-in-lifecycle-methods) |
+| Parameter | Type |
+| ------ | ------ |
+| `props` | [`LabelProps`](../type-aliases/LabelProps.md) |
 
 ## Returns
 
-`ReactNode`
+`ReactNode` \| `Promise`\<`ReactNode`\>
 
 ## Defined in
 
-[src/components/field-templates/label.tsx:4](https://github.com/Sitecore/jss/blob/540e8be146f4161168a60dfe5639182c4851b37e/packages/sitecore-jss-react-forms/src/components/field-templates/label.tsx#L4)
+[src/components/field-templates/label.tsx:4](https://github.com/Sitecore/jss/blob/5c859bf6c09a7abc729449727ac180e85856bd42/packages/sitecore-jss-react-forms/src/components/field-templates/label.tsx#L4)

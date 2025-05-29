@@ -31,4 +31,4 @@ parsed value
 
 ## Defined in
 
-[packages/sitecore-jss/src/utils/env.ts:7](https://github.com/Sitecore/jss/blob/540e8be146f4161168a60dfe5639182c4851b37e/packages/sitecore-jss/src/utils/env.ts#L7)
+[packages/sitecore-jss/src/utils/env.ts:7](https://github.com/Sitecore/jss/blob/5c859bf6c09a7abc729449727ac180e85856bd42/packages/sitecore-jss/src/utils/env.ts#L7)

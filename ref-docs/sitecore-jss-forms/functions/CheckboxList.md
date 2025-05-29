@@ -6,19 +6,18 @@
 
 # Function: CheckboxList()
 
-> **CheckboxList**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **CheckboxList**(`props`): `ReactNode` \| `Promise`\<`ReactNode`\>
 
 ## Parameters
 
-| Parameter | Type | Description |
-| ------ | ------ | ------ |
-| `props` | [`ListFieldProps`](../type-aliases/ListFieldProps.md) | - |
-| `deprecatedLegacyContext`? | `any` | **Deprecated** **See** [React Docs](https://legacy.reactjs.org/docs/legacy-context.html#referencing-context-in-lifecycle-methods) |
+| Parameter | Type |
+| ------ | ------ |
+| `props` | [`ListFieldProps`](../type-aliases/ListFieldProps.md) |
 
 ## Returns
 
-`ReactNode`
+`ReactNode` \| `Promise`\<`ReactNode`\>
 
 ## Defined in
 
-[src/components/field-templates/checkbox-list.tsx:7](https://github.com/Sitecore/jss/blob/540e8be146f4161168a60dfe5639182c4851b37e/packages/sitecore-jss-react-forms/src/components/field-templates/checkbox-list.tsx#L7)
+[src/components/field-templates/checkbox-list.tsx:7](https://github.com/Sitecore/jss/blob/5c859bf6c09a7abc729449727ac180e85856bd42/packages/sitecore-jss-react-forms/src/components/field-templates/checkbox-list.tsx#L7)

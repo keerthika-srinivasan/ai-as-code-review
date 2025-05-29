@@ -18,7 +18,7 @@ Represents the Editing Layout variant.
 
 #### Defined in
 
-[packages/sitecore-jss/src/editing/models.ts:26](https://github.com/Sitecore/jss/blob/540e8be146f4161168a60dfe5639182c4851b37e/packages/sitecore-jss/src/editing/models.ts#L26)
+[packages/sitecore-jss/src/editing/models.ts:26](https://github.com/Sitecore/jss/blob/5c859bf6c09a7abc729449727ac180e85856bd42/packages/sitecore-jss/src/editing/models.ts#L26)
 
 ***
 
@@ -28,4 +28,4 @@ Represents the Editing Layout variant.
 
 #### Defined in
 
-[packages/sitecore-jss/src/editing/models.ts:27](https://github.com/Sitecore/jss/blob/540e8be146f4161168a60dfe5639182c4851b37e/packages/sitecore-jss/src/editing/models.ts#L27)
+[packages/sitecore-jss/src/editing/models.ts:27](https://github.com/Sitecore/jss/blob/5c859bf6c09a7abc729449727ac180e85856bd42/packages/sitecore-jss/src/editing/models.ts#L27)

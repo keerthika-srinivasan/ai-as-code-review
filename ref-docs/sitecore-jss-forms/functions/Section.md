@@ -6,19 +6,18 @@
 
 # Function: Section()
 
-> **Section**(`props`, `deprecatedLegacyContext`?): `ReactNode`
+> **Section**(`props`): `ReactNode` \| `Promise`\<`ReactNode`\>
 
 ## Parameters
 
-| Parameter | Type | Description |
-| ------ | ------ | ------ |
-| `props` | [`FieldProps`](../interfaces/FieldProps.md)\<`FormFieldSection`\> | - |
-| `deprecatedLegacyContext`? | `any` | **Deprecated** **See** [React Docs](https://legacy.reactjs.org/docs/legacy-context.html#referencing-context-in-lifecycle-methods) |
+| Parameter | Type |
+| ------ | ------ |
+| `props` | [`FieldProps`](../interfaces/FieldProps.md)\<`FormFieldSection`\> |
 
 ## Returns
 
-`ReactNode`
+`ReactNode` \| `Promise`\<`ReactNode`\>
 
 ## Defined in
 
-[src/components/field-templates/section.tsx:5](https://github.com/Sitecore/jss/blob/540e8be146f4161168a60dfe5639182c4851b37e/packages/sitecore-jss-react-forms/src/components/field-templates/section.tsx#L5)
+[src/components/field-templates/section.tsx:5](https://github.com/Sitecore/jss/blob/5c859bf6c09a7abc729449727ac180e85856bd42/packages/sitecore-jss-react-forms/src/components/field-templates/section.tsx#L5)

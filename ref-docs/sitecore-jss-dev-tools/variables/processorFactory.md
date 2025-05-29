@@ -26,4 +26,4 @@
 
 ## Defined in
 
-[sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts:23](https://github.com/Sitecore/jss/blob/540e8be146f4161168a60dfe5639182c4851b37e/packages/sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts#L23)
+[sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts:23](https://github.com/Sitecore/jss/blob/5c859bf6c09a7abc729449727ac180e85856bd42/packages/sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts#L23)
