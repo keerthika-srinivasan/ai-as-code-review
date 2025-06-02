@@ -25,4 +25,4 @@ Experience Editor Markup
 
 ## Defined in
 
-[packages/sitecore-jss-react/src/components/Image.tsx:117](https://github.com/Sitecore/jss/blob/5c859bf6c09a7abc729449727ac180e85856bd42/packages/sitecore-jss-react/src/components/Image.tsx#L117)
+[packages/sitecore-jss-react/src/components/Image.tsx:117](https://github.com/Sitecore/jss/blob/5a2c8d69e949a96bdaa917e5ffbef50b2c5f183b/packages/sitecore-jss-react/src/components/Image.tsx#L117)
