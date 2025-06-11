@@ -18,4 +18,4 @@ Native fetcher error type to include response text and status
 
 ## Defined in
 
-[packages/sitecore-jss/src/native-fetcher.ts:37](https://github.com/Sitecore/jss/blob/5c0c0be310a5ed9244bb6778358d4d94ace1049a/packages/sitecore-jss/src/native-fetcher.ts#L37)
+[packages/sitecore-jss/src/native-fetcher.ts:37](https://github.com/Sitecore/jss/blob/3c6f9ec044c44249b1e09c8461f6371f46f57199/packages/sitecore-jss/src/native-fetcher.ts#L37)
