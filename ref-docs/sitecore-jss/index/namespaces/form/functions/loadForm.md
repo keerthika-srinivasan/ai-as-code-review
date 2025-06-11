@@ -24,4 +24,4 @@ Fetches the form markup from the Sitecore Edge service and renders it in the com
 
 ## Defined in
 
-[packages/sitecore-jss/src/form/form.ts:11](https://github.com/Sitecore/jss/blob/5b8713ceaf8c112f69de694028f814d4d9943d96/packages/sitecore-jss/src/form/form.ts#L11)
+[packages/sitecore-jss/src/form/form.ts:11](https://github.com/Sitecore/jss/blob/5c0c0be310a5ed9244bb6778358d4d94ace1049a/packages/sitecore-jss/src/form/form.ts#L11)
