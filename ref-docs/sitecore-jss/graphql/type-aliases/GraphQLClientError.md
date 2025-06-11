@@ -19,4 +19,4 @@ In cases where an error status was sent back from the server (`!response.ok`), t
 
 ## Defined in
 
-[packages/sitecore-jss/src/graphql-request-client.ts:35](https://github.com/Sitecore/jss/blob/5315c64ad6a46bcd0171506df0a095ad99cc47c7/packages/sitecore-jss/src/graphql-request-client.ts#L35)
+[packages/sitecore-jss/src/graphql-request-client.ts:35](https://github.com/Sitecore/jss/blob/5b8713ceaf8c112f69de694028f814d4d9943d96/packages/sitecore-jss/src/graphql-request-client.ts#L35)

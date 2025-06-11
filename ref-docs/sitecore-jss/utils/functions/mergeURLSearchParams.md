@@ -25,4 +25,4 @@ Merges two URLSearchParams objects. If both objects contain the same key, the va
 
 ## Defined in
 
-[packages/sitecore-jss/src/utils/utils.ts:249](https://github.com/Sitecore/jss/blob/5315c64ad6a46bcd0171506df0a095ad99cc47c7/packages/sitecore-jss/src/utils/utils.ts#L249)
+[packages/sitecore-jss/src/utils/utils.ts:249](https://github.com/Sitecore/jss/blob/5b8713ceaf8c112f69de694028f814d4d9943d96/packages/sitecore-jss/src/utils/utils.ts#L249)

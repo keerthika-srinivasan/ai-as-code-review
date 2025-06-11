@@ -21,4 +21,4 @@
 
 ## Defined in
 
-[sitecore-jss-react-native/src/components/Text.tsx:14](https://github.com/Sitecore/jss/blob/5315c64ad6a46bcd0171506df0a095ad99cc47c7/packages/sitecore-jss-react-native/src/components/Text.tsx#L14)
+[sitecore-jss-react-native/src/components/Text.tsx:14](https://github.com/Sitecore/jss/blob/5b8713ceaf8c112f69de694028f814d4d9943d96/packages/sitecore-jss-react-native/src/components/Text.tsx#L14)

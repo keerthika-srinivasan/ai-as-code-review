@@ -25,4 +25,4 @@ This may be necessary for certain custom Next.js routing configurations.
 
 #### Defined in
 
-[sitecore-jss-nextjs/src/editing/feaas-render-middleware.ts:20](https://github.com/Sitecore/jss/blob/5315c64ad6a46bcd0171506df0a095ad99cc47c7/packages/sitecore-jss-nextjs/src/editing/feaas-render-middleware.ts#L20)
+[sitecore-jss-nextjs/src/editing/feaas-render-middleware.ts:20](https://github.com/Sitecore/jss/blob/5b8713ceaf8c112f69de694028f814d4d9943d96/packages/sitecore-jss-nextjs/src/editing/feaas-render-middleware.ts#L20)
