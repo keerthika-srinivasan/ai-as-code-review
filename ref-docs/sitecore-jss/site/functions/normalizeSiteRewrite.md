@@ -24,4 +24,4 @@ the pathname with site data removed
 
 ## Defined in
 
-[packages/sitecore-jss/src/site/utils.ts:45](https://github.com/Sitecore/jss/blob/b6dee1644ff43c936bae791de36a511ddb18524d/packages/sitecore-jss/src/site/utils.ts#L45)
+[packages/sitecore-jss/src/site/utils.ts:45](https://github.com/Sitecore/jss/blob/fbc229f020e0de09aa39b196f2725ac3c0e07653/packages/sitecore-jss/src/site/utils.ts#L45)
