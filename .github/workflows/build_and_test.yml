@@ -122,6 +122,7 @@ jobs:
         with:
           app-id: ${{ secrets.GH_APP_ID }}
           private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
+          owner: ${{ github.repository_owner }}
 
       - name: Use Node.js 22
         uses: actions/setup-node@v4
