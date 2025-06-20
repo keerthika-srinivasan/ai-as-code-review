@@ -19,12 +19,10 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       should-publish: ${{ steps.set-vars.outputs.should_publish }}
-      lerna-since-flag: ${{ steps.set-vars.outputs.lerna_since_flag }}
     env:
       YARN_ENABLE_IMMUTABLE_INSTALLS: false
     steps:
-      - name: Set branch context variables
-        id: set-vars
+      - name: Set should publish flag
         run: |
           BRANCH_NAME="${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}"
 
@@ -33,17 +31,6 @@ jobs:
           else
             echo "should_publish=false" >> $GITHUB_OUTPUT
           fi
-
-          if [[ "$GITHUB_EVENT_NAME" == "pull_request" ]]; then
-            echo "lerna_since_flag=--since=origin/dev" >> $GITHUB_OUTPUT
-          else
-            echo "lerna_since_flag=" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Show variables
-        run: |
-          echo "should_publish=${{ steps.set-vars.outputs.should_publish }}"
-          echo "lerna_since_flag=${{ steps.set-vars.outputs.lerna_since_flag }}"
 
   pull-request:
     runs-on: ubuntu-latest
@@ -57,6 +44,11 @@ jobs:
           ref: ${{ github.ref }}
           fetch-depth: 0
 
+      - name: Set lerna since flag
+        id: set-lerna-flag
+        run: |
+          echo "lerna_since_flag=--since=origin/dev" >> $GITHUB_OUTPUT
+
       - name: Use Node.js 22
         uses: actions/setup-node@v4
         with:
@@ -68,11 +60,6 @@ jobs:
           dotnet-version: 8.x
           dotnet-quality: 'ga'
 
-      - name: Show variables
-        run: |
-          echo "[PR] should_publish=${{ needs.prepare-build.outputs.should-publish }}"
-          echo "[PR] lerna_since_flag=${{ needs.prepare-build.outputs.lerna-since-flag }}"
-
       - name: Install dependencies
         run: |
           yarn cache clean --all
@@ -83,7 +70,7 @@ jobs:
 
       - name: Lint packages
         run: |
-          yarn lint-packages ${{ needs.prepare-build.outputs.lerna-since-flag }}
+          yarn lint-packages ${{ steps.set-lerna-flag.outputs.lerna_since_flag }}
 
       - name: Run tests and collect coverage
         run: yarn coverage-packages
@@ -114,7 +101,7 @@ jobs:
         run: yarn install
 
       - name: Lint samples
-        run: yarn lint-samples ${{ needs.prepare-build.outputs.lerna-since-flag }}
+        run: yarn lint-samples ${{ steps.set-lerna-flag.outputs.lerna_since_flag }}
 
   publish:
     runs-on: ubuntu-latest
@@ -128,15 +115,17 @@ jobs:
           ref: ${{ github.ref }}
           fetch-depth: 0
 
+      - name: Generate GitHub App Token
+        id: generate-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.GH_APP_ID }}
+          private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
+
       - name: Use Node.js 22
         uses: actions/setup-node@v4
         with:
           node-version: 22
-
-      - name: Show variables
-        run: |
-          echo "[Publish] should_publish=${{ needs.prepare-build.outputs.should-publish }}"
-          echo "[Publish] lerna_since_flag=${{ needs.prepare-build.outputs.lerna-since-flag }}"
 
       - name: Install dependencies
         run: |
@@ -150,9 +139,7 @@ jobs:
         run: |
           git config user.email builds@sitecore.com
           git config user.name "jss-bot"
-          git remote set-url origin https://$GITHUB_TOKEN@github.com/${{ github.repository }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          git remote set-url origin https://x-access-token:${{ steps.generate-token.outputs.token }}@github.com/${{ github.repository }}
 
       - name: Generate API docs
         run: |
