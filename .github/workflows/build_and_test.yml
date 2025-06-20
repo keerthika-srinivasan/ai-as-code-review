@@ -149,11 +149,10 @@ jobs:
       - name: Git configuration for publishing
         run: |
           git config user.email builds@sitecore.com
-          git config user.name "Automated Build"
-          git remote set-url origin https://$GITHUB_PAT_ENV@github.com/${{ github.repository }}
-          git checkout ${{ github.head_ref || github.ref_name }}
+          git config user.name "jss-bot"
+          git remote set-url origin https://$GITHUB_TOKEN@github.com/${{ github.repository }}
         env:
-          GITHUB_PAT_ENV: ${{ secrets.GITHUB_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate API docs
         run: |
