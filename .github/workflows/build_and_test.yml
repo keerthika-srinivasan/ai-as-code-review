@@ -111,11 +111,6 @@ jobs:
     env:
       YARN_ENABLE_IMMUTABLE_INSTALLS: false
     steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: ${{ github.ref }}
-          fetch-depth: 0
-
       - name: Generate GitHub App Token
         id: generate-token
         uses: actions/create-github-app-token@v2
@@ -123,7 +118,13 @@ jobs:
           app-id: ${{ secrets.GH_APP_ID }}
           private-key: ${{ secrets.GH_APP_PRIVATE_KEY }}
           owner: ${{ github.repository_owner }}
-          permission-contents: write
+
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+          fetch-depth: 0
+          persist-credentials: false
+          token: ${{ steps.generate-token.outputs.token }}
 
       - name: Use Node.js 22
         uses: actions/setup-node@v4
@@ -142,7 +143,6 @@ jobs:
         run: |
           git config user.email builds@sitecore.com
           git config user.name "jss-bot"
-          git remote set-url origin https://x-access-token:${{ steps.generate-token.outputs.token }}@github.com/${{ github.repository }}
 
       - name: Generate API docs
         run: |
