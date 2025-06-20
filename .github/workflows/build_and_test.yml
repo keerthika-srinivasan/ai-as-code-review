@@ -124,7 +124,12 @@ jobs:
           ref: ${{ github.ref }}
           fetch-depth: 0
           persist-credentials: false
-          token: ${{ steps.generate-token.outputs.token }}
+
+      - name: Git configuration for publishing
+        run: |
+          git config --global user.email builds@sitecore.com
+          git config --global user.name "jss-bot"
+          git remote set-url origin https://x-access-token:${{ steps.generate-token.outputs.token }}@github.com/${{ github.repository }}
 
       - name: Use Node.js 22
         uses: actions/setup-node@v4
@@ -138,11 +143,6 @@ jobs:
 
       - name: Build packages
         run: npm run build
-
-      - name: Git configuration for publishing
-        run: |
-          git config user.email builds@sitecore.com
-          git config user.name "jss-bot"
 
       - name: Generate API docs
         run: |
