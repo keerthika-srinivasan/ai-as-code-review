@@ -18,24 +18,25 @@ jobs:
   prepare-build:
     runs-on: ubuntu-latest
     outputs:
-      should-publish: ${{ steps.set-vars.outputs.should_publish }}
+      should-publish: ${{ steps.set-should-publish-flag.outputs.should-publish }}
     env:
       YARN_ENABLE_IMMUTABLE_INSTALLS: false
     steps:
       - name: Set should publish flag
+        id: set-should-publish-flag
         run: |
           BRANCH_NAME="${GITHUB_HEAD_REF:-${GITHUB_REF#refs/heads/}}"
 
           if [[ "$BRANCH_NAME" == "dev" || "$BRANCH_NAME" =~ ^release/ ]]; then
-            echo "should_publish=true" >> $GITHUB_OUTPUT
+            echo "should-publish=true" >> $GITHUB_OUTPUT
           else
-            echo "should_publish=false" >> $GITHUB_OUTPUT
+            echo "should-publish=false" >> $GITHUB_OUTPUT
           fi
 
   pull-request:
     runs-on: ubuntu-latest
     needs: prepare-build
-    if: needs.prepare-build.outputs.should-publish != 'true'
+    if: needs.prepare-build.outputs.should-publish == 'false'
     env:
       YARN_ENABLE_IMMUTABLE_INSTALLS: false
     steps:
@@ -47,7 +48,7 @@ jobs:
       - name: Set lerna since flag
         id: set-lerna-flag
         run: |
-          echo "lerna_since_flag=--since=origin/dev" >> $GITHUB_OUTPUT
+          echo "lerna-since-flag=--since=origin/dev" >> $GITHUB_OUTPUT
 
       - name: Use Node.js 22
         uses: actions/setup-node@v4
@@ -70,7 +71,7 @@ jobs:
 
       - name: Lint packages
         run: |
-          yarn lint-packages ${{ steps.set-lerna-flag.outputs.lerna_since_flag }}
+          yarn lint-packages ${{ steps.set-lerna-flag.outputs.lerna-since-flag }}
 
       - name: Run tests and collect coverage
         run: yarn coverage-packages
@@ -101,7 +102,7 @@ jobs:
         run: yarn install
 
       - name: Lint samples
-        run: yarn lint-samples ${{ steps.set-lerna-flag.outputs.lerna_since_flag }}
+        run: yarn lint-samples ${{ steps.set-lerna-flag.outputs.lerna-since-flag }}
 
   publish:
     runs-on: ubuntu-latest
