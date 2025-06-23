@@ -25,4 +25,4 @@ The JSS application name
 
 ## Defined in
 
-[packages/sitecore-jss/src/site/graphql-sitemap-service.ts:19](https://github.com/Sitecore/jss/blob/d7878ec4777eb88035234c77c43b245b82e26715/packages/sitecore-jss/src/site/graphql-sitemap-service.ts#L19)
+[packages/sitecore-jss/src/site/graphql-sitemap-service.ts:19](https://github.com/Sitecore/jss/blob/7f26c9ef86104d3d0ab932a091d5ebc948c0e9de/packages/sitecore-jss/src/site/graphql-sitemap-service.ts#L19)
