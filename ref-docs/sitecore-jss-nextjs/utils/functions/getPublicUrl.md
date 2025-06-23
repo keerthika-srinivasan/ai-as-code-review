@@ -22,4 +22,4 @@ In production non-editing environments it is desirable to use relative urls, so 
 
 ## Defined in
 
-[sitecore-jss-nextjs/src/utils/utils.ts:12](https://github.com/Sitecore/jss/blob/10cee4dfaa12147e985c0e833084983e75babfc9/packages/sitecore-jss-nextjs/src/utils/utils.ts#L12)
+[sitecore-jss-nextjs/src/utils/utils.ts:12](https://github.com/Sitecore/jss/blob/e697276ad132927728b72f79487796261de45eb0/packages/sitecore-jss-nextjs/src/utils/utils.ts#L12)

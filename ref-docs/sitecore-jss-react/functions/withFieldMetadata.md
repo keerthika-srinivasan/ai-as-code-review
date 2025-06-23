@@ -30,4 +30,4 @@ Wraps the field component with metadata markup intended to be used for chromes h
 
 ## Defined in
 
-[packages/sitecore-jss-react/src/enhancers/withFieldMetadata.tsx:16](https://github.com/Sitecore/jss/blob/10cee4dfaa12147e985c0e833084983e75babfc9/packages/sitecore-jss-react/src/enhancers/withFieldMetadata.tsx#L16)
+[packages/sitecore-jss-react/src/enhancers/withFieldMetadata.tsx:16](https://github.com/Sitecore/jss/blob/e697276ad132927728b72f79487796261de45eb0/packages/sitecore-jss-react/src/enhancers/withFieldMetadata.tsx#L16)

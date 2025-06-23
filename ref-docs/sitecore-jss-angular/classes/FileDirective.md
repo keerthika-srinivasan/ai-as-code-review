@@ -31,7 +31,7 @@ File fields cannot be managed via the EE. We never output "editable."
 
 #### Defined in
 
-[packages/sitecore-jss-angular/src/components/file.directive.ts:21](https://github.com/Sitecore/jss/blob/10cee4dfaa12147e985c0e833084983e75babfc9/packages/sitecore-jss-angular/src/components/file.directive.ts#L21)
+[packages/sitecore-jss-angular/src/components/file.directive.ts:21](https://github.com/Sitecore/jss/blob/e697276ad132927728b72f79487796261de45eb0/packages/sitecore-jss-angular/src/components/file.directive.ts#L21)
 
 ## Properties
 
@@ -41,7 +41,7 @@ File fields cannot be managed via the EE. We never output "editable."
 
 #### Defined in
 
-[packages/sitecore-jss-angular/src/components/file.directive.ts:17](https://github.com/Sitecore/jss/blob/10cee4dfaa12147e985c0e833084983e75babfc9/packages/sitecore-jss-angular/src/components/file.directive.ts#L17)
+[packages/sitecore-jss-angular/src/components/file.directive.ts:17](https://github.com/Sitecore/jss/blob/e697276ad132927728b72f79487796261de45eb0/packages/sitecore-jss-angular/src/components/file.directive.ts#L17)
 
 ## Methods
 
@@ -70,4 +70,4 @@ children are checked.
 
 #### Defined in
 
-[packages/sitecore-jss-angular/src/components/file.directive.ts:23](https://github.com/Sitecore/jss/blob/10cee4dfaa12147e985c0e833084983e75babfc9/packages/sitecore-jss-angular/src/components/file.directive.ts#L23)
+[packages/sitecore-jss-angular/src/components/file.directive.ts:23](https://github.com/Sitecore/jss/blob/e697276ad132927728b72f79487796261de45eb0/packages/sitecore-jss-angular/src/components/file.directive.ts#L23)
