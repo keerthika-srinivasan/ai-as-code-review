@@ -18,6 +18,10 @@ Our versioning strategy is as follows:
   * Added `processPersonalizationRequest` method to be able to extend the personalize handler logic
   * Added `getPersonalizeInfo` method to be able to control and extend `personalizeService.getPersonalizeInfo` behavior
 
+### 🛠 Breaking Changes
+
+* `[nextjs][sitecore-jss-nextjs]` Support for Component Library feature in XMCloud ([#1987](https://github.com/Sitecore/jss/pull/1987)[#2000](https://github.com/Sitecore/jss/pull/2000)[#2002](https://github.com/Sitecore/jss/pull/2002)[#2005](https://github.com/Sitecore/jss/pull/2005))
+
 ## 22.7.0
 
 ### 🎉 New Features & Improvements
