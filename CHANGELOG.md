@@ -18,6 +18,10 @@ Our versioning strategy is as follows:
   * Added `processPersonalizationRequest` method to be able to extend the personalize handler logic
   * Added `getPersonalizeInfo` method to be able to control and extend `personalizeService.getPersonalizeInfo` behavior
 
+### 🐛 Bug Fixes
+
+* `[sitecore-jss]` Fix forwarding of Set-Cookie headers to prevent form submissions from failing due to missing verification tokens(`__RequestVerificationToken`) ([#2112](https://github.com/Sitecore/jss/pull/2112))
+
 ## 22.7.0
 
 ### 🎉 New Features & Improvements
