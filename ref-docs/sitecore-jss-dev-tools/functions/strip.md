@@ -23,4 +23,4 @@ Compiles each not excluded file starting from current directory (or `settings.so
 
 ## Defined in
 
-[sitecore-jss-dev-tools/src/templating/strip.ts:87](https://github.com/Sitecore/jss/blob/869058c0094bb85917338c454024b6d5d741d14f/packages/sitecore-jss-dev-tools/src/templating/strip.ts#L87)
+[sitecore-jss-dev-tools/src/templating/strip.ts:87](https://github.com/Sitecore/jss/blob/99360771bdec2eafe1e269d32db76ee7895f870b/packages/sitecore-jss-dev-tools/src/templating/strip.ts#L87)

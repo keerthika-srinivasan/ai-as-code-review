@@ -12,4 +12,4 @@ Injection token for the Sitecore Edge configuration.
 
 ## Defined in
 
-[packages/sitecore-jss-angular/src/services/shared.token.ts:14](https://github.com/Sitecore/jss/blob/869058c0094bb85917338c454024b6d5d741d14f/packages/sitecore-jss-angular/src/services/shared.token.ts#L14)
+[packages/sitecore-jss-angular/src/services/shared.token.ts:14](https://github.com/Sitecore/jss/blob/99360771bdec2eafe1e269d32db76ee7895f870b/packages/sitecore-jss-angular/src/services/shared.token.ts#L14)

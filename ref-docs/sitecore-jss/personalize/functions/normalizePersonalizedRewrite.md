@@ -24,4 +24,4 @@ the pathname with personalize data removed
 
 ## Defined in
 
-[packages/sitecore-jss/src/personalize/utils.ts:69](https://github.com/Sitecore/jss/blob/869058c0094bb85917338c454024b6d5d741d14f/packages/sitecore-jss/src/personalize/utils.ts#L69)
+[packages/sitecore-jss/src/personalize/utils.ts:69](https://github.com/Sitecore/jss/blob/99360771bdec2eafe1e269d32db76ee7895f870b/packages/sitecore-jss/src/personalize/utils.ts#L69)
