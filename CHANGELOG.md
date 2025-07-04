@@ -39,6 +39,14 @@ Our versioning strategy is as follows:
   * Added `getPersonalizeInfo` method to be able to control and extend `personalizeService.getPersonalizeInfo` behavior
 * `[nextjs][sitecore-jss-nextjs]` Support for Component Library in XMCloud ([#1987](https://github.com/Sitecore/jss/pull/1987))([#2000](https://github.com/Sitecore/jss/pull/2000))([#2002](https://github.com/Sitecore/jss/pull/2002))([#2005](https://github.com/Sitecore/jss/pull/2005))([#2024](https://github.com/Sitecore/jss/pull/2024))([#2053](https://github.com/Sitecore/jss/pull/2053))([#2059](https://github.com/Sitecore/jss/pull/2059))([#2064](https://github.com/Sitecore/jss/pull/2064))([#2068](https://github.com/Sitecore/jss/pull/2068))([#2087](https://github.com/Sitecore/jss/pull/2087))([#2091](https://github.com/Sitecore/jss/pull/2091))([#2101](https://github.com/Sitecore/jss/pull/2101))
 
+### 🐛 Bug Fixes
+
+* `[sitecore-jss]` Fix forwarding of Set-Cookie headers to prevent form submissions from failing due to missing verification tokens(`__RequestVerificationToken`) ([#2112](https://github.com/Sitecore/jss/pull/2112))
+
+### Chores
+
+* `[sitecore-jss-react]``[nexjts-xmcloud]` FEAAS dependencies updated for proper React 19 support ([#2113](https://github.com/Sitecore/jss/pull/2113))
+
 ## 22.7.0
 
 ### 🎉 New Features & Improvements
