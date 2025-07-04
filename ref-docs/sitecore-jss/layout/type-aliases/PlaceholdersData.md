@@ -19,4 +19,4 @@ Note: HtmlElementRendering is used by Sitecore Experience Editor
 
 ## Defined in
 
-[packages/sitecore-jss/src/layout/models.ts:76](https://github.com/Sitecore/jss/blob/99360771bdec2eafe1e269d32db76ee7895f870b/packages/sitecore-jss/src/layout/models.ts#L76)
+[packages/sitecore-jss/src/layout/models.ts:78](https://github.com/Sitecore/jss/blob/5d48b548e4f860cfadbd21fba0f2b09ac2ad498f/packages/sitecore-jss/src/layout/models.ts#L78)

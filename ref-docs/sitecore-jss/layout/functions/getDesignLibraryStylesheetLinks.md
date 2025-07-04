@@ -2,13 +2,13 @@
 
 ***
 
-[@sitecore-jss/sitecore-jss](../../README.md) / [layout](../README.md) / getComponentLibraryStylesheetLinks
+[@sitecore-jss/sitecore-jss](../../README.md) / [layout](../README.md) / getDesignLibraryStylesheetLinks
 
-# Function: getComponentLibraryStylesheetLinks()
+# Function: getDesignLibraryStylesheetLinks()
 
-> **getComponentLibraryStylesheetLinks**(`layoutData`, `sitecoreEdgeContextId`, `sitecoreEdgeUrl`?): [`HTMLLink`](../../index/type-aliases/HTMLLink.md)[]
+> **getDesignLibraryStylesheetLinks**(`layoutData`, `sitecoreEdgeContextId`, `sitecoreEdgeUrl`?): [`HTMLLink`](../../index/type-aliases/HTMLLink.md)[]
 
-Walks through rendering tree and returns list of links of all FEAAS, BYOC or SXA Component Library Stylesheets that are used
+Walks through rendering tree and returns list of links of all FEAAS, BYOC or SXA Design Library Stylesheets that are used
 
 ## Parameters
 
@@ -26,4 +26,4 @@ library stylesheet links
 
 ## Defined in
 
-[packages/sitecore-jss/src/layout/themes.ts:24](https://github.com/Sitecore/jss/blob/99360771bdec2eafe1e269d32db76ee7895f870b/packages/sitecore-jss/src/layout/themes.ts#L24)
+[packages/sitecore-jss/src/layout/themes.ts:24](https://github.com/Sitecore/jss/blob/5d48b548e4f860cfadbd21fba0f2b09ac2ad498f/packages/sitecore-jss/src/layout/themes.ts#L24)
