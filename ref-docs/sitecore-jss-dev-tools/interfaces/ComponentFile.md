@@ -16,7 +16,7 @@ Describes a file that represents a component definition
 
 #### Defined in
 
-[sitecore-jss-dev-tools/src/templating/components.ts:9](https://github.com/Sitecore/jss/blob/4158c2ed3a27e7db252a698bc1eef23b41feb556/packages/sitecore-jss-dev-tools/src/templating/components.ts#L9)
+[sitecore-jss-dev-tools/src/templating/components.ts:9](https://github.com/Sitecore/jss/blob/8d6c619a3806148bacaafa1d4c1f3a49455568d7/packages/sitecore-jss-dev-tools/src/templating/components.ts#L9)
 
 ***
 
@@ -26,7 +26,7 @@ Describes a file that represents a component definition
 
 #### Defined in
 
-[sitecore-jss-dev-tools/src/templating/components.ts:8](https://github.com/Sitecore/jss/blob/4158c2ed3a27e7db252a698bc1eef23b41feb556/packages/sitecore-jss-dev-tools/src/templating/components.ts#L8)
+[sitecore-jss-dev-tools/src/templating/components.ts:8](https://github.com/Sitecore/jss/blob/8d6c619a3806148bacaafa1d4c1f3a49455568d7/packages/sitecore-jss-dev-tools/src/templating/components.ts#L8)
 
 ***
 
@@ -36,4 +36,4 @@ Describes a file that represents a component definition
 
 #### Defined in
 
-[sitecore-jss-dev-tools/src/templating/components.ts:7](https://github.com/Sitecore/jss/blob/4158c2ed3a27e7db252a698bc1eef23b41feb556/packages/sitecore-jss-dev-tools/src/templating/components.ts#L7)
+[sitecore-jss-dev-tools/src/templating/components.ts:7](https://github.com/Sitecore/jss/blob/8d6c619a3806148bacaafa1d4c1f3a49455568d7/packages/sitecore-jss-dev-tools/src/templating/components.ts#L7)
