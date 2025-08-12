@@ -8,4 +8,4 @@
 
 > `const` **Text**: `React.SFC`\<`TextProps`\>
 
-Defined in: [sitecore-jss-react-native/src/components/Text.tsx:14](https://github.com/Sitecore/jss/blob/cc5e1414f97a50780316eb06579beb0a5e62f250/packages/sitecore-jss-react-native/src/components/Text.tsx#L14)
+Defined in: [sitecore-jss-react-native/src/components/Text.tsx:14](https://github.com/Sitecore/jss/blob/8c7999bc97693a30bb4de5b7850304e938de02e3/packages/sitecore-jss-react-native/src/components/Text.tsx#L14)
