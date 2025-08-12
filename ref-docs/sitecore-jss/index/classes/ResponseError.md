@@ -6,7 +6,7 @@
 
 # Class: ResponseError
 
-Defined in: [packages/sitecore-jss/src/data-fetcher.ts:29](https://github.com/Sitecore/jss/blob/82af2a99a59fe8619eb90debe56107388ae735ac/packages/sitecore-jss/src/data-fetcher.ts#L29)
+Defined in: [packages/sitecore-jss/src/data-fetcher.ts:29](https://github.com/Sitecore/jss/blob/2010ad77b7f484c8216630feb94c662f3474697e/packages/sitecore-jss/src/data-fetcher.ts#L29)
 
 ## Extends
 
@@ -18,7 +18,7 @@ Defined in: [packages/sitecore-jss/src/data-fetcher.ts:29](https://github.com/Si
 
 > **new ResponseError**(`message`, `response`): `ResponseError`
 
-Defined in: [packages/sitecore-jss/src/data-fetcher.ts:32](https://github.com/Sitecore/jss/blob/82af2a99a59fe8619eb90debe56107388ae735ac/packages/sitecore-jss/src/data-fetcher.ts#L32)
+Defined in: [packages/sitecore-jss/src/data-fetcher.ts:32](https://github.com/Sitecore/jss/blob/2010ad77b7f484c8216630feb94c662f3474697e/packages/sitecore-jss/src/data-fetcher.ts#L32)
 
 #### Parameters
 
@@ -65,7 +65,7 @@ Defined in: node\_modules/typescript/lib/lib.es5.d.ts:1076
 
 > **response**: [`HttpResponse`](../interfaces/HttpResponse.md)\<`unknown`\>
 
-Defined in: [packages/sitecore-jss/src/data-fetcher.ts:30](https://github.com/Sitecore/jss/blob/82af2a99a59fe8619eb90debe56107388ae735ac/packages/sitecore-jss/src/data-fetcher.ts#L30)
+Defined in: [packages/sitecore-jss/src/data-fetcher.ts:30](https://github.com/Sitecore/jss/blob/2010ad77b7f484c8216630feb94c662f3474697e/packages/sitecore-jss/src/data-fetcher.ts#L30)
 
 ***
 
