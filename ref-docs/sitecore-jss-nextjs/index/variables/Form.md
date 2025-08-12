@@ -8,7 +8,7 @@
 
 > `const` **Form**: (`{ params, rendering }`) => `React.JSX.Element`
 
-Defined in: sitecore-jss-react/types/components/Form.d.ts:29
+Defined in: sitecore-jss-react/types/components/Form.d.ts:30
 
 ## Parameters
 

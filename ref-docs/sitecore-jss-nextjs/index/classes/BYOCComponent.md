@@ -6,7 +6,7 @@
 
 # Class: BYOCComponent
 
-Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:74
+Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:75
 
 BYOCComponent facilitate the rendering of external components. It manages potential errors,
 missing components, and customization of error messages or alternative rendering components.
@@ -25,7 +25,7 @@ component props
 
 > **new BYOCComponent**(`props`): `BYOCComponent`
 
-Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:78
+Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:79
 
 #### Parameters
 
@@ -89,7 +89,7 @@ Defined in: sitecore-jss-react/node\_modules/@types/react/index.d.ts:970
 
 > **state**: `Readonly`\<\{ `error?`: `Error`; \}\>
 
-Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:75
+Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:76
 
 #### Overrides
 
@@ -152,7 +152,7 @@ Only kept in types for backwards compatibility. Will be removed in a future majo
 
 > **componentDidCatch**(`error`): `void`
 
-Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:82
+Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:83
 
 Catches exceptions generated in descendant components. Unhandled exceptions will cause
 the entire component tree to unmount.
@@ -409,7 +409,7 @@ lifecycle events from running.
 
 > **render**(): `Element`
 
-Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:83
+Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:84
 
 #### Returns
 
@@ -608,7 +608,7 @@ this from being invoked.
 
 > `static` **getDerivedStateFromError**(`error`): `object`
 
-Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:79
+Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:80
 
 #### Parameters
 

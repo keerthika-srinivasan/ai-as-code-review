@@ -6,7 +6,7 @@
 
 # Interface: RichTextField
 
-Defined in: sitecore-jss-react/types/components/RichText.d.ts:4
+Defined in: sitecore-jss-react/types/components/RichText.d.ts:5
 
 ## Extends
 
@@ -18,7 +18,7 @@ Defined in: sitecore-jss-react/types/components/RichText.d.ts:4
 
 > `optional` **editable**: `string`
 
-Defined in: sitecore-jss-react/types/components/RichText.d.ts:6
+Defined in: sitecore-jss-react/types/components/RichText.d.ts:7
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: sitecore-jss/types/layout/models.d.ts:125
 
 > `optional` **value**: `string`
 
-Defined in: sitecore-jss-react/types/components/RichText.d.ts:5
+Defined in: sitecore-jss-react/types/components/RichText.d.ts:6

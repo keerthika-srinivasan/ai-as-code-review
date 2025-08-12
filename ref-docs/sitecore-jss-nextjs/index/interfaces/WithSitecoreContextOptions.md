@@ -6,7 +6,7 @@
 
 # Interface: WithSitecoreContextOptions
 
-Defined in: sitecore-jss-react/types/enhancers/withSitecoreContext.d.ts:4
+Defined in: sitecore-jss-react/types/enhancers/withSitecoreContext.d.ts:5
 
 ## Properties
 
@@ -14,4 +14,4 @@ Defined in: sitecore-jss-react/types/enhancers/withSitecoreContext.d.ts:4
 
 > `optional` **updatable**: `boolean`
 
-Defined in: sitecore-jss-react/types/enhancers/withSitecoreContext.d.ts:5
+Defined in: sitecore-jss-react/types/enhancers/withSitecoreContext.d.ts:6

@@ -8,7 +8,7 @@
 
 > **BYOCComponentParams** = `object`
 
-Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:18
+Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:19
 
 Data from rendering params on Sitecore's BYOC rendering
 
@@ -18,7 +18,7 @@ Data from rendering params on Sitecore's BYOC rendering
 
 > `optional` **ComponentDataOverride**: `string`
 
-Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:30
+Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:31
 
 A JSON object with data sources to be fetched and passed to the component
 
@@ -28,7 +28,7 @@ A JSON object with data sources to be fetched and passed to the component
 
 > `optional` **ComponentName**: `string`
 
-Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:22
+Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:23
 
 Name of the component to render
 
@@ -38,7 +38,7 @@ Name of the component to render
 
 > `optional` **ComponentProps**: `string`
 
-Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:26
+Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:27
 
 JSON props to pass into rendered component
 
@@ -48,7 +48,7 @@ JSON props to pass into rendered component
 
 > `optional` **RenderingIdentifier**: `string`
 
-Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:35
+Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:36
 
 ***
 
@@ -56,6 +56,6 @@ Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:35
 
 > `optional` **styles**: `string`
 
-Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:34
+Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:35
 
 A string with classes that can be used to apply themes, via SXA functionality

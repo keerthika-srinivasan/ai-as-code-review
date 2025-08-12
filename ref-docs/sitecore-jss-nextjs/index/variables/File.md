@@ -8,4 +8,4 @@
 
 > `const` **File**: `React.FC`\<`FileProps`\>
 
-Defined in: sitecore-jss-react/types/components/File.d.ts:18
+Defined in: sitecore-jss-react/types/components/File.d.ts:19

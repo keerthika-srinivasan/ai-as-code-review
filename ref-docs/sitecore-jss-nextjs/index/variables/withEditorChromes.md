@@ -6,9 +6,9 @@
 
 # Variable: withEditorChromes()
 
-> `const` **withEditorChromes**: (`WrappedComponent`) => `React.ComponentClass`
+> `const` **withEditorChromes**: (`WrappedComponent`) => `React.ComponentClass`\<\{ \}, `any`\>
 
-Defined in: sitecore-jss-react/types/enhancers/withEditorChromes.d.ts:2
+Defined in: sitecore-jss-react/types/enhancers/withEditorChromes.d.ts:3
 
 ## Parameters
 
@@ -18,4 +18,4 @@ Defined in: sitecore-jss-react/types/enhancers/withEditorChromes.d.ts:2
 
 ## Returns
 
-`React.ComponentClass`
+`React.ComponentClass`\<\{ \}, `any`\>

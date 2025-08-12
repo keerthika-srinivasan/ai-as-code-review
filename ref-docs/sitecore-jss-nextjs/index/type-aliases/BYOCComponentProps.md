@@ -8,4 +8,4 @@
 
 > **BYOCComponentProps** = `BYOCComponentClientProps` & `BYOCServerProps`
 
-Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:63
+Defined in: sitecore-jss-react/types/components/BYOCComponent.d.ts:64

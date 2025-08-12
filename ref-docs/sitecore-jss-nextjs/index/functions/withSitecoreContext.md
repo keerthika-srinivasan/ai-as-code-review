@@ -8,7 +8,7 @@
 
 > **withSitecoreContext**(`options?`): \<`ComponentProps`\>(`Component`) => (`props`) => `Element`
 
-Defined in: sitecore-jss-react/types/enhancers/withSitecoreContext.d.ts:16
+Defined in: sitecore-jss-react/types/enhancers/withSitecoreContext.d.ts:17
 
 ## Parameters
 
@@ -40,7 +40,7 @@ Defined in: sitecore-jss-react/types/enhancers/withSitecoreContext.d.ts:16
 
 | Parameter | Type |
 | ------ | ------ |
-| `props` | [`WithSitecoreContextHocProps`](../type-aliases/WithSitecoreContextHocProps.md)\<`ComponentProps`\> |
+| `props` | `EnhancedOmit`\<`ComponentProps`, keyof [`WithSitecoreContextProps`](../interfaces/WithSitecoreContextProps.md)\> |
 
 #### Returns
 
