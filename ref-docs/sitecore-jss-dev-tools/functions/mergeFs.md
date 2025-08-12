@@ -8,7 +8,7 @@
 
 > **mergeFs**(`rootPath`, `parseFileContents?`): `Promise`\<[`MergeFsResult`](../interfaces/MergeFsResult.md)\>
 
-Defined in: [sitecore-jss-dev-tools/src/mergeFs.ts:125](https://github.com/Sitecore/jss/blob/e9229b7675da10bf0790b170b8a89d32bf9afc76/packages/sitecore-jss-dev-tools/src/mergeFs.ts#L125)
+Defined in: [sitecore-jss-dev-tools/src/mergeFs.ts:125](https://github.com/Sitecore/jss/blob/cc5e1414f97a50780316eb06579beb0a5e62f250/packages/sitecore-jss-dev-tools/src/mergeFs.ts#L125)
 
 ## Parameters
 

@@ -6,7 +6,7 @@
 
 # Class: PlaceholderLoadingDirective
 
-Defined in: [packages/sitecore-jss-angular/src/components/placeholder-loading.directive.ts:6](https://github.com/Sitecore/jss/blob/e9229b7675da10bf0790b170b8a89d32bf9afc76/packages/sitecore-jss-angular/src/components/placeholder-loading.directive.ts#L6)
+Defined in: [packages/sitecore-jss-angular/src/components/placeholder-loading.directive.ts:6](https://github.com/Sitecore/jss/blob/cc5e1414f97a50780316eb06579beb0a5e62f250/packages/sitecore-jss-angular/src/components/placeholder-loading.directive.ts#L6)
 
 ## Constructors
 
@@ -14,7 +14,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/placeholder-loading.di
 
 > **new PlaceholderLoadingDirective**(`templateRef`): `PlaceholderLoadingDirective`
 
-Defined in: [packages/sitecore-jss-angular/src/components/placeholder-loading.directive.ts:7](https://github.com/Sitecore/jss/blob/e9229b7675da10bf0790b170b8a89d32bf9afc76/packages/sitecore-jss-angular/src/components/placeholder-loading.directive.ts#L7)
+Defined in: [packages/sitecore-jss-angular/src/components/placeholder-loading.directive.ts:7](https://github.com/Sitecore/jss/blob/cc5e1414f97a50780316eb06579beb0a5e62f250/packages/sitecore-jss-angular/src/components/placeholder-loading.directive.ts#L7)
 
 #### Parameters
 
@@ -32,4 +32,4 @@ Defined in: [packages/sitecore-jss-angular/src/components/placeholder-loading.di
 
 > **templateRef**: `TemplateRef`\<`unknown`\>
 
-Defined in: [packages/sitecore-jss-angular/src/components/placeholder-loading.directive.ts:7](https://github.com/Sitecore/jss/blob/e9229b7675da10bf0790b170b8a89d32bf9afc76/packages/sitecore-jss-angular/src/components/placeholder-loading.directive.ts#L7)
+Defined in: [packages/sitecore-jss-angular/src/components/placeholder-loading.directive.ts:7](https://github.com/Sitecore/jss/blob/cc5e1414f97a50780316eb06579beb0a5e62f250/packages/sitecore-jss-angular/src/components/placeholder-loading.directive.ts#L7)
