@@ -8,7 +8,7 @@
 
 > **generateToVariable**(`config`): `Promise`\<[`ManifestInstance`](../interfaces/ManifestInstance.md)\>
 
-Defined in: [sitecore-jss-dev-tools/src/manifest/generator/generate.ts:173](https://github.com/Sitecore/jss/blob/cedab0876a88166246f7f91b1e4a99c9ee30233e/packages/sitecore-jss-dev-tools/src/manifest/generator/generate.ts#L173)
+Defined in: [sitecore-jss-dev-tools/src/manifest/generator/generate.ts:173](https://github.com/Sitecore/jss/blob/c0b821df4c623f8a29aeda82a67bff7ec76d5317/packages/sitecore-jss-dev-tools/src/manifest/generator/generate.ts#L173)
 
 generates the JSON manifest and returns it as a variable
 NOTE: media is not copied into the manifest when using this method,

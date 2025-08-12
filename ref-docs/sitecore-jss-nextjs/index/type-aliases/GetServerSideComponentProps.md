@@ -8,6 +8,6 @@
 
 > **GetServerSideComponentProps** = `ComponentPropsFetchFunction`\<`GetServerSidePropsContext`\>
 
-Defined in: [sitecore-jss-nextjs/src/sharedTypes/component-props.ts:25](https://github.com/Sitecore/jss/blob/cedab0876a88166246f7f91b1e4a99c9ee30233e/packages/sitecore-jss-nextjs/src/sharedTypes/component-props.ts#L25)
+Defined in: [sitecore-jss-nextjs/src/sharedTypes/component-props.ts:25](https://github.com/Sitecore/jss/blob/c0b821df4c623f8a29aeda82a67bff7ec76d5317/packages/sitecore-jss-nextjs/src/sharedTypes/component-props.ts#L25)
 
 Shape of getServerSideProps function on component level
