@@ -8,4 +8,4 @@
 
 > `const` **Link**: `React.FunctionComponent`\<`LinkProps`\>
 
-Defined in: [sitecore-jss-react-native/src/components/Link.tsx:38](https://github.com/Sitecore/jss/blob/2010ad77b7f484c8216630feb94c662f3474697e/packages/sitecore-jss-react-native/src/components/Link.tsx#L38)
+Defined in: [sitecore-jss-react-native/src/components/Link.tsx:38](https://github.com/Sitecore/jss/blob/99c6b021b4666ba952b3cd20ba1d1c6934512bbb/packages/sitecore-jss-react-native/src/components/Link.tsx#L38)
