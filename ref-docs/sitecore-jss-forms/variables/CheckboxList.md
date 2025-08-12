@@ -8,4 +8,4 @@
 
 > `const` **CheckboxList**: `React.FunctionComponent`\<[`ListFieldProps`](../type-aliases/ListFieldProps.md)\>
 
-Defined in: [src/components/field-templates/checkbox-list.tsx:7](https://github.com/Sitecore/jss/blob/2010ad77b7f484c8216630feb94c662f3474697e/packages/sitecore-jss-react-forms/src/components/field-templates/checkbox-list.tsx#L7)
+Defined in: [src/components/field-templates/checkbox-list.tsx:7](https://github.com/Sitecore/jss/blob/99c6b021b4666ba952b3cd20ba1d1c6934512bbb/packages/sitecore-jss-react-forms/src/components/field-templates/checkbox-list.tsx#L7)
