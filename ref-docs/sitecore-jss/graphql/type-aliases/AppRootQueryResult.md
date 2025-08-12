@@ -8,7 +8,7 @@
 
 > **AppRootQueryResult** = `object`
 
-Defined in: [packages/sitecore-jss/src/graphql/app-root-query.ts:27](https://github.com/Sitecore/jss/blob/c0b821df4c623f8a29aeda82a67bff7ec76d5317/packages/sitecore-jss/src/graphql/app-root-query.ts#L27)
+Defined in: [packages/sitecore-jss/src/graphql/app-root-query.ts:27](https://github.com/Sitecore/jss/blob/e9229b7675da10bf0790b170b8a89d32bf9afc76/packages/sitecore-jss/src/graphql/app-root-query.ts#L27)
 
 The schema of data returned in response to an app root query request
 
@@ -18,7 +18,7 @@ The schema of data returned in response to an app root query request
 
 > **layout**: `object`
 
-Defined in: [packages/sitecore-jss/src/graphql/app-root-query.ts:28](https://github.com/Sitecore/jss/blob/c0b821df4c623f8a29aeda82a67bff7ec76d5317/packages/sitecore-jss/src/graphql/app-root-query.ts#L28)
+Defined in: [packages/sitecore-jss/src/graphql/app-root-query.ts:28](https://github.com/Sitecore/jss/blob/e9229b7675da10bf0790b170b8a89d32bf9afc76/packages/sitecore-jss/src/graphql/app-root-query.ts#L28)
 
 #### homePage
 

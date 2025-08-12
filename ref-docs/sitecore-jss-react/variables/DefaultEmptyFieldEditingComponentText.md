@@ -8,4 +8,4 @@
 
 > `const` **DefaultEmptyFieldEditingComponentText**: `React.FC`
 
-Defined in: [packages/sitecore-jss-react/src/components/DefaultEmptyFieldEditingComponents.tsx:3](https://github.com/Sitecore/jss/blob/c0b821df4c623f8a29aeda82a67bff7ec76d5317/packages/sitecore-jss-react/src/components/DefaultEmptyFieldEditingComponents.tsx#L3)
+Defined in: [packages/sitecore-jss-react/src/components/DefaultEmptyFieldEditingComponents.tsx:3](https://github.com/Sitecore/jss/blob/e9229b7675da10bf0790b170b8a89d32bf9afc76/packages/sitecore-jss-react/src/components/DefaultEmptyFieldEditingComponents.tsx#L3)
