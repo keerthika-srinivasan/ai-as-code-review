@@ -1,4 +1,4 @@
-[**@sitecore-jss/sitecore-jss-angular-schematics**](../README.md) • **Docs**
+[**@sitecore-jss/sitecore-jss-angular-schematics**](../README.md)
 
 ***
 
@@ -8,6 +8,8 @@
 
 > **default**(`options`): (`host`) => `Promise`\<`Rule`\>
 
+Defined in: [index.ts:41](https://github.com/Sitecore/jss/blob/cedab0876a88166246f7f91b1e4a99c9ee30233e/packages/sitecore-jss-angular-schematics/src/jss-component/index.ts#L41)
+
 ## Parameters
 
 | Parameter | Type |
@@ -16,7 +18,7 @@
 
 ## Returns
 
-`Function`
+> (`host`): `Promise`\<`Rule`\>
 
 ### Parameters
 
@@ -27,7 +29,3 @@
 ### Returns
 
 `Promise`\<`Rule`\>
-
-## Defined in
-
-[index.ts:41](https://github.com/Sitecore/jss/blob/64c629cff7519105a7ad04e0db221a0147c64298/packages/sitecore-jss-angular-schematics/src/jss-component/index.ts#L41)

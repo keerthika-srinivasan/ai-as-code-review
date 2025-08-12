@@ -1,4 +1,4 @@
-[**@sitecore-jss/sitecore-jss-angular**](../README.md) • **Docs**
+[**@sitecore-jss/sitecore-jss-angular**](../README.md)
 
 ***
 
@@ -6,11 +6,15 @@
 
 # Interface: SxaTitleFields
 
+Defined in: [packages/sitecore-jss-angular/src/components/rendering-field-sxa.ts:36](https://github.com/Sitecore/jss/blob/cedab0876a88166246f7f91b1e4a99c9ee30233e/packages/sitecore-jss-angular/src/components/rendering-field-sxa.ts#L36)
+
 ## Properties
 
 ### data
 
 > **data**: `object`
+
+Defined in: [packages/sitecore-jss-angular/src/components/rendering-field-sxa.ts:37](https://github.com/Sitecore/jss/blob/cedab0876a88166246f7f91b1e4a99c9ee30233e/packages/sitecore-jss-angular/src/components/rendering-field-sxa.ts#L37)
 
 #### contextItem
 
@@ -19,7 +23,3 @@
 #### datasource
 
 > **datasource**: `SxaTitleSourceItem`
-
-#### Defined in
-
-[packages/sitecore-jss-angular/src/components/rendering-field-sxa.ts:37](https://github.com/Sitecore/jss/blob/64c629cff7519105a7ad04e0db221a0147c64298/packages/sitecore-jss-angular/src/components/rendering-field-sxa.ts#L37)

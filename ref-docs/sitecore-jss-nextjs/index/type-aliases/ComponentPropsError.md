@@ -1,4 +1,4 @@
-[**@sitecore-jss/sitecore-jss-nextjs**](../../README.md) • **Docs**
+[**@sitecore-jss/sitecore-jss-nextjs**](../../README.md)
 
 ***
 
@@ -6,18 +6,22 @@
 
 # Type Alias: ComponentPropsError
 
-> **ComponentPropsError**: `object`
+> **ComponentPropsError** = `object`
 
-## Type declaration
+Defined in: [sitecore-jss-nextjs/src/sharedTypes/component-props.ts:4](https://github.com/Sitecore/jss/blob/cedab0876a88166246f7f91b1e4a99c9ee30233e/packages/sitecore-jss-nextjs/src/sharedTypes/component-props.ts#L4)
+
+## Properties
 
 ### componentName
 
 > **componentName**: `string`
 
+Defined in: [sitecore-jss-nextjs/src/sharedTypes/component-props.ts:4](https://github.com/Sitecore/jss/blob/cedab0876a88166246f7f91b1e4a99c9ee30233e/packages/sitecore-jss-nextjs/src/sharedTypes/component-props.ts#L4)
+
+***
+
 ### error
 
 > **error**: `string`
 
-## Defined in
-
-[sitecore-jss-nextjs/src/sharedTypes/component-props.ts:4](https://github.com/Sitecore/jss/blob/64c629cff7519105a7ad04e0db221a0147c64298/packages/sitecore-jss-nextjs/src/sharedTypes/component-props.ts#L4)
+Defined in: [sitecore-jss-nextjs/src/sharedTypes/component-props.ts:4](https://github.com/Sitecore/jss/blob/cedab0876a88166246f7f91b1e4a99c9ee30233e/packages/sitecore-jss-nextjs/src/sharedTypes/component-props.ts#L4)

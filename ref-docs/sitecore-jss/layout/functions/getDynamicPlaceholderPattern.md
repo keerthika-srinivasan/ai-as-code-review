@@ -1,4 +1,4 @@
-[**@sitecore-jss/sitecore-jss**](../../README.md) • **Docs**
+[**@sitecore-jss/sitecore-jss**](../../README.md)
 
 ***
 
@@ -7,6 +7,8 @@
 # Function: getDynamicPlaceholderPattern()
 
 > **getDynamicPlaceholderPattern**(`placeholder`): `RegExp`
+
+Defined in: [packages/sitecore-jss/src/layout/utils.ts:87](https://github.com/Sitecore/jss/blob/cedab0876a88166246f7f91b1e4a99c9ee30233e/packages/sitecore-jss/src/layout/utils.ts#L87)
 
 Returns a regular expression pattern for a dynamic placeholder name.
 
@@ -21,7 +23,3 @@ Returns a regular expression pattern for a dynamic placeholder name.
 `RegExp`
 
 Regular expression pattern for the dynamic segment
-
-## Defined in
-
-[packages/sitecore-jss/src/layout/utils.ts:87](https://github.com/Sitecore/jss/blob/64c629cff7519105a7ad04e0db221a0147c64298/packages/sitecore-jss/src/layout/utils.ts#L87)

@@ -1,4 +1,4 @@
-[**@sitecore-jss/sitecore-jss**](../../README.md) • **Docs**
+[**@sitecore-jss/sitecore-jss**](../../README.md)
 
 ***
 
@@ -6,8 +6,6 @@
 
 # Type Alias: NativeDataFetcherConfig
 
-> **NativeDataFetcherConfig**: `NativeDataFetcherOptions` & `RequestInit`
+> **NativeDataFetcherConfig** = `NativeDataFetcherOptions` & `RequestInit`
 
-## Defined in
-
-[packages/sitecore-jss/src/native-fetcher.ts:52](https://github.com/Sitecore/jss/blob/64c629cff7519105a7ad04e0db221a0147c64298/packages/sitecore-jss/src/native-fetcher.ts#L52)
+Defined in: [packages/sitecore-jss/src/native-fetcher.ts:52](https://github.com/Sitecore/jss/blob/cedab0876a88166246f7f91b1e4a99c9ee30233e/packages/sitecore-jss/src/native-fetcher.ts#L52)

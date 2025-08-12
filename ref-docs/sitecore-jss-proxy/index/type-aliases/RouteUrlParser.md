@@ -1,4 +1,4 @@
-[**@sitecore-jss/sitecore-jss-proxy**](../../README.md) • **Docs**
+[**@sitecore-jss/sitecore-jss-proxy**](../../README.md)
 
 ***
 
@@ -6,7 +6,9 @@
 
 # Type Alias: RouteUrlParser()
 
-> **RouteUrlParser**: (`url`) => `object`
+> **RouteUrlParser** = (`url`) => `object`
+
+Defined in: [sitecore-jss-proxy/src/types/RouteUrlParser.ts:1](https://github.com/Sitecore/jss/blob/cedab0876a88166246f7f91b1e4a99c9ee30233e/packages/sitecore-jss-proxy/src/types/RouteUrlParser.ts#L1)
 
 ## Parameters
 
@@ -29,7 +31,3 @@
 ### sitecoreRoute?
 
 > `optional` **sitecoreRoute**: `string`
-
-## Defined in
-
-[sitecore-jss-proxy/src/types/RouteUrlParser.ts:1](https://github.com/Sitecore/jss/blob/64c629cff7519105a7ad04e0db221a0147c64298/packages/sitecore-jss-proxy/src/types/RouteUrlParser.ts#L1)

@@ -1,4 +1,4 @@
-[**@sitecore-jss/sitecore-jss-react-forms**](../README.md) • **Docs**
+[**@sitecore-jss/sitecore-jss-react-forms**](../README.md)
 
 ***
 
@@ -6,14 +6,12 @@
 
 # Type Alias: LabelProps\<TViewModel\>
 
-> **LabelProps**\<`TViewModel`\>: [`FieldWithValueProps`](../interfaces/FieldWithValueProps.md)\<`ValueFormField`\<`TViewModel`\>, `string` \| `string`[]\>
+> **LabelProps**\<`TViewModel`\> = [`FieldWithValueProps`](../interfaces/FieldWithValueProps.md)\<`ValueFormField`\<`TViewModel`\>, `string` \| `string`[]\>
+
+Defined in: [src/FieldProps.ts:69](https://github.com/Sitecore/jss/blob/cedab0876a88166246f7f91b1e4a99c9ee30233e/packages/sitecore-jss-react-forms/src/FieldProps.ts#L69)
 
 ## Type Parameters
 
 | Type Parameter | Default type |
 | ------ | ------ |
 | `TViewModel` *extends* `InputViewModel` | `InputViewModel` |
-
-## Defined in
-
-[src/FieldProps.ts:69](https://github.com/Sitecore/jss/blob/64c629cff7519105a7ad04e0db221a0147c64298/packages/sitecore-jss-react-forms/src/FieldProps.ts#L69)
