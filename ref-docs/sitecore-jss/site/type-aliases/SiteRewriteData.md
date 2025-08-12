@@ -8,7 +8,7 @@
 
 > **SiteRewriteData** = `object`
 
-Defined in: [packages/sitecore-jss/src/site/utils.ts:3](https://github.com/Sitecore/jss/blob/8c7999bc97693a30bb4de5b7850304e938de02e3/packages/sitecore-jss/src/site/utils.ts#L3)
+Defined in: [packages/sitecore-jss/src/site/utils.ts:3](https://github.com/Sitecore/jss/blob/33e3d400ec10af3de9ebcaedc1580ae0c233c775/packages/sitecore-jss/src/site/utils.ts#L3)
 
 ## Properties
 
@@ -16,4 +16,4 @@ Defined in: [packages/sitecore-jss/src/site/utils.ts:3](https://github.com/Sitec
 
 > **siteName**: `string`
 
-Defined in: [packages/sitecore-jss/src/site/utils.ts:4](https://github.com/Sitecore/jss/blob/8c7999bc97693a30bb4de5b7850304e938de02e3/packages/sitecore-jss/src/site/utils.ts#L4)
+Defined in: [packages/sitecore-jss/src/site/utils.ts:4](https://github.com/Sitecore/jss/blob/33e3d400ec10af3de9ebcaedc1580ae0c233c775/packages/sitecore-jss/src/site/utils.ts#L4)
