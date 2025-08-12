@@ -1,6 +1,6 @@
 {
   "lerna": "8.2.3",
   "packages": ["packages/*", "samples/*"],
-  "version": "22.9.0-canary.11",
+  "version": "22.9.0-canary.12",
   "npmClient": "yarn"
 }
