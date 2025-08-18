@@ -6,7 +6,7 @@
 
 # Interface: DefaultDocumentMiddlewareOptions
 
-Defined in: [sitecore-jss-dev-tools/src/disconnected-server/default-document.ts:7](https://github.com/Sitecore/jss/blob/d3bf50b80df4dcadad47358abdcbfeb3a7908b5b/packages/sitecore-jss-dev-tools/src/disconnected-server/default-document.ts#L7)
+Defined in: [sitecore-jss-dev-tools/src/disconnected-server/default-document.ts:7](https://github.com/Sitecore/jss/blob/62000b8a88d5e11e0af1214e8cbd5e6e74820090/packages/sitecore-jss-dev-tools/src/disconnected-server/default-document.ts#L7)
 
 ## Properties
 
@@ -14,4 +14,4 @@ Defined in: [sitecore-jss-dev-tools/src/disconnected-server/default-document.ts:
 
 > **indexFilePath**: `string`
 
-Defined in: [sitecore-jss-dev-tools/src/disconnected-server/default-document.ts:8](https://github.com/Sitecore/jss/blob/d3bf50b80df4dcadad47358abdcbfeb3a7908b5b/packages/sitecore-jss-dev-tools/src/disconnected-server/default-document.ts#L8)
+Defined in: [sitecore-jss-dev-tools/src/disconnected-server/default-document.ts:8](https://github.com/Sitecore/jss/blob/62000b8a88d5e11e0af1214e8cbd5e6e74820090/packages/sitecore-jss-dev-tools/src/disconnected-server/default-document.ts#L8)

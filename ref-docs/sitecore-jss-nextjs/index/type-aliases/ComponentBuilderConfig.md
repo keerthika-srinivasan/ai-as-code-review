@@ -8,7 +8,7 @@
 
 > **ComponentBuilderConfig**\<`Component`\> = `object`
 
-Defined in: [sitecore-jss-nextjs/src/ComponentBuilder.ts:20](https://github.com/Sitecore/jss/blob/d3bf50b80df4dcadad47358abdcbfeb3a7908b5b/packages/sitecore-jss-nextjs/src/ComponentBuilder.ts#L20)
+Defined in: [sitecore-jss-nextjs/src/ComponentBuilder.ts:20](https://github.com/Sitecore/jss/blob/62000b8a88d5e11e0af1214e8cbd5e6e74820090/packages/sitecore-jss-nextjs/src/ComponentBuilder.ts#L20)
 
 Configuration for ComponentBuilder
 
@@ -24,6 +24,6 @@ Configuration for ComponentBuilder
 
 > **components**: `Map`\<`string`, `Component`\>
 
-Defined in: [sitecore-jss-nextjs/src/ComponentBuilder.ts:24](https://github.com/Sitecore/jss/blob/d3bf50b80df4dcadad47358abdcbfeb3a7908b5b/packages/sitecore-jss-nextjs/src/ComponentBuilder.ts#L24)
+Defined in: [sitecore-jss-nextjs/src/ComponentBuilder.ts:24](https://github.com/Sitecore/jss/blob/62000b8a88d5e11e0af1214e8cbd5e6e74820090/packages/sitecore-jss-nextjs/src/ComponentBuilder.ts#L24)
 
 List of components to be stored

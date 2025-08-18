@@ -8,4 +8,4 @@
 
 > `const` **DateField**: `React.FunctionComponent`\<`DateFieldProps`\>
 
-Defined in: [sitecore-jss-react-native/src/components/Date.tsx:22](https://github.com/Sitecore/jss/blob/d3bf50b80df4dcadad47358abdcbfeb3a7908b5b/packages/sitecore-jss-react-native/src/components/Date.tsx#L22)
+Defined in: [sitecore-jss-react-native/src/components/Date.tsx:22](https://github.com/Sitecore/jss/blob/62000b8a88d5e11e0af1214e8cbd5e6e74820090/packages/sitecore-jss-react-native/src/components/Date.tsx#L22)

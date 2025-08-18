@@ -6,7 +6,7 @@
 
 # Interface: FieldMetadata
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:139](https://github.com/Sitecore/jss/blob/d3bf50b80df4dcadad47358abdcbfeb3a7908b5b/packages/sitecore-jss/src/layout/models.ts#L139)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:139](https://github.com/Sitecore/jss/blob/62000b8a88d5e11e0af1214e8cbd5e6e74820090/packages/sitecore-jss/src/layout/models.ts#L139)
 
 represents the field metadata provided by layout service in editMode 'metadata'
 
@@ -20,7 +20,7 @@ represents the field metadata provided by layout service in editMode 'metadata'
 
 > `optional` **metadata**: `object`
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:140](https://github.com/Sitecore/jss/blob/d3bf50b80df4dcadad47358abdcbfeb3a7908b5b/packages/sitecore-jss/src/layout/models.ts#L140)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:140](https://github.com/Sitecore/jss/blob/62000b8a88d5e11e0af1214e8cbd5e6e74820090/packages/sitecore-jss/src/layout/models.ts#L140)
 
 #### Index Signature
 

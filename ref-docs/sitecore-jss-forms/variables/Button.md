@@ -8,4 +8,4 @@
 
 > `const` **Button**: `React.FunctionComponent`\<[`FieldProps`](../interfaces/FieldProps.md)\<`ButtonFormField`\>\>
 
-Defined in: [src/components/field-templates/button.tsx:9](https://github.com/Sitecore/jss/blob/d3bf50b80df4dcadad47358abdcbfeb3a7908b5b/packages/sitecore-jss-react-forms/src/components/field-templates/button.tsx#L9)
+Defined in: [src/components/field-templates/button.tsx:9](https://github.com/Sitecore/jss/blob/62000b8a88d5e11e0af1214e8cbd5e6e74820090/packages/sitecore-jss-react-forms/src/components/field-templates/button.tsx#L9)
