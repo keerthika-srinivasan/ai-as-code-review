@@ -8,4 +8,4 @@
 
 > `const` **DateField**: `React.FunctionComponent`\<[`ValueFieldProps`](../type-aliases/ValueFieldProps.md)\<`DateInputViewModel`\>\>
 
-Defined in: [src/components/field-templates/date.tsx:7](https://github.com/Sitecore/jss/blob/0f6a402e0bbeb6732261640f0b56a6c2282882bd/packages/sitecore-jss-react-forms/src/components/field-templates/date.tsx#L7)
+Defined in: [src/components/field-templates/date.tsx:7](https://github.com/Sitecore/jss/blob/9bccfc19959a8a32a1d22e4c28cf9fe788d81fd7/packages/sitecore-jss-react-forms/src/components/field-templates/date.tsx#L7)
