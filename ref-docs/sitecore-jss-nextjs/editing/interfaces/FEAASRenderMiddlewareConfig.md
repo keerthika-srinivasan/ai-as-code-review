@@ -6,7 +6,7 @@
 
 # Interface: FEAASRenderMiddlewareConfig
 
-Defined in: [sitecore-jss-nextjs/src/editing/feaas-render-middleware.ts:14](https://github.com/Sitecore/jss/blob/b079ca35e825745d4e39fee196ba797a7a0d3cfc/packages/sitecore-jss-nextjs/src/editing/feaas-render-middleware.ts#L14)
+Defined in: [sitecore-jss-nextjs/src/editing/feaas-render-middleware.ts:14](https://github.com/Sitecore/jss/blob/0f6a402e0bbeb6732261640f0b56a6c2282882bd/packages/sitecore-jss-nextjs/src/editing/feaas-render-middleware.ts#L14)
 
 Configuration for `FEAASRenderMiddleware`.
 
@@ -16,7 +16,7 @@ Configuration for `FEAASRenderMiddleware`.
 
 > `optional` **pageUrl**: `string`
 
-Defined in: [sitecore-jss-nextjs/src/editing/feaas-render-middleware.ts:20](https://github.com/Sitecore/jss/blob/b079ca35e825745d4e39fee196ba797a7a0d3cfc/packages/sitecore-jss-nextjs/src/editing/feaas-render-middleware.ts#L20)
+Defined in: [sitecore-jss-nextjs/src/editing/feaas-render-middleware.ts:20](https://github.com/Sitecore/jss/blob/0f6a402e0bbeb6732261640f0b56a6c2282882bd/packages/sitecore-jss-nextjs/src/editing/feaas-render-middleware.ts#L20)
 
 Defines FEAAS page route to render.
 This may be necessary for certain custom Next.js routing configurations.
