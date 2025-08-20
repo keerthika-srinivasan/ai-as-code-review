@@ -8,7 +8,7 @@
 
 > **handleEditorFastRefresh**(`forceReload?`): `void`
 
-Defined in: [sitecore-jss-nextjs/src/utils/utils.ts:32](https://github.com/Sitecore/jss/blob/6161999333adeef862eb5b84d1e1045b84df35b6/packages/sitecore-jss-nextjs/src/utils/utils.ts#L32)
+Defined in: [sitecore-jss-nextjs/src/utils/utils.ts:32](https://github.com/Sitecore/jss/blob/533ccda477e0a9caaeeb517765ba0300d51fae37/packages/sitecore-jss-nextjs/src/utils/utils.ts#L32)
 
 Since Sitecore editors do not support Fast Refresh:
 1. Subscribe on events provided by webpack.

@@ -8,7 +8,7 @@
 
 > `const` **EMPTY\_DATE\_FIELD\_VALUE**: `"0001-01-01T00:00:00Z"` = `'0001-01-01T00:00:00Z'`
 
-Defined in: [packages/sitecore-jss/src/layout/utils.ts:102](https://github.com/Sitecore/jss/blob/6161999333adeef862eb5b84d1e1045b84df35b6/packages/sitecore-jss/src/layout/utils.ts#L102)
+Defined in: [packages/sitecore-jss/src/layout/utils.ts:102](https://github.com/Sitecore/jss/blob/533ccda477e0a9caaeeb517765ba0300d51fae37/packages/sitecore-jss/src/layout/utils.ts#L102)
 
 The default value for an empty Date field.
 This value is defined as a default one by .NET
