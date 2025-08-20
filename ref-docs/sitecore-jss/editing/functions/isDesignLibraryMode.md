@@ -8,7 +8,7 @@
 
 > **isDesignLibraryMode**(`mode`): `mode is DesignLibraryMode`
 
-Defined in: [packages/sitecore-jss/src/editing/design-library.ts:163](https://github.com/Sitecore/jss/blob/a50be18c1607adcb48bbe2673ecedc966bc85051/packages/sitecore-jss/src/editing/design-library.ts#L163)
+Defined in: [packages/sitecore-jss/src/editing/design-library.ts:163](https://github.com/Sitecore/jss/blob/6161999333adeef862eb5b84d1e1045b84df35b6/packages/sitecore-jss/src/editing/design-library.ts#L163)
 
 Checks if the given mode is a Design Library mode.
 
