@@ -8,7 +8,7 @@
 
 > **getEdgeProxyContentUrl**(`sitecoreEdgeContextId`, `sitecoreEdgeUrl?`): `string`
 
-Defined in: [packages/sitecore-jss/src/graphql/graphql-edge-proxy.ts:11](https://github.com/Sitecore/jss/blob/533ccda477e0a9caaeeb517765ba0300d51fae37/packages/sitecore-jss/src/graphql/graphql-edge-proxy.ts#L11)
+Defined in: [packages/sitecore-jss/src/graphql/graphql-edge-proxy.ts:11](https://github.com/Sitecore/jss/blob/bdc8f76064287c910d10b001499db419045ec6ef/packages/sitecore-jss/src/graphql/graphql-edge-proxy.ts#L11)
 
 Generates a URL for accessing Sitecore Edge Platform Content using the provided endpoint and context ID.
 

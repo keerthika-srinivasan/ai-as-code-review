@@ -8,7 +8,7 @@
 
 > **RouteUrlParser** = (`url`) => `object`
 
-Defined in: [sitecore-jss-proxy/src/types/RouteUrlParser.ts:1](https://github.com/Sitecore/jss/blob/533ccda477e0a9caaeeb517765ba0300d51fae37/packages/sitecore-jss-proxy/src/types/RouteUrlParser.ts#L1)
+Defined in: [sitecore-jss-proxy/src/types/RouteUrlParser.ts:1](https://github.com/Sitecore/jss/blob/bdc8f76064287c910d10b001499db419045ec6ef/packages/sitecore-jss-proxy/src/types/RouteUrlParser.ts#L1)
 
 ## Parameters
 
