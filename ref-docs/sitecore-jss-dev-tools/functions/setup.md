@@ -8,7 +8,7 @@
 
 > **setup**(`interactive`, `outputFile?`, `initialData?`, `configName?`): `void`
 
-Defined in: [sitecore-jss-dev-tools/src/setup/setup.ts:69](https://github.com/Sitecore/jss/blob/2dc309bb1fbf301036698606d773ead69d7c1413/packages/sitecore-jss-dev-tools/src/setup/setup.ts#L69)
+Defined in: [sitecore-jss-dev-tools/src/setup/setup.ts:69](https://github.com/Sitecore/jss/blob/f052e595eb560433ff6e14addede2d4d85985051/packages/sitecore-jss-dev-tools/src/setup/setup.ts#L69)
 
 ## Parameters
 

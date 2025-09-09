@@ -8,7 +8,7 @@
 
 > **getGroomedVariantIds**(`variantIds`): [`PersonalizedRewriteData`](../type-aliases/PersonalizedRewriteData.md)
 
-Defined in: [packages/sitecore-jss/src/personalize/utils.ts:43](https://github.com/Sitecore/jss/blob/2dc309bb1fbf301036698606d773ead69d7c1413/packages/sitecore-jss/src/personalize/utils.ts#L43)
+Defined in: [packages/sitecore-jss/src/personalize/utils.ts:43](https://github.com/Sitecore/jss/blob/f052e595eb560433ff6e14addede2d4d85985051/packages/sitecore-jss/src/personalize/utils.ts#L43)
 
 Parses a list of variantIds and divides into layout and component variants
 

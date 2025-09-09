@@ -6,7 +6,7 @@
 
 # Class: RenderEmptyDirective
 
-Defined in: [packages/sitecore-jss-angular/src/components/render-empty.directive.ts:6](https://github.com/Sitecore/jss/blob/2dc309bb1fbf301036698606d773ead69d7c1413/packages/sitecore-jss-angular/src/components/render-empty.directive.ts#L6)
+Defined in: [packages/sitecore-jss-angular/src/components/render-empty.directive.ts:6](https://github.com/Sitecore/jss/blob/f052e595eb560433ff6e14addede2d4d85985051/packages/sitecore-jss-angular/src/components/render-empty.directive.ts#L6)
 
 ## Constructors
 
@@ -14,7 +14,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/render-empty.directive
 
 > **new RenderEmptyDirective**(`templateRef`): `RenderEmptyDirective`
 
-Defined in: [packages/sitecore-jss-angular/src/components/render-empty.directive.ts:7](https://github.com/Sitecore/jss/blob/2dc309bb1fbf301036698606d773ead69d7c1413/packages/sitecore-jss-angular/src/components/render-empty.directive.ts#L7)
+Defined in: [packages/sitecore-jss-angular/src/components/render-empty.directive.ts:7](https://github.com/Sitecore/jss/blob/f052e595eb560433ff6e14addede2d4d85985051/packages/sitecore-jss-angular/src/components/render-empty.directive.ts#L7)
 
 #### Parameters
 
@@ -32,4 +32,4 @@ Defined in: [packages/sitecore-jss-angular/src/components/render-empty.directive
 
 > **templateRef**: `TemplateRef`\<`unknown`\>
 
-Defined in: [packages/sitecore-jss-angular/src/components/render-empty.directive.ts:7](https://github.com/Sitecore/jss/blob/2dc309bb1fbf301036698606d773ead69d7c1413/packages/sitecore-jss-angular/src/components/render-empty.directive.ts#L7)
+Defined in: [packages/sitecore-jss-angular/src/components/render-empty.directive.ts:7](https://github.com/Sitecore/jss/blob/f052e595eb560433ff6e14addede2d4d85985051/packages/sitecore-jss-angular/src/components/render-empty.directive.ts#L7)

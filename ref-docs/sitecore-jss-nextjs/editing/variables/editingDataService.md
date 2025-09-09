@@ -8,7 +8,7 @@
 
 > `const` **editingDataService**: [`BasicEditingDataService`](../classes/BasicEditingDataService.md) \| [`ServerlessEditingDataService`](../classes/ServerlessEditingDataService.md)
 
-Defined in: [sitecore-jss-nextjs/src/editing/editing-data-service.ts:229](https://github.com/Sitecore/jss/blob/2dc309bb1fbf301036698606d773ead69d7c1413/packages/sitecore-jss-nextjs/src/editing/editing-data-service.ts#L229)
+Defined in: [sitecore-jss-nextjs/src/editing/editing-data-service.ts:229](https://github.com/Sitecore/jss/blob/f052e595eb560433ff6e14addede2d4d85985051/packages/sitecore-jss-nextjs/src/editing/editing-data-service.ts#L229)
 
 The `EditingDataService` default instance.
 This will be `ServerlessEditingDataService` on Vercel, `BasicEditingDataService` otherwise.

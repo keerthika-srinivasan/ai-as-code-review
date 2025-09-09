@@ -8,7 +8,7 @@
 
 > **providePlaceholders**(`vm`, `componentFactory?`): `void`
 
-Defined in: [packages/sitecore-jss-vue/src/enhancers/providePlaceholders.ts:31](https://github.com/Sitecore/jss/blob/2dc309bb1fbf301036698606d773ead69d7c1413/packages/sitecore-jss-vue/src/enhancers/providePlaceholders.ts#L31)
+Defined in: [packages/sitecore-jss-vue/src/enhancers/providePlaceholders.ts:31](https://github.com/Sitecore/jss/blob/f052e595eb560433ff6e14addede2d4d85985051/packages/sitecore-jss-vue/src/enhancers/providePlaceholders.ts#L31)
 
 ## Parameters
 
