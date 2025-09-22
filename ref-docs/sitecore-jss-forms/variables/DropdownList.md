@@ -8,4 +8,4 @@
 
 > `const` **DropdownList**: `React.FunctionComponent`\<[`ListFieldProps`](../type-aliases/ListFieldProps.md)\<`DropdownListViewModel`\>\>
 
-Defined in: [src/components/field-templates/dropdown-list.tsx:7](https://github.com/Sitecore/jss/blob/f052e595eb560433ff6e14addede2d4d85985051/packages/sitecore-jss-react-forms/src/components/field-templates/dropdown-list.tsx#L7)
+Defined in: [src/components/field-templates/dropdown-list.tsx:7](https://github.com/Sitecore/jss/blob/6e51d9f4b744012d123d4e7ed0b9b0dd9f909875/packages/sitecore-jss-react-forms/src/components/field-templates/dropdown-list.tsx#L7)
