@@ -6,7 +6,7 @@
 
 # Interface: SxaLinkListFields
 
-Defined in: [packages/sitecore-jss-angular/src/components/rendering-field-sxa.ts:9](https://github.com/Sitecore/jss/blob/6e51d9f4b744012d123d4e7ed0b9b0dd9f909875/packages/sitecore-jss-angular/src/components/rendering-field-sxa.ts#L9)
+Defined in: [packages/sitecore-jss-angular/src/components/rendering-field-sxa.ts:9](https://github.com/Sitecore/jss/blob/398e4c7c17310b2930d59a87468098c81f134e40/packages/sitecore-jss-angular/src/components/rendering-field-sxa.ts#L9)
 
 ## Properties
 
@@ -14,7 +14,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/rendering-field-sxa.ts
 
 > **data**: `object`
 
-Defined in: [packages/sitecore-jss-angular/src/components/rendering-field-sxa.ts:10](https://github.com/Sitecore/jss/blob/6e51d9f4b744012d123d4e7ed0b9b0dd9f909875/packages/sitecore-jss-angular/src/components/rendering-field-sxa.ts#L10)
+Defined in: [packages/sitecore-jss-angular/src/components/rendering-field-sxa.ts:10](https://github.com/Sitecore/jss/blob/398e4c7c17310b2930d59a87468098c81f134e40/packages/sitecore-jss-angular/src/components/rendering-field-sxa.ts#L10)
 
 #### datasource
 

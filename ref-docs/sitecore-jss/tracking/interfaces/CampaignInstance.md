@@ -6,7 +6,7 @@
 
 # Interface: CampaignInstance
 
-Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:1](https://github.com/Sitecore/jss/blob/6e51d9f4b744012d123d4e7ed0b9b0dd9f909875/packages/sitecore-jss/src/tracking/dataModels.ts#L1)
+Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:1](https://github.com/Sitecore/jss/blob/398e4c7c17310b2930d59a87468098c81f134e40/packages/sitecore-jss/src/tracking/dataModels.ts#L1)
 
 ## Indexable
 
@@ -18,6 +18,6 @@ Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:1](https://github.
 
 > **campaignId**: `string`
 
-Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:4](https://github.com/Sitecore/jss/blob/6e51d9f4b744012d123d4e7ed0b9b0dd9f909875/packages/sitecore-jss/src/tracking/dataModels.ts#L4)
+Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:4](https://github.com/Sitecore/jss/blob/398e4c7c17310b2930d59a87468098c81f134e40/packages/sitecore-jss/src/tracking/dataModels.ts#L4)
 
 GUID or alias (name) of campaign to trigger
