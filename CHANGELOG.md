@@ -21,6 +21,14 @@ Our versioning strategy is as follows:
 * `[React]` Custom properties are not applied to empty field in editing metadata mode ([#2141](https://github.com/Sitecore/jss/pull/2141))
 * `[sitecore-jss-nextjs]` Add regex variable substitution for absolute and external URL redirects. ([#2159](https://github.com/Sitecore/jss/pull/2159))
 
+### 🛠 Breaking Changes
+
+* `[angular]` `[sitecore-jss-angular]` Upgrade to Angular v20:
+  * Components adjusted to be standalone
+  * Update `apollo-angular` to version 11 to be compatible with Angular v20 compatibility
+  * Replace the deprecated `ngIf`, `ngFor` directive usage with `@if` and `@for`
+  * Update the inject logic for DI
+
 ## 22.9.0
 
 ### 🐛 Bug Fixes
