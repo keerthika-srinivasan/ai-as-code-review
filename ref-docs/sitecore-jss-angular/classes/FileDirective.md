@@ -6,7 +6,7 @@
 
 # Class: FileDirective
 
-Defined in: [packages/sitecore-jss-angular/src/components/file.directive.ts:16](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/file.directive.ts#L16)
+Defined in: [packages/sitecore-jss-angular/src/components/file.directive.ts:17](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/file.directive.ts#L17)
 
 File fields cannot be managed via the EE. We never output "editable."
 
@@ -18,16 +18,7 @@ File fields cannot be managed via the EE. We never output "editable."
 
 ### Constructor
 
-> **new FileDirective**(`viewContainer`, `templateRef`): `FileDirective`
-
-Defined in: [packages/sitecore-jss-angular/src/components/file.directive.ts:21](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/file.directive.ts#L21)
-
-#### Parameters
-
-| Parameter | Type |
-| ------ | ------ |
-| `viewContainer` | `ViewContainerRef` |
-| `templateRef` | `TemplateRef`\<`unknown`\> |
+> **new FileDirective**(): `FileDirective`
 
 #### Returns
 
@@ -39,7 +30,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/file.directive.ts:21](
 
 > **field**: [`FileField`](../interfaces/FileField.md)
 
-Defined in: [packages/sitecore-jss-angular/src/components/file.directive.ts:17](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/file.directive.ts#L17)
+Defined in: [packages/sitecore-jss-angular/src/components/file.directive.ts:18](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/file.directive.ts#L18)
 
 ## Methods
 
@@ -47,7 +38,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/file.directive.ts:17](
 
 > **ngOnChanges**(`changes`): `void`
 
-Defined in: [packages/sitecore-jss-angular/src/components/file.directive.ts:23](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/file.directive.ts#L23)
+Defined in: [packages/sitecore-jss-angular/src/components/file.directive.ts:24](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/file.directive.ts#L24)
 
 A callback method that is invoked immediately after the
 default change detector has checked data-bound properties

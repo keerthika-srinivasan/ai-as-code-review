@@ -6,7 +6,7 @@
 
 # Class: EditFrameComponent
 
-Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:29](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/editframe.component.ts#L29)
+Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:28](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/editframe.component.ts#L28)
 
 ## Implements
 
@@ -28,7 +28,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts
 
 > **buttons**: `EditButtonTypes`[]
 
-Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:32](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/editframe.component.ts#L32)
+Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:31](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/editframe.component.ts#L31)
 
 ***
 
@@ -36,7 +36,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts
 
 > **chromeData**: `string` = `''`
 
-Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:48](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/editframe.component.ts#L48)
+Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:47](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/editframe.component.ts#L47)
 
 ***
 
@@ -44,7 +44,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts
 
 > **cssClass**: `string`
 
-Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:38](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/editframe.component.ts#L38)
+Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:37](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/editframe.component.ts#L37)
 
 ***
 
@@ -52,7 +52,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts
 
 > **dataSource**: [`EditFrameDataSource`](../type-aliases/EditFrameDataSource.md)
 
-Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:30](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/editframe.component.ts#L30)
+Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:29](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/editframe.component.ts#L29)
 
 ***
 
@@ -60,7 +60,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts
 
 > **frameProps**: `Record`\<`string`, `unknown`\> = `{}`
 
-Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:47](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/editframe.component.ts#L47)
+Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:46](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/editframe.component.ts#L46)
 
 ***
 
@@ -68,7 +68,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts
 
 > **isEditing**: `boolean` = `false`
 
-Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:46](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/editframe.component.ts#L46)
+Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:45](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/editframe.component.ts#L45)
 
 ***
 
@@ -76,7 +76,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts
 
 > **parameters**: `Record`\<`string`, `string` \| `number` \| `boolean` \| `undefined` \| `null`\>
 
-Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:40](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/editframe.component.ts#L40)
+Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:39](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/editframe.component.ts#L39)
 
 ***
 
@@ -84,7 +84,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts
 
 > **sitecore**: [`LayoutServiceContextData`](../interfaces/LayoutServiceContextData.md) & `object`
 
-Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:42](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/editframe.component.ts#L42)
+Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:41](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/editframe.component.ts#L41)
 
 #### Type declaration
 
@@ -98,7 +98,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts
 
 > **title**: `string`
 
-Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:34](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/editframe.component.ts#L34)
+Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:33](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/editframe.component.ts#L33)
 
 ***
 
@@ -106,7 +106,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts
 
 > **tooltip**: `string`
 
-Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:36](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/editframe.component.ts#L36)
+Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:35](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/editframe.component.ts#L35)
 
 ## Methods
 
@@ -114,7 +114,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts
 
 > **buildChromeData**(): `string`
 
-Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:72](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/editframe.component.ts#L72)
+Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:71](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/editframe.component.ts#L71)
 
 #### Returns
 
@@ -126,7 +126,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts
 
 > **ngOnChanges**(): `void`
 
-Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:50](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/editframe.component.ts#L50)
+Defined in: [packages/sitecore-jss-angular/src/components/editframe.component.ts:49](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/editframe.component.ts#L49)
 
 A callback method that is invoked immediately after the
 default change detector has checked data-bound properties

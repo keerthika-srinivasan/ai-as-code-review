@@ -8,4 +8,4 @@
 
 > `const` **ssrMiddleware**: `SSRMiddleware`
 
-Defined in: [ssrMiddleware.ts:44](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-rendering-host/src/ssrMiddleware.ts#L44)
+Defined in: [ssrMiddleware.ts:44](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-rendering-host/src/ssrMiddleware.ts#L44)

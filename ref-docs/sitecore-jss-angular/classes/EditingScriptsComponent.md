@@ -6,7 +6,7 @@
 
 # Class: EditingScriptsComponent
 
-Defined in: [packages/sitecore-jss-angular/src/components/editing-scripts.component.ts:16](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/editing-scripts.component.ts#L16)
+Defined in: [packages/sitecore-jss-angular/src/components/editing-scripts.component.ts:16](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/editing-scripts.component.ts#L16)
 
 Component that renders editing scripts and client data for the current page in Sitecore Editor.
 Only renders scripts when Metadata mode is used.
@@ -19,17 +19,7 @@ Only renders scripts when Metadata mode is used.
 
 ### Constructor
 
-> **new EditingScriptsComponent**(`renderer`, `stateService`, `document`): `EditingScriptsComponent`
-
-Defined in: [packages/sitecore-jss-angular/src/components/editing-scripts.component.ts:17](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/editing-scripts.component.ts#L17)
-
-#### Parameters
-
-| Parameter | Type |
-| ------ | ------ |
-| `renderer` | `Renderer2` |
-| `stateService` | [`JssStateService`](JssStateService.md) |
-| `document` | `Document` |
+> **new EditingScriptsComponent**(): `EditingScriptsComponent`
 
 #### Returns
 
@@ -41,7 +31,7 @@ Defined in: [packages/sitecore-jss-angular/src/components/editing-scripts.compon
 
 > **ngOnInit**(): `void`
 
-Defined in: [packages/sitecore-jss-angular/src/components/editing-scripts.component.ts:23](https://github.com/Sitecore/jss/blob/702e51fc8851b1a2555bb5692b413107d3f3a8f5/packages/sitecore-jss-angular/src/components/editing-scripts.component.ts#L23)
+Defined in: [packages/sitecore-jss-angular/src/components/editing-scripts.component.ts:21](https://github.com/Sitecore/jss/blob/b1ad7d16b4e96b3f5ff055f00b9a2c8a72ba6b85/packages/sitecore-jss-angular/src/components/editing-scripts.component.ts#L21)
 
 A callback method that is invoked immediately after the
 default change detector has checked the directive's
