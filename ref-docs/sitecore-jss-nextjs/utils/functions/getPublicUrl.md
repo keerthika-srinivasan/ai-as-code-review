@@ -8,7 +8,7 @@
 
 > **getPublicUrl**(): `string`
 
-Defined in: [sitecore-jss-nextjs/src/utils/utils.ts:12](https://github.com/Sitecore/jss/blob/795167d8b0d1148debd3f4bb1d52fda751bd355c/packages/sitecore-jss-nextjs/src/utils/utils.ts#L12)
+Defined in: [sitecore-jss-nextjs/src/utils/utils.ts:12](https://github.com/Sitecore/jss/blob/04e2f2fc8328440e185d6e2e47b6016db98dcc4b/packages/sitecore-jss-nextjs/src/utils/utils.ts#L12)
 
 Get the publicUrl.
 This is used primarily to enable compatibility with Sitecore editors.

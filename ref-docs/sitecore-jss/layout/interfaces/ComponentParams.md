@@ -6,7 +6,7 @@
 
 # Interface: ComponentParams
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:92](https://github.com/Sitecore/jss/blob/795167d8b0d1148debd3f4bb1d52fda751bd355c/packages/sitecore-jss/src/layout/models.ts#L92)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:92](https://github.com/Sitecore/jss/blob/04e2f2fc8328440e185d6e2e47b6016db98dcc4b/packages/sitecore-jss/src/layout/models.ts#L92)
 
 Component params
 

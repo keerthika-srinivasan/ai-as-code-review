@@ -8,7 +8,7 @@
 
 > **RichTextProps** = `ReactRichTextProps` & `object`
 
-Defined in: [sitecore-jss-nextjs/src/components/RichText.tsx:8](https://github.com/Sitecore/jss/blob/795167d8b0d1148debd3f4bb1d52fda751bd355c/packages/sitecore-jss-nextjs/src/components/RichText.tsx#L8)
+Defined in: [sitecore-jss-nextjs/src/components/RichText.tsx:8](https://github.com/Sitecore/jss/blob/04e2f2fc8328440e185d6e2e47b6016db98dcc4b/packages/sitecore-jss-nextjs/src/components/RichText.tsx#L8)
 
 ## Type declaration
 
