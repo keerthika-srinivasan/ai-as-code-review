@@ -8,7 +8,7 @@
 
 > **Module** = `object` & `object`
 
-Defined in: [sitecore-jss-nextjs/src/sharedTypes/module-factory.ts:7](https://github.com/Sitecore/jss/blob/7850a950628417dc324c206dda9373199373a925/packages/sitecore-jss-nextjs/src/sharedTypes/module-factory.ts#L7)
+Defined in: [sitecore-jss-nextjs/src/sharedTypes/module-factory.ts:7](https://github.com/Sitecore/jss/blob/bf73d6677c6a2432e6f83f1ecaf6b589002765da/packages/sitecore-jss-nextjs/src/sharedTypes/module-factory.ts#L7)
 
 Represents a module (file)
 
