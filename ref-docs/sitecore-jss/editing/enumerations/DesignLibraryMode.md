@@ -6,7 +6,7 @@
 
 # Enumeration: DesignLibraryMode
 
-Defined in: [packages/sitecore-jss/src/editing/models.ts:39](https://github.com/Sitecore/jss/blob/04e2f2fc8328440e185d6e2e47b6016db98dcc4b/packages/sitecore-jss/src/editing/models.ts#L39)
+Defined in: [packages/sitecore-jss/src/editing/models.ts:39](https://github.com/Sitecore/jss/blob/7850a950628417dc324c206dda9373199373a925/packages/sitecore-jss/src/editing/models.ts#L39)
 
 Represents the mode of the Design Library.
 
@@ -16,7 +16,7 @@ Represents the mode of the Design Library.
 
 > **Metadata**: `"library-metadata"`
 
-Defined in: [packages/sitecore-jss/src/editing/models.ts:43](https://github.com/Sitecore/jss/blob/04e2f2fc8328440e185d6e2e47b6016db98dcc4b/packages/sitecore-jss/src/editing/models.ts#L43)
+Defined in: [packages/sitecore-jss/src/editing/models.ts:43](https://github.com/Sitecore/jss/blob/7850a950628417dc324c206dda9373199373a925/packages/sitecore-jss/src/editing/models.ts#L43)
 
 Metadata mode
 
@@ -26,6 +26,6 @@ Metadata mode
 
 > **Normal**: `"library"`
 
-Defined in: [packages/sitecore-jss/src/editing/models.ts:41](https://github.com/Sitecore/jss/blob/04e2f2fc8328440e185d6e2e47b6016db98dcc4b/packages/sitecore-jss/src/editing/models.ts#L41)
+Defined in: [packages/sitecore-jss/src/editing/models.ts:41](https://github.com/Sitecore/jss/blob/7850a950628417dc324c206dda9373199373a925/packages/sitecore-jss/src/editing/models.ts#L41)
 
 Normal mode

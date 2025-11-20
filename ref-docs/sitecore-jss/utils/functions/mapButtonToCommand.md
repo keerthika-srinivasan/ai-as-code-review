@@ -8,7 +8,7 @@
 
 > **mapButtonToCommand**(`button`, `itemId?`, `frameParameters?`): [`ChromeCommand`](../type-aliases/ChromeCommand.md)
 
-Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:81](https://github.com/Sitecore/jss/blob/04e2f2fc8328440e185d6e2e47b6016db98dcc4b/packages/sitecore-jss/src/editing/edit-frame.ts#L81)
+Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:81](https://github.com/Sitecore/jss/blob/7850a950628417dc324c206dda9373199373a925/packages/sitecore-jss/src/editing/edit-frame.ts#L81)
 
 Map the edit button types to chrome data
 
