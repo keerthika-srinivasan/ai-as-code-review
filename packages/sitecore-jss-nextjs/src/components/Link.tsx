@@ -14,12 +14,10 @@ export type LinkProps = ReactLinkProps & {
    * @default /^\//g
    */
   internalLinkMatcher?: RegExp;
-
-  /**
-   * Next.js Link prefetch.
-   */
-  prefetch?: NextLinkProps['prefetch'];
-};
+} & Pick<
+    NextLinkProps,
+    'prefetch' | 'locale' | 'replace' | 'scroll' | 'shallow' | 'as' | 'onNavigate' | 'passHref'
+  >;
 
 /**
  * Matches relative URLs that end with a file extension.
@@ -77,7 +75,12 @@ export const Link = forwardRef<HTMLAnchorElement, LinkProps>(
             {...htmlLinkProps}
             ref={ref}
             {...(process.env.TEST
-              ? { 'data-nextjs-link': true, 'data-nextjs-link-prefetch': props.prefetch }
+              ? {
+                  'data-nextjs-link': true,
+                  'data-nextjs-replace': props.replace,
+                  'data-nextjs-prefetch': props.prefetch,
+                  'data-nextjs-passhref': props.passHref,
+                }
               : {})}
           >
             {text}
