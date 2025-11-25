@@ -73,7 +73,7 @@ export const Link = forwardRef<HTMLAnchorElement, LinkProps>(
             {...(process.env.TEST
               ? {
                   'data-nextjs-link': true,
-                  'data-nextjs-prefetch': props.prefetch,
+                  'data-nextjs-link-prefetch': props.prefetch,
                 }
               : {})}
           >
