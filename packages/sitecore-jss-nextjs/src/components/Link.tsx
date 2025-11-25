@@ -8,13 +8,26 @@ import {
   LinkProps as ReactLinkProps,
 } from '@sitecore-jss/sitecore-jss-react';
 
+/**
+ * The list of NextLink props to be supported by the Link component.
+ */
+const supportedNextLinkProps = [
+  'as',
+  'onNavigate',
+  'passHref',
+  'prefetch',
+  'replace',
+  'scroll',
+  'shallow',
+] as const;
+
 export type LinkProps = ReactLinkProps & {
   /**
    * If `href` match with `internalLinkMatcher` regexp, then it's internal link and NextLink will be rendered
    * @default /^\//g
    */
   internalLinkMatcher?: RegExp;
-} & Omit<NextLinkProps, 'href' | 'locale'>;
+} & Pick<NextLinkProps, typeof supportedNextLinkProps[number]>;
 
 /**
  * Matches relative URLs that end with a file extension.
@@ -29,7 +42,7 @@ export const Link = forwardRef<HTMLAnchorElement, LinkProps>(
       children,
       internalLinkMatcher = /^\//g,
       showLinkTextWithChildrenPresent,
-      ...htmlLinkProps
+      ...rest
     } = props;
 
     if (
@@ -59,7 +72,8 @@ export const Link = forwardRef<HTMLAnchorElement, LinkProps>(
 
       // determine if a link is a route or not. File extensions are not routes and should not be pre-fetched.
       if (isMatching && !isFileUrl) {
-        delete htmlLinkProps.emptyFieldEditingComponent;
+        delete rest.emptyFieldEditingComponent;
+
         return (
           <NextLink
             href={{ pathname: href, query: querystring, hash: anchor }}
@@ -67,7 +81,7 @@ export const Link = forwardRef<HTMLAnchorElement, LinkProps>(
             title={value.title}
             target={value.target}
             className={value.class}
-            {...htmlLinkProps}
+            {...rest}
             locale={false}
             ref={ref}
             {...(process.env.TEST
