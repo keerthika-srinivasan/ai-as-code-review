@@ -8,4 +8,4 @@
 
 > **defaultProps**: `Partial`\<`DateFieldProps`\>
 
-Defined in: [sitecore-jss-react-native/src/components/Date.tsx:56](https://github.com/Sitecore/jss/blob/d05e5a8fffe7e550f6c344809a5688e85ea35d86/packages/sitecore-jss-react-native/src/components/Date.tsx#L56)
+Defined in: [sitecore-jss-react-native/src/components/Date.tsx:56](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react-native/src/components/Date.tsx#L56)

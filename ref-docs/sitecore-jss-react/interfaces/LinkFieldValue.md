@@ -6,7 +6,7 @@
 
 # Interface: LinkFieldValue
 
-Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:9](https://github.com/Sitecore/jss/blob/d05e5a8fffe7e550f6c344809a5688e85ea35d86/packages/sitecore-jss-react/src/components/Link.tsx#L9)
+Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:9](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react/src/components/Link.tsx#L9)
 
 ## Indexable
 
@@ -18,7 +18,7 @@ Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:9](https://gith
 
 > `optional` **anchor**: `string`
 
-Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:17](https://github.com/Sitecore/jss/blob/d05e5a8fffe7e550f6c344809a5688e85ea35d86/packages/sitecore-jss-react/src/components/Link.tsx#L17)
+Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:17](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react/src/components/Link.tsx#L17)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:17](https://git
 
 > `optional` **class**: `string`
 
-Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:13](https://github.com/Sitecore/jss/blob/d05e5a8fffe7e550f6c344809a5688e85ea35d86/packages/sitecore-jss-react/src/components/Link.tsx#L13)
+Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:13](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react/src/components/Link.tsx#L13)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:13](https://git
 
 > `optional` **className**: `string`
 
-Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:12](https://github.com/Sitecore/jss/blob/d05e5a8fffe7e550f6c344809a5688e85ea35d86/packages/sitecore-jss-react/src/components/Link.tsx#L12)
+Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:12](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react/src/components/Link.tsx#L12)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:12](https://git
 
 > `optional` **href**: `string`
 
-Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:11](https://github.com/Sitecore/jss/blob/d05e5a8fffe7e550f6c344809a5688e85ea35d86/packages/sitecore-jss-react/src/components/Link.tsx#L11)
+Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:11](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react/src/components/Link.tsx#L11)
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:11](https://git
 
 > `optional` **linktype**: `string`
 
-Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:19](https://github.com/Sitecore/jss/blob/d05e5a8fffe7e550f6c344809a5688e85ea35d86/packages/sitecore-jss-react/src/components/Link.tsx#L19)
+Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:19](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react/src/components/Link.tsx#L19)
 
 ***
 
@@ -58,7 +58,7 @@ Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:19](https://git
 
 > `optional` **querystring**: `string`
 
-Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:18](https://github.com/Sitecore/jss/blob/d05e5a8fffe7e550f6c344809a5688e85ea35d86/packages/sitecore-jss-react/src/components/Link.tsx#L18)
+Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:18](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react/src/components/Link.tsx#L18)
 
 ***
 
@@ -66,7 +66,7 @@ Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:18](https://git
 
 > `optional` **target**: `string`
 
-Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:15](https://github.com/Sitecore/jss/blob/d05e5a8fffe7e550f6c344809a5688e85ea35d86/packages/sitecore-jss-react/src/components/Link.tsx#L15)
+Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:15](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react/src/components/Link.tsx#L15)
 
 ***
 
@@ -74,7 +74,7 @@ Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:15](https://git
 
 > `optional` **text**: `string`
 
-Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:16](https://github.com/Sitecore/jss/blob/d05e5a8fffe7e550f6c344809a5688e85ea35d86/packages/sitecore-jss-react/src/components/Link.tsx#L16)
+Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:16](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react/src/components/Link.tsx#L16)
 
 ***
 
@@ -82,4 +82,4 @@ Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:16](https://git
 
 > `optional` **title**: `string`
 
-Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:14](https://github.com/Sitecore/jss/blob/d05e5a8fffe7e550f6c344809a5688e85ea35d86/packages/sitecore-jss-react/src/components/Link.tsx#L14)
+Defined in: [packages/sitecore-jss-react/src/components/Link.tsx:14](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react/src/components/Link.tsx#L14)
