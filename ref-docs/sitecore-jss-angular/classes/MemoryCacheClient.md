@@ -60,7 +60,7 @@ Defined in: packages/sitecore-jss/types/cache-client.d.ts:42
 
 ### getCacheValue()
 
-> **getCacheValue**(`key`): `null` \| `T`
+> **getCacheValue**(`key`): `T` \| `null`
 
 Defined in: packages/sitecore-jss/types/cache-client.d.ts:55
 
@@ -74,7 +74,7 @@ Retrieves a value from the cache.
 
 #### Returns
 
-`null` \| `T`
+`T` \| `null`
 
 The cache value as {T}, or null if the specified key is not found in the cache.
 

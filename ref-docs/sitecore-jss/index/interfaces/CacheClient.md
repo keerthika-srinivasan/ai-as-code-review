@@ -6,7 +6,7 @@
 
 # Interface: CacheClient\<T\>
 
-Defined in: [packages/sitecore-jss/src/cache-client.ts:7](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss/src/cache-client.ts#L7)
+Defined in: [packages/sitecore-jss/src/cache-client.ts:7](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss/src/cache-client.ts#L7)
 
 An interface for cache clients.
 
@@ -20,9 +20,9 @@ An interface for cache clients.
 
 ### getCacheValue()
 
-> **getCacheValue**(`key`): `null` \| `T`
+> **getCacheValue**(`key`): `T` \| `null`
 
-Defined in: [packages/sitecore-jss/src/cache-client.ts:21](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss/src/cache-client.ts#L21)
+Defined in: [packages/sitecore-jss/src/cache-client.ts:21](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss/src/cache-client.ts#L21)
 
 Retrieves a value from the cache.
 
@@ -34,7 +34,7 @@ Retrieves a value from the cache.
 
 #### Returns
 
-`null` \| `T`
+`T` \| `null`
 
 The cache value as {T}, or null if the specified key was not found in the cache.
 
@@ -44,7 +44,7 @@ The cache value as {T}, or null if the specified key was not found in the cache.
 
 > **setCacheValue**(`key`, `value`): `T`
 
-Defined in: [packages/sitecore-jss/src/cache-client.ts:14](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss/src/cache-client.ts#L14)
+Defined in: [packages/sitecore-jss/src/cache-client.ts:14](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss/src/cache-client.ts#L14)
 
 Adds a value to the cache for the specified cache key.
 

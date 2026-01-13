@@ -8,7 +8,7 @@
 
 > **getSrcSet**(`url`, `srcSet`, `imageParams?`, `mediaUrlPrefix?`): `string`
 
-Defined in: [packages/sitecore-jss/src/media/media-api.ts:128](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss/src/media/media-api.ts#L128)
+Defined in: [packages/sitecore-jss/src/media/media-api.ts:128](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss/src/media/media-api.ts#L128)
 
 Receives an array of `srcSet` parameters that are iterated and used as parameters to generate
 a corresponding set of updated Sitecore media URLs via
@@ -19,7 +19,7 @@ a corresponding set of updated Sitecore media URLs via
 | ------ | ------ | ------ |
 | `url` | `string` | The URL to prepare |
 | `srcSet` | `object`[] | The array of parameters to use |
-| `imageParams?` | \{\[`key`: `string`\]: `undefined` \| `string` \| `number`; \} | The querystring parameters to use |
+| `imageParams?` | \{\[`key`: `string`\]: `string` \| `number` \| `undefined`; \} | The querystring parameters to use |
 | `mediaUrlPrefix?` | `RegExp` | The regex to match the media URL prefix |
 
 ## Returns

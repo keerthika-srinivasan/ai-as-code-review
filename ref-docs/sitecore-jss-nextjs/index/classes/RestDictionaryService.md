@@ -121,7 +121,7 @@ implementation
 
 ### getCacheValue()
 
-> **getCacheValue**(`key`): `null` \| [`DictionaryPhrases`](../interfaces/DictionaryPhrases.md)
+> **getCacheValue**(`key`): [`DictionaryPhrases`](../interfaces/DictionaryPhrases.md) \| `null`
 
 Defined in: sitecore-jss/types/i18n/dictionary-service.d.ts:42
 
@@ -135,7 +135,7 @@ Retrieves a
 
 #### Returns
 
-`null` \| [`DictionaryPhrases`](../interfaces/DictionaryPhrases.md)
+[`DictionaryPhrases`](../interfaces/DictionaryPhrases.md) \| `null`
 
 The
 

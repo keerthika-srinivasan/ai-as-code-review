@@ -13,7 +13,7 @@ Defined in: packages/sitecore-jss/types/debug.d.ts:12
 Default Sitecore JSS 'debug' module debuggers. Uses namespace prefix 'sitecore-jss:'.
 See [https://www.npmjs.com/package/debug](https://www.npmjs.com/package/debug) for details.
 
-## Type declaration
+## Type Declaration
 
 ### common
 

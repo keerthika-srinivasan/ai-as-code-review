@@ -10,7 +10,7 @@
 
 Defined in: packages/sitecore-jss/types/constants.d.ts:9
 
-## Type declaration
+## Type Declaration
 
 ### CONNECTED
 

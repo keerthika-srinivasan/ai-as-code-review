@@ -6,7 +6,7 @@
 
 # Class: FileUpload
 
-Defined in: [src/components/field-templates/file-upload.tsx:8](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react-forms/src/components/field-templates/file-upload.tsx#L8)
+Defined in: [src/components/field-templates/file-upload.tsx:8](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-react-forms/src/components/field-templates/file-upload.tsx#L8)
 
 ## Extends
 
@@ -89,9 +89,9 @@ declare context: React.ContextType<typeof MyContext>
 
 ### fileInputRef
 
-> **fileInputRef**: `RefObject`\<`null` \| `HTMLInputElement`\>
+> **fileInputRef**: `RefObject`\<`HTMLInputElement` \| `null`\>
 
-Defined in: [src/components/field-templates/file-upload.tsx:9](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react-forms/src/components/field-templates/file-upload.tsx#L9)
+Defined in: [src/components/field-templates/file-upload.tsx:9](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-react-forms/src/components/field-templates/file-upload.tsx#L9)
 
 ***
 
@@ -111,7 +111,7 @@ Defined in: node\_modules/@types/react/index.d.ts:970
 
 > **SIZE\_UNITS**: `object`
 
-Defined in: [src/components/field-templates/file-upload.tsx:11](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react-forms/src/components/field-templates/file-upload.tsx#L11)
+Defined in: [src/components/field-templates/file-upload.tsx:11](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-react-forms/src/components/field-templates/file-upload.tsx#L11)
 
 #### Index Signature
 
@@ -230,7 +230,7 @@ Called immediately after a component is mounted. Setting state here will trigger
 
 > **componentDidUpdate**(`prevProps`): `void`
 
-Defined in: [src/components/field-templates/file-upload.tsx:18](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react-forms/src/components/field-templates/file-upload.tsx#L18)
+Defined in: [src/components/field-templates/file-upload.tsx:18](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-react-forms/src/components/field-templates/file-upload.tsx#L18)
 
 Called immediately after updating occurs. Not called for the initial render.
 
@@ -410,9 +410,9 @@ Defined in: node\_modules/@types/react/index.d.ts:967
 
 ### getEnabledValidation()
 
-> **getEnabledValidation**(`itemId`): `undefined` \| `ValidationDataModel`
+> **getEnabledValidation**(`itemId`): `ValidationDataModel` \| `undefined`
 
-Defined in: [src/components/field-templates/file-upload.tsx:24](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react-forms/src/components/field-templates/file-upload.tsx#L24)
+Defined in: [src/components/field-templates/file-upload.tsx:24](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-react-forms/src/components/field-templates/file-upload.tsx#L24)
 
 #### Parameters
 
@@ -422,7 +422,7 @@ Defined in: [src/components/field-templates/file-upload.tsx:24](https://github.c
 
 #### Returns
 
-`undefined` \| `ValidationDataModel`
+`ValidationDataModel` \| `undefined`
 
 ***
 
@@ -430,7 +430,7 @@ Defined in: [src/components/field-templates/file-upload.tsx:24](https://github.c
 
 > **getFileSizeUnitName**(`value`): `string`
 
-Defined in: [src/components/field-templates/file-upload.tsx:30](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react-forms/src/components/field-templates/file-upload.tsx#L30)
+Defined in: [src/components/field-templates/file-upload.tsx:30](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-react-forms/src/components/field-templates/file-upload.tsx#L30)
 
 #### Parameters
 
@@ -478,13 +478,13 @@ lifecycle events from running.
 
 > **onChangeField**(`files`, `field`, `cb`): `void`
 
-Defined in: [src/components/field-templates/file-upload.tsx:34](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react-forms/src/components/field-templates/file-upload.tsx#L34)
+Defined in: [src/components/field-templates/file-upload.tsx:34](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-react-forms/src/components/field-templates/file-upload.tsx#L34)
 
 #### Parameters
 
 | Parameter | Type |
 | ------ | ------ |
-| `files` | `null` \| `FileList` |
+| `files` | `FileList` \| `null` |
 | `field` | `ValueFormField`\<`FileInputViewModel`\> |
 | `cb` | [`FieldChangeCallback`](../type-aliases/FieldChangeCallback.md) |
 
@@ -498,7 +498,7 @@ Defined in: [src/components/field-templates/file-upload.tsx:34](https://github.c
 
 > **render**(): `Element`
 
-Defined in: [src/components/field-templates/file-upload.tsx:98](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-react-forms/src/components/field-templates/file-upload.tsx#L98)
+Defined in: [src/components/field-templates/file-upload.tsx:98](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-react-forms/src/components/field-templates/file-upload.tsx#L98)
 
 #### Returns
 
@@ -526,7 +526,7 @@ Defined in: node\_modules/@types/react/index.d.ts:962
 
 | Parameter | Type |
 | ------ | ------ |
-| `state` | `null` \| \{ \} \| (`prevState`, `props`) => `null` \| \{ \} \| `Pick`\<\{ \}, `K`\> \| `Pick`\<\{ \}, `K`\> |
+| `state` | \{ \} \| (`prevState`, `props`) => \{ \} \| `Pick`\<\{ \}, `K`\> \| `null` \| `Pick`\<\{ \}, `K`\> \| `null` |
 | `callback?` | () => `void` |
 
 #### Returns

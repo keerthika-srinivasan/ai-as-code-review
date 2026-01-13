@@ -20,13 +20,13 @@ Defined in: packages/sitecore-jss/types/layout/models.d.ts:105
 
 #### Index Signature
 
-\[`name`: `string`\]: `undefined` \| `string`
+\[`name`: `string`\]: `string` \| `undefined`
 
 ***
 
 ### contents
 
-> **contents**: `null` \| `string`
+> **contents**: `string` \| `null`
 
 Defined in: packages/sitecore-jss/types/layout/models.d.ts:104
 

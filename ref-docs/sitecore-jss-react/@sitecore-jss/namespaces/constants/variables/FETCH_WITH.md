@@ -10,7 +10,7 @@
 
 Defined in: packages/sitecore-jss/types/constants.d.ts:5
 
-## Type declaration
+## Type Declaration
 
 ### GRAPHQL
 

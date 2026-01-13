@@ -8,9 +8,9 @@
 
 > **MultisiteMiddlewareConfig** = `Omit`\<[`MiddlewareBaseConfig`](MiddlewareBaseConfig.md), `"disabled"`\> & `object`
 
-Defined in: [sitecore-jss-nextjs/src/middleware/multisite-middleware.ts:21](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-nextjs/src/middleware/multisite-middleware.ts#L21)
+Defined in: [sitecore-jss-nextjs/src/middleware/multisite-middleware.ts:21](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-nextjs/src/middleware/multisite-middleware.ts#L21)
 
-## Type declaration
+## Type Declaration
 
 ### useCookieResolution()?
 

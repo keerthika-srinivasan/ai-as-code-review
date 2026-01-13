@@ -6,7 +6,7 @@
 
 # Class: BaseJssState
 
-Defined in: [packages/sitecore-jss-angular/src/services/jss-state.service.ts:5](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-angular/src/services/jss-state.service.ts#L5)
+Defined in: [packages/sitecore-jss-angular/src/services/jss-state.service.ts:5](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-angular/src/services/jss-state.service.ts#L5)
 
 ## Constructors
 
@@ -24,13 +24,13 @@ Defined in: [packages/sitecore-jss-angular/src/services/jss-state.service.ts:5](
 
 > `optional` **sitecore**: [`LayoutServiceContextData`](../interfaces/LayoutServiceContextData.md) & `object`
 
-Defined in: [packages/sitecore-jss-angular/src/services/jss-state.service.ts:6](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-angular/src/services/jss-state.service.ts#L6)
+Defined in: [packages/sitecore-jss-angular/src/services/jss-state.service.ts:6](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-angular/src/services/jss-state.service.ts#L6)
 
-#### Type declaration
+#### Type Declaration
 
 ##### route
 
-> **route**: `null` \| [`RouteData`](../interfaces/RouteData.md)\<`Record`\<`string`, [`Field`](../interfaces/Field.md)\<`GenericFieldValue`\> \| `Item` \| `Item`[]\>\>
+> **route**: [`RouteData`](../interfaces/RouteData.md)\<`Record`\<`string`, [`Field`](../interfaces/Field.md)\<`GenericFieldValue`\> \| `Item` \| `Item`[]\>\> \| `null`
 
 ***
 
@@ -38,7 +38,7 @@ Defined in: [packages/sitecore-jss-angular/src/services/jss-state.service.ts:6](
 
 > `optional` **viewBag**: `object`
 
-Defined in: [packages/sitecore-jss-angular/src/services/jss-state.service.ts:9](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-angular/src/services/jss-state.service.ts#L9)
+Defined in: [packages/sitecore-jss-angular/src/services/jss-state.service.ts:9](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-angular/src/services/jss-state.service.ts#L9)
 
 #### Index Signature
 

@@ -8,7 +8,7 @@
 
 ## Call Signature
 
-> **getFieldValue**\<`T`\>(`renderingOrFields`, `fieldName`): `undefined` \| `T`
+> **getFieldValue**\<`T`\>(`renderingOrFields`, `fieldName`): `T` \| `undefined`
 
 Defined in: packages/sitecore-jss/types/layout/utils.d.ts:9
 
@@ -30,7 +30,7 @@ Null will be returned if the field is not defined.
 
 ### Returns
 
-`undefined` \| `T`
+`T` \| `undefined`
 
 the field value or null if the field is not defined
 

@@ -475,7 +475,7 @@ Defined in: sitecore-jss-react/node\_modules/@types/react/index.d.ts:962
 
 | Parameter | Type |
 | ------ | ------ |
-| `state` | `null` \| [`SitecoreContextState`](../interfaces/SitecoreContextState.md) \| (`prevState`, `props`) => `null` \| [`SitecoreContextState`](../interfaces/SitecoreContextState.md) \| `Pick`\<[`SitecoreContextState`](../interfaces/SitecoreContextState.md), `K`\> \| `Pick`\<[`SitecoreContextState`](../interfaces/SitecoreContextState.md), `K`\> |
+| `state` | [`SitecoreContextState`](../interfaces/SitecoreContextState.md) \| (`prevState`, `props`) => [`SitecoreContextState`](../interfaces/SitecoreContextState.md) \| `Pick`\<[`SitecoreContextState`](../interfaces/SitecoreContextState.md), `K`\> \| `null` \| `Pick`\<[`SitecoreContextState`](../interfaces/SitecoreContextState.md), `K`\> \| `null` |
 | `callback?` | () => `void` |
 
 #### Returns

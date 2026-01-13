@@ -56,7 +56,7 @@ Defined in: sitecore-jss/types/site/graphql-error-pages-service.d.ts:43
 
 ### fetchErrorPages()
 
-> **fetchErrorPages**(): `Promise`\<`null` \| [`ErrorPages`](../type-aliases/ErrorPages.md)\>
+> **fetchErrorPages**(): `Promise`\<[`ErrorPages`](../type-aliases/ErrorPages.md) \| `null`\>
 
 Defined in: sitecore-jss/types/site/graphql-error-pages-service.d.ts:49
 
@@ -64,7 +64,7 @@ Fetch list of error pages for the site
 
 #### Returns
 
-`Promise`\<`null` \| [`ErrorPages`](../type-aliases/ErrorPages.md)\>
+`Promise`\<[`ErrorPages`](../type-aliases/ErrorPages.md) \| `null`\>
 
 list of url's error pages
 

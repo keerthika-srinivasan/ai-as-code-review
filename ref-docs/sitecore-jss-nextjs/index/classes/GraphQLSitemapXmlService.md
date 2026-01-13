@@ -94,7 +94,7 @@ implementation
 
 ### getSitemap()
 
-> **getSitemap**(`id`): `Promise`\<`undefined` \| `string`\>
+> **getSitemap**(`id`): `Promise`\<`string` \| `undefined`\>
 
 Defined in: sitecore-jss/types/site/graphql-sitemap-service.d.ts:47
 
@@ -108,6 +108,6 @@ Get sitemap file path for sitemap id
 
 #### Returns
 
-`Promise`\<`undefined` \| `string`\>
+`Promise`\<`string` \| `undefined`\>
 
 the sitemap file path or undefined if one doesn't exist

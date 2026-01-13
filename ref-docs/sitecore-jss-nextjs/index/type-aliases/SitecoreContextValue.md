@@ -10,7 +10,7 @@
 
 Defined in: sitecore-jss-react/types/components/SitecoreContext.d.ts:36
 
-## Type declaration
+## Type Declaration
 
 ### itemId?
 

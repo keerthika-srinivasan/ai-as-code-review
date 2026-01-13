@@ -10,7 +10,7 @@
 
 Defined in: sitecore-jss/types/i18n/rest-dictionary-service.d.ts:10
 
-## Type declaration
+## Type Declaration
 
 ### apiHost
 

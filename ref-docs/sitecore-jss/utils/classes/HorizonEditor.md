@@ -6,7 +6,7 @@
 
 # Class: HorizonEditor
 
-Defined in: [packages/sitecore-jss/src/editing/utils.ts:90](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss/src/editing/utils.ts#L90)
+Defined in: [packages/sitecore-jss/src/editing/utils.ts:90](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss/src/editing/utils.ts#L90)
 
 Static utility class for Sitecore Pages Editor (ex-Horizon)
 
@@ -26,7 +26,7 @@ Static utility class for Sitecore Pages Editor (ex-Horizon)
 
 > `static` **isActive**(): `boolean`
 
-Defined in: [packages/sitecore-jss/src/editing/utils.ts:96](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss/src/editing/utils.ts#L96)
+Defined in: [packages/sitecore-jss/src/editing/utils.ts:96](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss/src/editing/utils.ts#L96)
 
 Determines whether the current execution context is within a Pages Editor.
 Pages Editor environment can be identified only in the browser
@@ -43,7 +43,7 @@ true if executing within a Pages Editor
 
 > `static` **resetChromes**(): `void`
 
-Defined in: [packages/sitecore-jss/src/editing/utils.ts:105](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss/src/editing/utils.ts#L105)
+Defined in: [packages/sitecore-jss/src/editing/utils.ts:105](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss/src/editing/utils.ts#L105)
 
 #### Returns
 

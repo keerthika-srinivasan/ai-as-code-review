@@ -6,7 +6,7 @@
 
 # Interface: PlaceholderData
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:159](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss/src/layout/models.ts#L159)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:159](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss/src/layout/models.ts#L159)
 
 Contents of a single placeholder returned from placeholder service
 
@@ -16,7 +16,7 @@ Contents of a single placeholder returned from placeholder service
 
 > **elements**: ([`ComponentRendering`](ComponentRendering.md)\<[`ComponentFields`](ComponentFields.md)\> \| [`HtmlElementRendering`](HtmlElementRendering.md))[]
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:162](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss/src/layout/models.ts#L162)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:162](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss/src/layout/models.ts#L162)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [packages/sitecore-jss/src/layout/models.ts:162](https://github.com/
 
 > **name**: `string`
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:160](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss/src/layout/models.ts#L160)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:160](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss/src/layout/models.ts#L160)
 
 ***
 
@@ -32,4 +32,4 @@ Defined in: [packages/sitecore-jss/src/layout/models.ts:160](https://github.com/
 
 > **path**: `string`
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:161](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss/src/layout/models.ts#L161)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:161](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss/src/layout/models.ts#L161)

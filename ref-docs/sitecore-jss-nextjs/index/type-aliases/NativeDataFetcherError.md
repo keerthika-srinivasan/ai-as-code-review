@@ -12,7 +12,7 @@ Defined in: sitecore-jss/types/native-fetcher.d.ts:33
 
 Native fetcher error type to include response text and status
 
-## Type declaration
+## Type Declaration
 
 ### response
 

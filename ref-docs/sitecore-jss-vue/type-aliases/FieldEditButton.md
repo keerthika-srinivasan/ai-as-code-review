@@ -10,7 +10,7 @@
 
 Defined in: packages/sitecore-jss/types/editing/edit-frame.d.ts:54
 
-## Type declaration
+## Type Declaration
 
 ### fields
 

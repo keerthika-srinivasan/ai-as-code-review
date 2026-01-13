@@ -6,9 +6,9 @@
 
 # Function: scaffoldFile()
 
-> **scaffoldFile**(`filePath`, `fileContent`): `null` \| `string`
+> **scaffoldFile**(`filePath`, `fileContent`): `string` \| `null`
 
-Defined in: [sitecore-jss-dev-tools/src/templating/scaffold.ts:22](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-dev-tools/src/templating/scaffold.ts#L22)
+Defined in: [sitecore-jss-dev-tools/src/templating/scaffold.ts:22](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-dev-tools/src/templating/scaffold.ts#L22)
 
 Creates a file relative to the specified path if the file doesn't exist.
 Creates directories as needed.
@@ -23,6 +23,6 @@ Does not overwrite existing files.
 
 ## Returns
 
-`null` \| `string`
+`string` \| `null`
 
 the file path if the file was created, otherwise null

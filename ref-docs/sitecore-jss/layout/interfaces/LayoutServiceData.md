@@ -6,7 +6,7 @@
 
 # Interface: LayoutServiceData
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:4](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss/src/layout/models.ts#L4)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:4](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss/src/layout/models.ts#L4)
 
 A reply from the Sitecore Layout Service
 
@@ -16,10 +16,10 @@ A reply from the Sitecore Layout Service
 
 > **sitecore**: [`LayoutServiceContextData`](LayoutServiceContextData.md) & `object`
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:5](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss/src/layout/models.ts#L5)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:5](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss/src/layout/models.ts#L5)
 
-#### Type declaration
+#### Type Declaration
 
 ##### route
 
-> **route**: `null` \| [`RouteData`](RouteData.md)\<`Record`\<`string`, [`Field`](Field.md)\<[`GenericFieldValue`](../type-aliases/GenericFieldValue.md)\> \| [`Item`](Item.md) \| [`Item`](Item.md)[]\>\>
+> **route**: [`RouteData`](RouteData.md)\<`Record`\<`string`, [`Field`](Field.md)\<[`GenericFieldValue`](../type-aliases/GenericFieldValue.md)\> \| [`Item`](Item.md) \| [`Item`](Item.md)[]\>\> \| `null`

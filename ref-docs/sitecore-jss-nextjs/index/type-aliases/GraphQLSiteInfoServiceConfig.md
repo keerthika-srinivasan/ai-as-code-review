@@ -10,7 +10,7 @@
 
 Defined in: sitecore-jss/types/site/graphql-siteinfo-service.d.ts:22
 
-## Type declaration
+## Type Declaration
 
 ### clientFactory
 

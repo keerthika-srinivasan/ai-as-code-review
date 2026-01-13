@@ -8,7 +8,7 @@
 
 > **getRequiredParams**(`qs`): `object`
 
-Defined in: [packages/sitecore-jss/src/media/media-api.ts:44](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss/src/media/media-api.ts#L44)
+Defined in: [packages/sitecore-jss/src/media/media-api.ts:44](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss/src/media/media-api.ts#L44)
 
 Get required query string params which should be merged with user params
 
@@ -16,7 +16,7 @@ Get required query string params which should be merged with user params
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `qs` | \{\[`key`: `string`\]: `undefined` \| `string`; \} | layout service parsed query string |
+| `qs` | \{\[`key`: `string`\]: `string` \| `undefined`; \} | layout service parsed query string |
 
 ## Returns
 
@@ -26,20 +26,20 @@ requiredParams
 
 ### db
 
-> **db**: `undefined` \| `string`
+> **db**: `string` \| `undefined`
 
 ### la
 
-> **la**: `undefined` \| `string`
+> **la**: `string` \| `undefined`
 
 ### rev
 
-> **rev**: `undefined` \| `string`
+> **rev**: `string` \| `undefined`
 
 ### ts
 
-> **ts**: `undefined` \| `string`
+> **ts**: `string` \| `undefined`
 
 ### vs
 
-> **vs**: `undefined` \| `string`
+> **vs**: `string` \| `undefined`

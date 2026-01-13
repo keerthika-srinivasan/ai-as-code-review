@@ -109,7 +109,7 @@ implementation
 
 ### getPersonalizeInfo()
 
-> **getPersonalizeInfo**(`itemPath`, `language`, `siteName`): `Promise`\<`undefined` \| [`PersonalizeInfo`](../type-aliases/PersonalizeInfo.md)\>
+> **getPersonalizeInfo**(`itemPath`, `language`, `siteName`): `Promise`\<[`PersonalizeInfo`](../type-aliases/PersonalizeInfo.md) \| `undefined`\>
 
 Defined in: packages/sitecore-jss/types/personalize/graphql-personalize-service.d.ts:64
 
@@ -125,6 +125,6 @@ Get personalize information for a route
 
 #### Returns
 
-`Promise`\<`undefined` \| [`PersonalizeInfo`](../type-aliases/PersonalizeInfo.md)\>
+`Promise`\<[`PersonalizeInfo`](../type-aliases/PersonalizeInfo.md) \| `undefined`\>
 
 the personalize information or undefined (if itemPath / language not found)

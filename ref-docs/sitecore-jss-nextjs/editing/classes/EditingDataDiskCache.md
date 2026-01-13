@@ -6,7 +6,7 @@
 
 # Class: EditingDataDiskCache
 
-Defined in: [sitecore-jss-nextjs/src/editing/editing-data-cache.ts:19](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-nextjs/src/editing/editing-data-cache.ts#L19)
+Defined in: [sitecore-jss-nextjs/src/editing/editing-data-cache.ts:19](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-nextjs/src/editing/editing-data-cache.ts#L19)
 
 A disk-based editing data cache implementation (required for hosting on Vercel via Serverless Functions)
 
@@ -24,7 +24,7 @@ EditingDataCache
 
 > **new EditingDataDiskCache**(`tmpDir?`): `EditingDataDiskCache`
 
-Defined in: [sitecore-jss-nextjs/src/editing/editing-data-cache.ts:25](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-nextjs/src/editing/editing-data-cache.ts#L25)
+Defined in: [sitecore-jss-nextjs/src/editing/editing-data-cache.ts:25](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-nextjs/src/editing/editing-data-cache.ts#L25)
 
 #### Parameters
 
@@ -40,9 +40,9 @@ Defined in: [sitecore-jss-nextjs/src/editing/editing-data-cache.ts:25](https://g
 
 ### get()
 
-> **get**(`key`): `Promise`\<`undefined` \| [`EditingData`](../type-aliases/EditingData.md)\>
+> **get**(`key`): `Promise`\<[`EditingData`](../type-aliases/EditingData.md) \| `undefined`\>
 
-Defined in: [sitecore-jss-nextjs/src/editing/editing-data-cache.ts:41](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-nextjs/src/editing/editing-data-cache.ts#L41)
+Defined in: [sitecore-jss-nextjs/src/editing/editing-data-cache.ts:41](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-nextjs/src/editing/editing-data-cache.ts#L41)
 
 #### Parameters
 
@@ -52,7 +52,7 @@ Defined in: [sitecore-jss-nextjs/src/editing/editing-data-cache.ts:41](https://g
 
 #### Returns
 
-`Promise`\<`undefined` \| [`EditingData`](../type-aliases/EditingData.md)\>
+`Promise`\<[`EditingData`](../type-aliases/EditingData.md) \| `undefined`\>
 
 #### Implementation of
 
@@ -64,7 +64,7 @@ Defined in: [sitecore-jss-nextjs/src/editing/editing-data-cache.ts:41](https://g
 
 > **set**(`key`, `editingData`): `Promise`\<`void`\>
 
-Defined in: [sitecore-jss-nextjs/src/editing/editing-data-cache.ts:30](https://github.com/Sitecore/jss/blob/693b130589f7c911470c93d7f19780d3661adb21/packages/sitecore-jss-nextjs/src/editing/editing-data-cache.ts#L30)
+Defined in: [sitecore-jss-nextjs/src/editing/editing-data-cache.ts:30](https://github.com/Sitecore/jss/blob/039b1693d6825bb88378b3c9bdf6a17b320037db/packages/sitecore-jss-nextjs/src/editing/editing-data-cache.ts#L30)
 
 #### Parameters
 

@@ -28,7 +28,7 @@ Defined in: sitecore-jss/types/layout/models.d.ts:137
 
 #### Index Signature
 
-\[`name`: `string`\]: `undefined` \| [`Field`](Field.md)\<`GenericFieldValue`\> \| `Item` \| `Item`[]
+\[`name`: `string`\]: [`Field`](Field.md)\<`GenericFieldValue`\> \| `Item` \| `Item`[] \| `undefined`
 
 ***
 

@@ -10,7 +10,7 @@ Defined in: sitecore-jss-react/types/components/Image.d.ts:13
 
 ## Indexable
 
-\[`attr`: `string`\]: `undefined` \| `string` \| `number`
+\[`attr`: `string`\]: `string` \| `number` \| `undefined`
 
 ## Properties
 

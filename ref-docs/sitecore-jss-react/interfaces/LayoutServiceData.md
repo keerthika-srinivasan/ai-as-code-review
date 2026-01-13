@@ -18,7 +18,7 @@ A reply from the Sitecore Layout Service
 
 Defined in: packages/sitecore-jss/types/layout/models.d.ts:5
 
-#### Type declaration
+#### Type Declaration
 
 ##### route
 

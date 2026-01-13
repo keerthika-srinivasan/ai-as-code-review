@@ -10,7 +10,7 @@
 
 Defined in: packages/sitecore-jss/types/personalize/graphql-personalize-service.d.ts:3
 
-## Type declaration
+## Type Declaration
 
 ### clientFactory
 
