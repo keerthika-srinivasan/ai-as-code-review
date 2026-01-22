@@ -8,7 +8,7 @@
 
 > **trackEvent**(`events`, `options`): `Promise`\<`void`\>
 
-Defined in: [packages/sitecore-jss/src/tracking/trackingApi.ts:62](https://github.com/Sitecore/jss/blob/61befa467bc44e7bd59eff68223718fd84afc854/packages/sitecore-jss/src/tracking/trackingApi.ts#L62)
+Defined in: [packages/sitecore-jss/src/tracking/trackingApi.ts:62](https://github.com/Sitecore/jss/blob/ad0d96920da18eab0e49d1e26f8b71babdc3fded/packages/sitecore-jss/src/tracking/trackingApi.ts#L62)
 
 Makes a request to Sitecore Layout Service for the specified route item path.
 

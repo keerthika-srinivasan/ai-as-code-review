@@ -6,7 +6,7 @@
 
 # Interface: EventInstance
 
-Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:13](https://github.com/Sitecore/jss/blob/61befa467bc44e7bd59eff68223718fd84afc854/packages/sitecore-jss/src/tracking/dataModels.ts#L13)
+Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:13](https://github.com/Sitecore/jss/blob/ad0d96920da18eab0e49d1e26f8b71babdc3fded/packages/sitecore-jss/src/tracking/dataModels.ts#L13)
 
 ## Indexable
 
@@ -18,6 +18,6 @@ Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:13](https://github
 
 > **eventId**: `string`
 
-Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:16](https://github.com/Sitecore/jss/blob/61befa467bc44e7bd59eff68223718fd84afc854/packages/sitecore-jss/src/tracking/dataModels.ts#L16)
+Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:16](https://github.com/Sitecore/jss/blob/ad0d96920da18eab0e49d1e26f8b71babdc3fded/packages/sitecore-jss/src/tracking/dataModels.ts#L16)
 
 GUID or alias (name) of event to trigger

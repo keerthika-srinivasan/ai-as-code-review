@@ -8,7 +8,7 @@
 
 > **FieldEditButton** = `BaseEditButton` & `object`
 
-Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:62](https://github.com/Sitecore/jss/blob/61befa467bc44e7bd59eff68223718fd84afc854/packages/sitecore-jss/src/editing/edit-frame.ts#L62)
+Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:62](https://github.com/Sitecore/jss/blob/ad0d96920da18eab0e49d1e26f8b71babdc3fded/packages/sitecore-jss/src/editing/edit-frame.ts#L62)
 
 ## Type Declaration
 
