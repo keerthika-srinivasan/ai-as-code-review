@@ -8,4 +8,4 @@
 
 > `const` **DYNAMIC\_COMPONENT**: `InjectionToken`\<`Type`\<`unknown`\> \| \{\[`s`: `string`\]: `unknown`; \}\>
 
-Defined in: [packages/sitecore-jss-angular/src/services/placeholder.token.ts:72](https://github.com/Sitecore/jss/blob/ad0d96920da18eab0e49d1e26f8b71babdc3fded/packages/sitecore-jss-angular/src/services/placeholder.token.ts#L72)
+Defined in: [packages/sitecore-jss-angular/src/services/placeholder.token.ts:72](https://github.com/Sitecore/jss/blob/716101f7bdc030290c16e0e7733572de58532c06/packages/sitecore-jss-angular/src/services/placeholder.token.ts#L72)

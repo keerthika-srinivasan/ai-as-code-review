@@ -8,7 +8,7 @@
 
 > **getMetadata**(): [`Metadata`](../interfaces/Metadata.md)
 
-Defined in: [sitecore-jss-dev-tools/src/templating/metadata.ts:14](https://github.com/Sitecore/jss/blob/ad0d96920da18eab0e49d1e26f8b71babdc3fded/packages/sitecore-jss-dev-tools/src/templating/metadata.ts#L14)
+Defined in: [sitecore-jss-dev-tools/src/templating/metadata.ts:14](https://github.com/Sitecore/jss/blob/716101f7bdc030290c16e0e7733572de58532c06/packages/sitecore-jss-dev-tools/src/templating/metadata.ts#L14)
 
 Get application metadata
 
