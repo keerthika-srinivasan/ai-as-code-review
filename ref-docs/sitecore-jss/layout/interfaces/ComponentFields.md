@@ -6,7 +6,7 @@
 
 # Interface: ComponentFields
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:85](https://github.com/Sitecore/jss/blob/d8e3ff7eb92a65beab0a11f406aedbebd5d8298a/packages/sitecore-jss/src/layout/models.ts#L85)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:85](https://github.com/Sitecore/jss/blob/1d5f1c4956b1bcbfaca9d06b252fe7ce8ce21abd/packages/sitecore-jss/src/layout/models.ts#L85)
 
 Content field data passed to a component
 
