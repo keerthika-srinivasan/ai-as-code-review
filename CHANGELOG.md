@@ -11,6 +11,11 @@ Our versioning strategy is as follows:
 
 ## Unreleased
 
+### 🎉 New Features & Improvements
+
+* Add AGENTS.md and CLAUDE.md for AI coding assistant guidance ([#2183](https://github.com/Sitecore/jss/pull/2183))
+* `[Angular]` `[Proxy]` Support Preview mode using Metadata ([#2174](https://github.com/Sitecore/jss/pull/2174))
+
 ### 🐛 Bug Fixes
 
 * `[sitecore-jss-nextjs]` Fix server transfer redirects ([#2173](https://github.com/Sitecore/jss/pull/2173))
