@@ -11,10 +11,6 @@ Our versioning strategy is as follows:
 
 ## Unreleased
 
-### 🎉 New Features & Improvements
-
-* `[Angular]` `[Proxy]` Support Preview mode using Metadata ([#2174](https://github.com/Sitecore/jss/pull/2174))
-
 ### 🐛 Bug Fixes
 
 * `[sitecore-jss-nextjs]` Fix server transfer redirects ([#2173](https://github.com/Sitecore/jss/pull/2173))
@@ -24,6 +20,12 @@ Our versioning strategy is as follows:
 
 * `[Next.js]` Upgrade to Next.js 16 ([#2177](https://github.com/Sitecore/jss/pull/2177))([#2179](https://github.com/Sitecore/jss/pull/2179))
 * Upgrade to Node.js 24 ([#2176](https://github.com/Sitecore/jss/pull/2176))
+
+## 22.11.0
+
+### 🎉 New Features & Improvements
+
+* `[Angular]` `[Proxy]` Support Preview mode using Metadata ([#2184](https://github.com/Sitecore/jss/pull/2184))
 
 ## 22.10.0
 
