@@ -8,7 +8,7 @@
 
 > **addRoute**(`manifest`, ...`routes`): `void`
 
-Defined in: [sitecore-jss-dev-tools/src/manifest/generator/manifest.babel-shim.ts:56](https://github.com/Sitecore/jss/blob/716101f7bdc030290c16e0e7733572de58532c06/packages/sitecore-jss-dev-tools/src/manifest/generator/manifest.babel-shim.ts#L56)
+Defined in: [sitecore-jss-dev-tools/src/manifest/generator/manifest.babel-shim.ts:56](https://github.com/Sitecore/jss/blob/3b1c49c8dcac885820d72ba51e79965041aaa966/packages/sitecore-jss-dev-tools/src/manifest/generator/manifest.babel-shim.ts#L56)
 
 ## Parameters
 

@@ -8,4 +8,4 @@
 
 > `const` **File**: `DefineComponent`\<`ExtractPropTypes`\<\{ `field`: \{ `required`: `true`; `type`: `PropType`\<`FileFieldValue` \| `FileField`\>; `default`: `FileFieldValue` \| `FileField`; \}; \}\>, \{ \}, \{ \}, \{ \}, \{ \}, `ComponentOptionsMixin`, `ComponentOptionsMixin`, \{ \}, `string`, `PublicProps`, `ToResolvedProps`\<`ExtractPropTypes`\<\{ `field`: \{ `required`: `true`; `type`: `PropType`\<`FileFieldValue` \| `FileField`\>; `default`: `FileFieldValue` \| `FileField`; \}; \}\>, \{ \}\>, \{ `field`: `FileFieldValue` \| `FileField`; \}, \{ \}, \{ \}, \{ \}, `string`, `ComponentProvideOptions`, `true`, \{ \}, `any`\>
 
-Defined in: [packages/sitecore-jss-vue/src/components/File.ts:14](https://github.com/Sitecore/jss/blob/716101f7bdc030290c16e0e7733572de58532c06/packages/sitecore-jss-vue/src/components/File.ts#L14)
+Defined in: [packages/sitecore-jss-vue/src/components/File.ts:14](https://github.com/Sitecore/jss/blob/3b1c49c8dcac885820d72ba51e79965041aaa966/packages/sitecore-jss-vue/src/components/File.ts#L14)

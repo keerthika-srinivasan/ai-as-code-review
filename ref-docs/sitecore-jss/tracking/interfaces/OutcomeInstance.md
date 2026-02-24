@@ -6,7 +6,7 @@
 
 # Interface: OutcomeInstance
 
-Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:19](https://github.com/Sitecore/jss/blob/716101f7bdc030290c16e0e7733572de58532c06/packages/sitecore-jss/src/tracking/dataModels.ts#L19)
+Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:19](https://github.com/Sitecore/jss/blob/3b1c49c8dcac885820d72ba51e79965041aaa966/packages/sitecore-jss/src/tracking/dataModels.ts#L19)
 
 ## Indexable
 
@@ -18,7 +18,7 @@ Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:19](https://github
 
 > `optional` **currencyCode**: `string`
 
-Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:24](https://github.com/Sitecore/jss/blob/716101f7bdc030290c16e0e7733572de58532c06/packages/sitecore-jss/src/tracking/dataModels.ts#L24)
+Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:24](https://github.com/Sitecore/jss/blob/3b1c49c8dcac885820d72ba51e79965041aaa966/packages/sitecore-jss/src/tracking/dataModels.ts#L24)
 
 Currency code of outcome monetary value
 
@@ -28,7 +28,7 @@ Currency code of outcome monetary value
 
 > `optional` **monetaryValue**: `number`
 
-Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:26](https://github.com/Sitecore/jss/blob/716101f7bdc030290c16e0e7733572de58532c06/packages/sitecore-jss/src/tracking/dataModels.ts#L26)
+Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:26](https://github.com/Sitecore/jss/blob/3b1c49c8dcac885820d72ba51e79965041aaa966/packages/sitecore-jss/src/tracking/dataModels.ts#L26)
 
 Revenue from outcome
 
@@ -38,6 +38,6 @@ Revenue from outcome
 
 > **outcomeId**: `string`
 
-Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:22](https://github.com/Sitecore/jss/blob/716101f7bdc030290c16e0e7733572de58532c06/packages/sitecore-jss/src/tracking/dataModels.ts#L22)
+Defined in: [packages/sitecore-jss/src/tracking/dataModels.ts:22](https://github.com/Sitecore/jss/blob/3b1c49c8dcac885820d72ba51e79965041aaa966/packages/sitecore-jss/src/tracking/dataModels.ts#L22)
 
 GUID or alias (name) of outcome to trigger

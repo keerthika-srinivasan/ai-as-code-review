@@ -8,7 +8,7 @@
 
 > `const` **PAGES\_EDITING\_MARKER**: `"jss-hrz-editing"` = `'jss-hrz-editing'`
 
-Defined in: [packages/sitecore-jss/src/editing/utils.ts:18](https://github.com/Sitecore/jss/blob/716101f7bdc030290c16e0e7733572de58532c06/packages/sitecore-jss/src/editing/utils.ts#L18)
+Defined in: [packages/sitecore-jss/src/editing/utils.ts:18](https://github.com/Sitecore/jss/blob/3b1c49c8dcac885820d72ba51e79965041aaa966/packages/sitecore-jss/src/editing/utils.ts#L18)
 
 ID to be used as a marker for a script rendered in XMC Pages
 Should identify app is in XM Cloud Pages editing mode
