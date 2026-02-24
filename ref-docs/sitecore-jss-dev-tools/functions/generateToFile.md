@@ -8,7 +8,7 @@
 
 > **generateToFile**(`config`): `Promise`\<[`ManifestInstance`](../interfaces/ManifestInstance.md)\>
 
-Defined in: [sitecore-jss-dev-tools/src/manifest/generator/generate.ts:215](https://github.com/Sitecore/jss/blob/3b1c49c8dcac885820d72ba51e79965041aaa966/packages/sitecore-jss-dev-tools/src/manifest/generator/generate.ts#L215)
+Defined in: [sitecore-jss-dev-tools/src/manifest/generator/generate.ts:215](https://github.com/Sitecore/jss/blob/d8e3ff7eb92a65beab0a11f406aedbebd5d8298a/packages/sitecore-jss-dev-tools/src/manifest/generator/generate.ts#L215)
 
 generates a JSON manifest and writes its contents to a directory. Media referenced in the manifest
 is also copied to the directory.

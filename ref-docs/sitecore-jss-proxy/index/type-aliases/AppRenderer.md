@@ -8,7 +8,7 @@
 
 > **AppRenderer** = (`callback`, `path`, `data`, `viewBag`) => `void`
 
-Defined in: [sitecore-jss-proxy/src/types/AppRenderer.ts:26](https://github.com/Sitecore/jss/blob/3b1c49c8dcac885820d72ba51e79965041aaa966/packages/sitecore-jss-proxy/src/types/AppRenderer.ts#L26)
+Defined in: [sitecore-jss-proxy/src/types/AppRenderer.ts:26](https://github.com/Sitecore/jss/blob/d8e3ff7eb92a65beab0a11f406aedbebd5d8298a/packages/sitecore-jss-proxy/src/types/AppRenderer.ts#L26)
 
 AppRenderer is a function that renders a JSS app's markup for a given route and data.
 

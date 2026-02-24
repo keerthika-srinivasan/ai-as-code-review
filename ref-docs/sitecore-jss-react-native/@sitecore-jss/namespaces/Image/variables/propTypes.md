@@ -8,4 +8,4 @@
 
 > **propTypes**: `WeakValidationMap`\<`ImageProps`\>
 
-Defined in: [sitecore-jss-react-native/src/components/Image.tsx:133](https://github.com/Sitecore/jss/blob/3b1c49c8dcac885820d72ba51e79965041aaa966/packages/sitecore-jss-react-native/src/components/Image.tsx#L133)
+Defined in: [sitecore-jss-react-native/src/components/Image.tsx:133](https://github.com/Sitecore/jss/blob/d8e3ff7eb92a65beab0a11f406aedbebd5d8298a/packages/sitecore-jss-react-native/src/components/Image.tsx#L133)
