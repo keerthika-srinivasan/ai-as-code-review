@@ -6,7 +6,7 @@
 
 # Interface: HtmlElementRendering
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:111](https://github.com/Sitecore/jss/blob/1d5f1c4956b1bcbfaca9d06b252fe7ce8ce21abd/packages/sitecore-jss/src/layout/models.ts#L111)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:111](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss/src/layout/models.ts#L111)
 
 HTML content used to support Sitecore Experience Editor
 
@@ -16,7 +16,7 @@ HTML content used to support Sitecore Experience Editor
 
 > **attributes**: `object`
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:115](https://github.com/Sitecore/jss/blob/1d5f1c4956b1bcbfaca9d06b252fe7ce8ce21abd/packages/sitecore-jss/src/layout/models.ts#L115)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:115](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss/src/layout/models.ts#L115)
 
 #### Index Signature
 
@@ -28,7 +28,7 @@ Defined in: [packages/sitecore-jss/src/layout/models.ts:115](https://github.com/
 
 > **contents**: `string` \| `null`
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:114](https://github.com/Sitecore/jss/blob/1d5f1c4956b1bcbfaca9d06b252fe7ce8ce21abd/packages/sitecore-jss/src/layout/models.ts#L114)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:114](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss/src/layout/models.ts#L114)
 
 ***
 
@@ -36,7 +36,7 @@ Defined in: [packages/sitecore-jss/src/layout/models.ts:114](https://github.com/
 
 > **name**: `string`
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:112](https://github.com/Sitecore/jss/blob/1d5f1c4956b1bcbfaca9d06b252fe7ce8ce21abd/packages/sitecore-jss/src/layout/models.ts#L112)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:112](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss/src/layout/models.ts#L112)
 
 ***
 
@@ -44,4 +44,4 @@ Defined in: [packages/sitecore-jss/src/layout/models.ts:112](https://github.com/
 
 > `optional` **type**: `string`
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:113](https://github.com/Sitecore/jss/blob/1d5f1c4956b1bcbfaca9d06b252fe7ce8ce21abd/packages/sitecore-jss/src/layout/models.ts#L113)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:113](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss/src/layout/models.ts#L113)

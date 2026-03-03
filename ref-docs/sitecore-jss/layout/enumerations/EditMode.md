@@ -6,7 +6,7 @@
 
 # Enumeration: EditMode
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:25](https://github.com/Sitecore/jss/blob/1d5f1c4956b1bcbfaca9d06b252fe7ce8ce21abd/packages/sitecore-jss/src/layout/models.ts#L25)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:25](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss/src/layout/models.ts#L25)
 
 Represents the possible modes for rendering content in Sitecore Editor
 - chromes - supported by Sitecore Experience Editor / Pages
@@ -18,7 +18,7 @@ Represents the possible modes for rendering content in Sitecore Editor
 
 > **Chromes**: `"chromes"`
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:26](https://github.com/Sitecore/jss/blob/1d5f1c4956b1bcbfaca9d06b252fe7ce8ce21abd/packages/sitecore-jss/src/layout/models.ts#L26)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:26](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss/src/layout/models.ts#L26)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [packages/sitecore-jss/src/layout/models.ts:26](https://github.com/S
 
 > **Metadata**: `"metadata"`
 
-Defined in: [packages/sitecore-jss/src/layout/models.ts:27](https://github.com/Sitecore/jss/blob/1d5f1c4956b1bcbfaca9d06b252fe7ce8ce21abd/packages/sitecore-jss/src/layout/models.ts#L27)
+Defined in: [packages/sitecore-jss/src/layout/models.ts:27](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss/src/layout/models.ts#L27)

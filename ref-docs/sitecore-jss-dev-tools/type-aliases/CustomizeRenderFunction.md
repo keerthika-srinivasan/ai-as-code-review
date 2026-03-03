@@ -8,7 +8,7 @@
 
 > **CustomizeRenderFunction** = (`transformedRendering`, `rawRendering`, `currentManifest`, `request?`, `response?`) => `any`
 
-Defined in: [sitecore-jss-dev-tools/src/disconnected-server/DisconnectedLayoutServiceOptions.ts:5](https://github.com/Sitecore/jss/blob/1d5f1c4956b1bcbfaca9d06b252fe7ce8ce21abd/packages/sitecore-jss-dev-tools/src/disconnected-server/DisconnectedLayoutServiceOptions.ts#L5)
+Defined in: [sitecore-jss-dev-tools/src/disconnected-server/DisconnectedLayoutServiceOptions.ts:5](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-dev-tools/src/disconnected-server/DisconnectedLayoutServiceOptions.ts#L5)
 
 ## Parameters
 

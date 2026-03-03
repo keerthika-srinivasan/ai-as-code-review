@@ -6,7 +6,7 @@
 
 # Interface: ExecutablePipeline
 
-Defined in: [sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts:32](https://github.com/Sitecore/jss/blob/1d5f1c4956b1bcbfaca9d06b252fe7ce8ce21abd/packages/sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts#L32)
+Defined in: [sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts:32](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts#L32)
 
 ## Extended by
 
@@ -18,7 +18,7 @@ Defined in: [sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts:32](https:/
 
 > **args**: `any`
 
-Defined in: [sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts:40](https://github.com/Sitecore/jss/blob/1d5f1c4956b1bcbfaca9d06b252fe7ce8ce21abd/packages/sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts#L40)
+Defined in: [sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts:40](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts#L40)
 
 Base args object for the pipeline.
 
@@ -28,7 +28,7 @@ Base args object for the pipeline.
 
 > **name**: `string`
 
-Defined in: [sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts:36](https://github.com/Sitecore/jss/blob/1d5f1c4956b1bcbfaca9d06b252fe7ce8ce21abd/packages/sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts#L36)
+Defined in: [sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts:36](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts#L36)
 
 name of the pipeline
 
@@ -38,7 +38,7 @@ name of the pipeline
 
 > **processors**: () => [`Processor`](Processor.md)[]
 
-Defined in: [sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts:44](https://github.com/Sitecore/jss/blob/1d5f1c4956b1bcbfaca9d06b252fe7ce8ce21abd/packages/sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts#L44)
+Defined in: [sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts:44](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-dev-tools/src/pipelines/pipelineFactory.ts#L44)
 
 the processors for the pipeline
 

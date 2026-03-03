@@ -8,7 +8,7 @@
 
 > **runPipelineWithCompilers**(`compilers`): (`pipeline`) => `Promise`\<`any`\>
 
-Defined in: [sitecore-jss-dev-tools/src/pipelines/pipeline.ts:118](https://github.com/Sitecore/jss/blob/1d5f1c4956b1bcbfaca9d06b252fe7ce8ce21abd/packages/sitecore-jss-dev-tools/src/pipelines/pipeline.ts#L118)
+Defined in: [sitecore-jss-dev-tools/src/pipelines/pipeline.ts:118](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-dev-tools/src/pipelines/pipeline.ts#L118)
 
 Run a pipeline, loading specified compilers first
 
