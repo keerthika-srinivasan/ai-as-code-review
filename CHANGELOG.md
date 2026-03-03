@@ -25,6 +25,8 @@ Our versioning strategy is as follows:
 
 * `[Next.js]` Upgrade to Next.js 16 ([#2177](https://github.com/Sitecore/jss/pull/2177))([#2179](https://github.com/Sitecore/jss/pull/2179))
 * Upgrade to Node.js 24 ([#2176](https://github.com/Sitecore/jss/pull/2176))
+* `[sitecore-jss-react]` Placeholder suspense causes longer JavaScript Scripting execution time ([#2185](https://github.com/Sitecore/jss/pull/2185))
+  * The default value of `disableSuspense` property is set to `true` to avoid forcing Suspense usage across all components which could negatively impact performance metrics. Suspense can now be enabled explicitly when needed.
 
 ## 22.11.0
 
