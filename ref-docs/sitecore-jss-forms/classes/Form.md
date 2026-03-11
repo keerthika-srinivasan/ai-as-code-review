@@ -6,7 +6,7 @@
 
 # Class: Form
 
-Defined in: [src/components/form.tsx:65](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-react-forms/src/components/form.tsx#L65)
+Defined in: [src/components/form.tsx:65](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss-react-forms/src/components/form.tsx#L65)
 
 ## Extends
 
@@ -18,7 +18,7 @@ Defined in: [src/components/form.tsx:65](https://github.com/Sitecore/jss/blob/3d
 
 > **new Form**(`props`): `Form`
 
-Defined in: [src/components/form.tsx:68](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-react-forms/src/components/form.tsx#L68)
+Defined in: [src/components/form.tsx:68](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss-react-forms/src/components/form.tsx#L68)
 
 #### Parameters
 
@@ -40,7 +40,7 @@ Defined in: [src/components/form.tsx:68](https://github.com/Sitecore/jss/blob/3d
 
 > **context**: `unknown`
 
-Defined in: node\_modules/@types/react/index.d.ts:946
+Defined in: node\_modules/@types/react/index.d.ts:955
 
 If using React Context, re-declare this in your class to be the
 `React.ContextType` of your `static contextType`.
@@ -70,7 +70,7 @@ declare context: React.ContextType<typeof MyContext>
 
 > `readonly` **props**: `Readonly`\<`P`\>
 
-Defined in: node\_modules/@types/react/index.d.ts:970
+Defined in: node\_modules/@types/react/index.d.ts:979
 
 #### Inherited from
 
@@ -82,7 +82,7 @@ Defined in: node\_modules/@types/react/index.d.ts:970
 
 > **state**: `Readonly`\<`S`\>
 
-Defined in: node\_modules/@types/react/index.d.ts:971
+Defined in: node\_modules/@types/react/index.d.ts:980
 
 #### Inherited from
 
@@ -94,7 +94,7 @@ Defined in: node\_modules/@types/react/index.d.ts:971
 
 > `static` `optional` **contextType**: `Context`\<`any`\>
 
-Defined in: node\_modules/@types/react/index.d.ts:922
+Defined in: node\_modules/@types/react/index.d.ts:931
 
 If set, `this.context` will be set at runtime to the current value of the given Context.
 
@@ -127,7 +127,7 @@ class Foo extends React.Component {
 
 > `static` `optional` **propTypes**: `any`
 
-Defined in: node\_modules/@types/react/index.d.ts:928
+Defined in: node\_modules/@types/react/index.d.ts:937
 
 Ignored by React.
 
@@ -145,7 +145,7 @@ Only kept in types for backwards compatibility. Will be removed in a future majo
 
 > **collectCurrentFieldValues**(): `object`[]
 
-Defined in: [src/components/form.tsx:336](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-react-forms/src/components/form.tsx#L336)
+Defined in: [src/components/form.tsx:336](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss-react-forms/src/components/form.tsx#L336)
 
 #### Returns
 
@@ -157,7 +157,7 @@ Defined in: [src/components/form.tsx:336](https://github.com/Sitecore/jss/blob/3
 
 > `optional` **componentDidCatch**(`error`, `errorInfo`): `void`
 
-Defined in: node\_modules/@types/react/index.d.ts:1210
+Defined in: node\_modules/@types/react/index.d.ts:1219
 
 Catches exceptions generated in descendant components. Unhandled exceptions will cause
 the entire component tree to unmount.
@@ -183,7 +183,7 @@ the entire component tree to unmount.
 
 > `optional` **componentDidMount**(): `void`
 
-Defined in: node\_modules/@types/react/index.d.ts:1189
+Defined in: node\_modules/@types/react/index.d.ts:1198
 
 Called immediately after a component is mounted. Setting state here will trigger re-rendering.
 
@@ -201,7 +201,7 @@ Called immediately after a component is mounted. Setting state here will trigger
 
 > `optional` **componentDidUpdate**(`prevProps`, `prevState`, `snapshot?`): `void`
 
-Defined in: node\_modules/@types/react/index.d.ts:1252
+Defined in: node\_modules/@types/react/index.d.ts:1261
 
 Called immediately after updating occurs. Not called for the initial render.
 
@@ -229,7 +229,7 @@ The snapshot is only present if [getSnapshotBeforeUpdate](#getsnapshotbeforeupda
 
 > `optional` **componentWillMount**(): `void`
 
-Defined in: node\_modules/@types/react/index.d.ts:1268
+Defined in: node\_modules/@types/react/index.d.ts:1277
 
 Called immediately before mounting occurs, and before Component.render.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -261,7 +261,7 @@ this from being invoked.
 
 > `optional` **componentWillReceiveProps**(`nextProps`, `nextContext`): `void`
 
-Defined in: node\_modules/@types/react/index.d.ts:1299
+Defined in: node\_modules/@types/react/index.d.ts:1308
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -303,7 +303,7 @@ this from being invoked.
 
 > `optional` **componentWillUnmount**(): `void`
 
-Defined in: node\_modules/@types/react/index.d.ts:1205
+Defined in: node\_modules/@types/react/index.d.ts:1214
 
 Called immediately before a component is destroyed. Perform any necessary cleanup in this method, such as
 cancelled network requests, or cleaning up any DOM elements created in `componentDidMount`.
@@ -322,7 +322,7 @@ cancelled network requests, or cleaning up any DOM elements created in `componen
 
 > `optional` **componentWillUpdate**(`nextProps`, `nextState`, `nextContext`): `void`
 
-Defined in: node\_modules/@types/react/index.d.ts:1331
+Defined in: node\_modules/@types/react/index.d.ts:1340
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 
@@ -363,7 +363,7 @@ this from being invoked.
 
 > **createFieldComponent**(`field`): `ReactNode`
 
-Defined in: [src/components/form.tsx:143](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-react-forms/src/components/form.tsx#L143)
+Defined in: [src/components/form.tsx:143](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss-react-forms/src/components/form.tsx#L143)
 
 Creates a field component to render a field based on the form schema data
 
@@ -371,7 +371,7 @@ Creates a field component to render a field based on the form schema data
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `field` | `FormField` |  |
+| `field` | `FormField` | - |
 
 #### Returns
 
@@ -385,7 +385,7 @@ field component
 
 > **forceUpdate**(`callback?`): `void`
 
-Defined in: node\_modules/@types/react/index.d.ts:967
+Defined in: node\_modules/@types/react/index.d.ts:976
 
 #### Parameters
 
@@ -407,7 +407,7 @@ Defined in: node\_modules/@types/react/index.d.ts:967
 
 > **getCurrentFieldState**(`field`): `FieldState` \| `null`
 
-Defined in: [src/components/form.tsx:175](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-react-forms/src/components/form.tsx#L175)
+Defined in: [src/components/form.tsx:175](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss-react-forms/src/components/form.tsx#L175)
 
 Acquires the current form field state for a single field.
 This state can come from two possible sources:
@@ -419,7 +419,7 @@ The field state includes both current value as well as current validity.
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `field` | `FormField` |  |
+| `field` | `FormField` | - |
 
 #### Returns
 
@@ -433,7 +433,7 @@ field state
 
 > `optional` **getSnapshotBeforeUpdate**(`prevProps`, `prevState`): `any`
 
-Defined in: node\_modules/@types/react/index.d.ts:1246
+Defined in: node\_modules/@types/react/index.d.ts:1255
 
 Runs before React applies the result of Component.render render to the document, and
 returns an object to be given to [componentDidUpdate](#componentdidupdate). Useful for saving
@@ -463,7 +463,7 @@ lifecycle events from running.
 
 > **onButtonClick**(`buttonName`): `void`
 
-Defined in: [src/components/form.tsx:219](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-react-forms/src/components/form.tsx#L219)
+Defined in: [src/components/form.tsx:219](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss-react-forms/src/components/form.tsx#L219)
 
 Handler triggered by child components that informs us which button triggered a submit.
 This is important for multistep forms to disambiguate between back and next/submit buttons.
@@ -472,7 +472,7 @@ This is important for multistep forms to disambiguate between back and next/subm
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `buttonName` | `string` |  |
+| `buttonName` | `string` | - |
 
 #### Returns
 
@@ -484,7 +484,7 @@ This is important for multistep forms to disambiguate between back and next/subm
 
 > **onFieldChange**(`key`, `value`, `isValid`, `errors`): `void`
 
-Defined in: [src/components/form.tsx:231](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-react-forms/src/components/form.tsx#L231)
+Defined in: [src/components/form.tsx:231](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss-react-forms/src/components/form.tsx#L231)
 
 Handler triggered by child components that updates a given field's current value
 (which we then push back down to the child via prop)
@@ -508,7 +508,7 @@ Handler triggered by child components that updates a given field's current value
 
 > **onSubmit**(`e`): `void`
 
-Defined in: [src/components/form.tsx:247](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-react-forms/src/components/form.tsx#L247)
+Defined in: [src/components/form.tsx:247](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss-react-forms/src/components/form.tsx#L247)
 
 Handler triggered when the form is submitted. May transition its state between
 steps in a multistep form or handle a final submit.
@@ -517,7 +517,7 @@ steps in a multistep form or handle a final submit.
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `e` | `FormEvent` |  |
+| `e` | `FormEvent` | - |
 
 #### Returns
 
@@ -529,7 +529,7 @@ steps in a multistep form or handle a final submit.
 
 > **render**(): `Element`
 
-Defined in: [src/components/form.tsx:90](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-react-forms/src/components/form.tsx#L90)
+Defined in: [src/components/form.tsx:90](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss-react-forms/src/components/form.tsx#L90)
 
 #### Returns
 
@@ -545,7 +545,7 @@ Defined in: [src/components/form.tsx:90](https://github.com/Sitecore/jss/blob/3d
 
 > **resetFieldsState**(): `void`
 
-Defined in: [src/components/form.tsx:349](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-react-forms/src/components/form.tsx#L349)
+Defined in: [src/components/form.tsx:349](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss-react-forms/src/components/form.tsx#L349)
 
 Removes the current fields' mutated state from this.state,
 which prevents validation issues and mutable field state from following us
@@ -561,7 +561,7 @@ across steps in a multistep form.
 
 > **setState**\<`K`\>(`state`, `callback?`): `void`
 
-Defined in: node\_modules/@types/react/index.d.ts:962
+Defined in: node\_modules/@types/react/index.d.ts:971
 
 #### Type Parameters
 
@@ -590,7 +590,7 @@ Defined in: node\_modules/@types/react/index.d.ts:962
 
 > `optional` **shouldComponentUpdate**(`nextProps`, `nextState`, `nextContext`): `boolean`
 
-Defined in: node\_modules/@types/react/index.d.ts:1200
+Defined in: node\_modules/@types/react/index.d.ts:1209
 
 Called to determine whether the change in props and state should trigger a re-render.
 
@@ -623,7 +623,7 @@ and `componentDidUpdate` will not be called.
 
 > `optional` **UNSAFE\_componentWillMount**(): `void`
 
-Defined in: node\_modules/@types/react/index.d.ts:1283
+Defined in: node\_modules/@types/react/index.d.ts:1292
 
 Called immediately before mounting occurs, and before Component.render.
 Avoid introducing any side-effects or subscriptions in this method.
@@ -657,7 +657,7 @@ this from being invoked.
 
 > `optional` **UNSAFE\_componentWillReceiveProps**(`nextProps`, `nextContext`): `void`
 
-Defined in: node\_modules/@types/react/index.d.ts:1317
+Defined in: node\_modules/@types/react/index.d.ts:1326
 
 Called when the component may be receiving new props.
 React may call this even if props have not changed, so be sure to compare new and existing
@@ -701,7 +701,7 @@ this from being invoked.
 
 > `optional` **UNSAFE\_componentWillUpdate**(`nextProps`, `nextState`, `nextContext`): `void`
 
-Defined in: node\_modules/@types/react/index.d.ts:1347
+Defined in: node\_modules/@types/react/index.d.ts:1356
 
 Called immediately before rendering when new props or state is received. Not called for the initial render.
 

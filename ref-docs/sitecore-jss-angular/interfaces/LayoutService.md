@@ -22,8 +22,8 @@ Fetch layout data for an item.
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `itemPath` | `string` |  |
-| `language?` | `string` |  |
+| `itemPath` | `string` | - |
+| `language?` | `string` | - |
 | `req?` | `IncomingMessage` | Request instance |
 | `res?` | `ServerResponse`\<`IncomingMessage`\> | Response instance |
 

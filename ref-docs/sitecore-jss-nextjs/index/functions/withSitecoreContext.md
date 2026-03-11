@@ -14,7 +14,7 @@ Defined in: sitecore-jss-react/types/enhancers/withSitecoreContext.d.ts:17
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `options?` | [`WithSitecoreContextOptions`](../interfaces/WithSitecoreContextOptions.md) |  |
+| `options?` | [`WithSitecoreContextOptions`](../interfaces/WithSitecoreContextOptions.md) | - |
 
 ## Returns
 

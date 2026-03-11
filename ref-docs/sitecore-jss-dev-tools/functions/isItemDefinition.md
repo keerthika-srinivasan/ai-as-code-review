@@ -8,13 +8,13 @@
 
 > **isItemDefinition**(`obj`): `obj is ItemDefinition`
 
-Defined in: [sitecore-jss-dev-tools/src/manifest/generator/manifest.types.ts:369](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-dev-tools/src/manifest/generator/manifest.types.ts#L369)
+Defined in: [sitecore-jss-dev-tools/src/manifest/generator/manifest.types.ts:369](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss-dev-tools/src/manifest/generator/manifest.types.ts#L369)
 
 ## Parameters
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `obj` | [`ItemDefinition`](../interfaces/ItemDefinition.md) \| [`ItemReference`](../interfaces/ItemReference.md) |  |
+| `obj` | [`ItemDefinition`](../interfaces/ItemDefinition.md) \| [`ItemReference`](../interfaces/ItemReference.md) | - |
 
 ## Returns
 

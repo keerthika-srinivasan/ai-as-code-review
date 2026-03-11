@@ -8,4 +8,4 @@
 
 > `const` **RadioButtonList**: `React.FunctionComponent`\<[`ListFieldProps`](../type-aliases/ListFieldProps.md)\>
 
-Defined in: [src/components/field-templates/radio-button-list.tsx:7](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-react-forms/src/components/field-templates/radio-button-list.tsx#L7)
+Defined in: [src/components/field-templates/radio-button-list.tsx:7](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss-react-forms/src/components/field-templates/radio-button-list.tsx#L7)

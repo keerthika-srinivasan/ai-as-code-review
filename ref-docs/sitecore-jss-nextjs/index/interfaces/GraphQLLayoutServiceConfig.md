@@ -37,9 +37,9 @@ Override default layout query
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `siteName` | `string` |  |
-| `itemPath` | `string` |  |
-| `locale?` | `string` |  |
+| `siteName` | `string` | - |
+| `itemPath` | `string` | - |
+| `locale?` | `string` | - |
 
 #### Returns
 

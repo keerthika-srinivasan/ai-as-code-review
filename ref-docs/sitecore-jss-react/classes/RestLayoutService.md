@@ -249,7 +249,7 @@ Setup response headers based on response from layout service
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
 | `res` | `ServerResponse` | Response instance |
-| `serverRes` | [`NativeDataFetcherResponse`](../interfaces/NativeDataFetcherResponse.md)\<`T`\> |  |
+| `serverRes` | [`NativeDataFetcherResponse`](../interfaces/NativeDataFetcherResponse.md)\<`T`\> | - |
 
 #### Returns
 

@@ -16,7 +16,7 @@ Checks whether a Sitecore datasource is present and renders appropriately depend
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `options?` | `WithDatasourceCheckOptions` |  |
+| `options?` | `WithDatasourceCheckOptions` | - |
 
 ## Returns
 

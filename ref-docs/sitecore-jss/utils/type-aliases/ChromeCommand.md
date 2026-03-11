@@ -8,7 +8,7 @@
 
 > **ChromeCommand** = `object`
 
-Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:2](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss/src/editing/edit-frame.ts#L2)
+Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:2](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss/src/editing/edit-frame.ts#L2)
 
 ## Properties
 
@@ -16,7 +16,7 @@ Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:2](https://github.c
 
 > **click**: `string`
 
-Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:4](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss/src/editing/edit-frame.ts#L4)
+Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:4](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss/src/editing/edit-frame.ts#L4)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:4](https://github.c
 
 > **header**: `string`
 
-Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:5](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss/src/editing/edit-frame.ts#L5)
+Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:5](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss/src/editing/edit-frame.ts#L5)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:5](https://github.c
 
 > **icon**: `string`
 
-Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:6](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss/src/editing/edit-frame.ts#L6)
+Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:6](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss/src/editing/edit-frame.ts#L6)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:6](https://github.c
 
 > **isDivider**: `boolean`
 
-Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:3](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss/src/editing/edit-frame.ts#L3)
+Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:3](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss/src/editing/edit-frame.ts#L3)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:3](https://github.c
 
 > **tooltip**: `string` \| `null`
 
-Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:7](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss/src/editing/edit-frame.ts#L7)
+Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:7](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss/src/editing/edit-frame.ts#L7)
 
 ***
 
@@ -56,4 +56,4 @@ Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:7](https://github.c
 
 > **type**: `string` \| `null`
 
-Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:8](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss/src/editing/edit-frame.ts#L8)
+Defined in: [packages/sitecore-jss/src/editing/edit-frame.ts:8](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss/src/editing/edit-frame.ts#L8)

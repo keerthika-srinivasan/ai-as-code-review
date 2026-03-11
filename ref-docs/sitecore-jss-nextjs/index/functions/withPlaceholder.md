@@ -14,8 +14,8 @@ Defined in: sitecore-jss-react/types/enhancers/withPlaceholder.d.ts:35
 
 | Parameter | Type | Description |
 | ------ | ------ | ------ |
-| `placeholders` | `WithPlaceholderSpec` |  |
-| `options?` | `WithPlaceholderOptions` |  |
+| `placeholders` | `WithPlaceholderSpec` | - |
+| `options?` | `WithPlaceholderOptions` | - |
 
 ## Returns
 

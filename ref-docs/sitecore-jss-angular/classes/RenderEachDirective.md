@@ -6,7 +6,7 @@
 
 # Class: RenderEachDirective
 
-Defined in: [packages/sitecore-jss-angular/src/components/render-each.directive.ts:6](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-angular/src/components/render-each.directive.ts#L6)
+Defined in: [packages/sitecore-jss-angular/src/components/render-each.directive.ts:6](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss-angular/src/components/render-each.directive.ts#L6)
 
 ## Constructors
 
@@ -24,4 +24,4 @@ Defined in: [packages/sitecore-jss-angular/src/components/render-each.directive.
 
 > **templateRef**: `TemplateRef`\<`any`\>
 
-Defined in: [packages/sitecore-jss-angular/src/components/render-each.directive.ts:7](https://github.com/Sitecore/jss/blob/3d1eb6791e1ddcfba04068feac1a31cba7f5cdff/packages/sitecore-jss-angular/src/components/render-each.directive.ts#L7)
+Defined in: [packages/sitecore-jss-angular/src/components/render-each.directive.ts:7](https://github.com/Sitecore/jss/blob/586d401c8ba2821570207bd46b147db24e73d8aa/packages/sitecore-jss-angular/src/components/render-each.directive.ts#L7)
