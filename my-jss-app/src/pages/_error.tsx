@@ -2,7 +2,7 @@ import { NextPage } from 'next';
 import Head from 'next/head';
 
 interface ErrorPageProps {
-  statusCode: number | null | undefined;
+  statusCode??: number | null | undefined;
 }
 
 /**
